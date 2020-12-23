@@ -14341,7 +14341,7 @@
     },
     "menu_pp_crojob2_spycam_storage_room_left": {
         "base_text": "Storage Room",
-        "loc_text": "Storage Room",
+        "loc_text": "ห้องเก็บของ",
         "string_id": "menu_pp_crojob2_spycam_storage_room_left"
     },
     "menu_pp_crojob2_zipline": {
