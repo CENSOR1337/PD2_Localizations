@@ -666,22 +666,22 @@
     },
     "hud_action_calling_captain": {
         "base_text": "Calling captain",
-        "loc_text": "Calling captain",
+        "loc_text": "กำลังเรียกกัปตัน",
         "string_id": "hud_action_calling_captain"
     },
     "hud_action_cas_checking_customer_database": {
         "base_text": "Downloading the guest list",
-        "loc_text": "Downloading the guest list",
+        "loc_text": "กำลังดาว์นโหลดรายชื่อแขก",
         "string_id": "hud_action_cas_checking_customer_database"
     },
     "hud_action_cas_igniting_fireworks": {
         "base_text": "Igniting the fireworks",
-        "loc_text": "Igniting the fireworks",
+        "loc_text": "กำลังจุดดอกไม้ไฟ",
         "string_id": "hud_action_cas_igniting_fireworks"
     },
     "hud_action_cas_opening_guitar_case": {
         "base_text": "Opening the guitar case",
-        "loc_text": "Opening the guitar case",
+        "loc_text": "กำลังเปิดกระเป๋ากีต้าร์",
         "string_id": "hud_action_cas_opening_guitar_case"
     },
     "hud_action_cas_opening_powerbox": {
@@ -691,17 +691,17 @@
     },
     "hud_action_cas_security_door": {
         "base_text": "Picking the lock",
-        "loc_text": "Picking the lock",
+        "loc_text": "กำลังสะเดาะล็อค",
         "string_id": "hud_action_cas_security_door"
     },
     "hud_action_cas_taking_fireworks_bag": {
         "base_text": "Taking the fireworks",
-        "loc_text": "Taking the fireworks",
+        "loc_text": "กำลังหยิบดอกไม้ไฟ",
         "string_id": "hud_action_cas_taking_fireworks_bag"
     },
     "hud_action_cas_taking_gear": {
         "base_text": "Taking the gear",
-        "loc_text": "Taking the gear",
+        "loc_text": "กำลังหยิบอุปกรณ์",
         "string_id": "hud_action_cas_taking_gear"
     },
     "hud_action_center_button": {
@@ -711,32 +711,32 @@
     },
     "hud_action_checking_evidence": {
         "base_text": "Checking evidence",
-        "loc_text": "Checking evidence",
+        "loc_text": "กำลังตรวจสอบหลักฐาน",
         "string_id": "hud_action_checking_evidence"
     },
     "hud_action_checking_file": {
         "base_text": "Checking file",
-        "loc_text": "Checking file",
+        "loc_text": "กำลังตรวจสอบไฟล์",
         "string_id": "hud_action_checking_file"
     },
     "hud_action_choosing_mask": {
         "base_text": "Choosing mask",
-        "loc_text": "Choosing mask",
+        "loc_text": "กำลังเลือกหน้ากาก",
         "string_id": "hud_action_choosing_mask"
     },
     "hud_action_closing_crate": {
         "base_text": "Closing crate",
-        "loc_text": "Closing crate",
+        "loc_text": "กำลังปิดกล่อง",
         "string_id": "hud_action_closing_crate"
     },
     "hud_action_closing_window": {
         "base_text": "Closing window",
-        "loc_text": "Closing window",
+        "loc_text": "กำลังปิดหน้าต่าง",
         "string_id": "hud_action_closing_window"
     },
     "hud_action_connect_hose": {
         "base_text": "Connecting hose",
-        "loc_text": "Connecting hose",
+        "loc_text": "กำลังเชื่อมต่อท่อ",
         "string_id": "hud_action_connect_hose"
     },
     "hud_action_connecting_cable": {
@@ -776,7 +776,7 @@
     },
     "hud_action_cutting": {
         "base_text": "Cutting",
-        "loc_text": "Cutting",
+        "loc_text": "กำลังตัด",
         "string_id": "hud_action_cutting"
     },
     "hud_action_cutting_cable": {
@@ -811,92 +811,92 @@
     },
     "hud_action_disabling_alarm": {
         "base_text": "Disabling the alarm",
-        "loc_text": "Disabling the alarm",
+        "loc_text": "กำลังปิดระบบแจ้งเตือน",
         "string_id": "hud_action_disabling_alarm"
     },
     "hud_action_disabling_alarm_pager": {
         "base_text": "Answering pager",
-        "loc_text": "Answering pager",
+        "loc_text": "กำลังตอบเพจเจอร์",
         "string_id": "hud_action_disabling_alarm_pager"
     },
     "hud_action_disabling_lasers": {
         "base_text": "Disabling the lasers",
-        "loc_text": "Disabling the lasers",
+        "loc_text": "กำลังปิดใช้งานเลเซอร์",
         "string_id": "hud_action_disabling_lasers"
     },
     "hud_action_disarm_bomb": {
         "base_text": "Disarming bomb",
-        "loc_text": "Disarming bomb",
+        "loc_text": "กำลังกู้ระเบิด",
         "string_id": "hud_action_disarm_bomb"
     },
     "hud_action_disassemble_cro_loot": {
         "base_text": "Taking bomb part",
-        "loc_text": "Taking bomb part",
+        "loc_text": "กำลังหยิบส่วนของระเบิด",
         "string_id": "hud_action_disassemble_cro_loot"
     },
     "hud_action_disassemble_turret": {
         "base_text": "Disassembling turret",
-        "loc_text": "Disassembling turret",
+        "loc_text": "กำลังถอดชิ้นส่วนป้อมปืน",
         "string_id": "hud_action_disassemble_turret"
     },
     "hud_action_disposing_corpse": {
         "base_text": "Disposing corpse",
-        "loc_text": "Disposing corpse",
+        "loc_text": "กำลังกำจัดศพ",
         "string_id": "hud_action_disposing_corpse"
     },
     "hud_action_downloading_keys": {
         "base_text": "Downloading encryption keys",
-        "loc_text": "Downloading encryption keys",
+        "loc_text": "กำลังดาวน์โหลดคีย์การเข้ารหัส",
         "string_id": "hud_action_downloading_keys"
     },
     "hud_action_enter_code": {
         "base_text": "Entering the code",
-        "loc_text": "Entering the code",
+        "loc_text": "กำลังใส่โค้ด",
         "string_id": "hud_action_enter_code"
     },
     "hud_action_exit_vehicle": {
         "base_text": "Exiting vehicle",
-        "loc_text": "Exiting vehicle",
+        "loc_text": "กำลังออกจากยานพาหนะ",
         "string_id": "hud_action_exit_vehicle"
     },
     "hud_action_extinguishing_fire": {
         "base_text": "Extinguishing fire",
-        "loc_text": "Extinguishing fire",
+        "loc_text": "กำลังดับไฟ",
         "string_id": "hud_action_extinguishing_fire"
     },
     "hud_action_fastening_strap": {
         "base_text": "fastening strap",
-        "loc_text": "fastening strap",
+        "loc_text": "กำลังมัดสายรัด",
         "string_id": "hud_action_fastening_strap"
     },
     "hud_action_filling_watertank": {
         "base_text": "Filling the water tank",
-        "loc_text": "Filling the water tank",
+        "loc_text": "กำลังเติมถังน้ำ",
         "string_id": "hud_action_filling_watertank"
     },
     "hud_action_find_bolt_cutter": {
         "base_text": "Cutting chains",
-        "loc_text": "Cutting chains",
+        "loc_text": "กำลังตัดโซ่",
         "string_id": "hud_action_find_bolt_cutter"
     },
     "hud_action_firing_missiles": {
         "base_text": "Firing missiles",
-        "loc_text": "Firing missiles",
+        "loc_text": "กำลังยิงมิสไซล์",
         "string_id": "hud_action_firing_missiles"
     },
     "hud_action_fixing_bfd_drill": {
         "base_text": "Fixing the BFD",
-        "loc_text": "Fixing the BFD",
+        "loc_text": "กำลังซ่อมบีเอฟดี",
         "string_id": "hud_action_fixing_bfd_drill"
     },
     "hud_action_fixing_drill": {
         "base_text": "Fixing drill",
-        "loc_text": "Fixing drill",
+        "loc_text": "กำลังซ่อมเครื่องเจาะ",
         "string_id": "hud_action_fixing_drill"
     },
     "hud_action_fixing_huge_lance": {
         "base_text": "Fixing the Beast",
-        "loc_text": "Fixing the Beast",
+        "loc_text": "กำลังซ่อมเดอะบีช",
         "string_id": "hud_action_fixing_huge_lance"
     },
     "hud_action_fixing_lance": {
@@ -906,57 +906,57 @@
     },
     "hud_action_freeing": {
         "base_text": "Freeing",
-        "loc_text": "Freeing",
+        "loc_text": "กำลังปล่อยตัว",
         "string_id": "hud_action_freeing"
     },
     "hud_action_gathering_evidence": {
         "base_text": "Gathering evidence",
-        "loc_text": "Gathering evidence",
+        "loc_text": "กำลังเก็บหลักฐาน",
         "string_id": "hud_action_gathering_evidence"
     },
     "hud_action_generator_start": {
         "base_text": "Starting generator",
-        "loc_text": "Starting generator",
+        "loc_text": "กำลังสตาร์ทเครื่อง",
         "string_id": "hud_action_generator_start"
     },
     "hud_action_generic": {
         "base_text": "Interacting",
-        "loc_text": "Interacting",
+        "loc_text": "กำลังโต้ตอบ",
         "string_id": "hud_action_generic"
     },
     "hud_action_getting_down": {
         "base_text": "Getting down",
-        "loc_text": "Getting down",
+        "loc_text": "กำลังล้มลง",
         "string_id": "hud_action_getting_down"
     },
     "hud_action_grab_code": {
         "base_text": "Grabbing code",
-        "loc_text": "Grabbing code",
+        "loc_text": "กำลังหยิบโค้ด",
         "string_id": "hud_action_grab_code"
     },
     "hud_action_grab_server": {
         "base_text": "Taking server",
-        "loc_text": "Taking server",
+        "loc_text": "กำลังหยิบเซิร์ฟเวอร์",
         "string_id": "hud_action_grab_server"
     },
     "hud_action_grabbing_bag": {
         "base_text": "Grabbing bag",
-        "loc_text": "Grabbing bag",
+        "loc_text": "กำลังหยิบกระเป๋า",
         "string_id": "hud_action_grabbing_bag"
     },
     "hud_action_grabbing_body": {
         "base_text": "Grabbing body",
-        "loc_text": "Grabbing body",
+        "loc_text": "กำลังหยิบศพ",
         "string_id": "hud_action_grabbing_body"
     },
     "hud_action_grabbing_briefcase": {
         "base_text": "Grabbing briefcase",
-        "loc_text": "Grabbing briefcase",
+        "loc_text": "กำลังหยิบกระเป๋าเอกสาร",
         "string_id": "hud_action_grabbing_briefcase"
     },
     "hud_action_grabbing_equipment": {
         "base_text": "Grabbing equipment",
-        "loc_text": "Grabbing equipment",
+        "loc_text": "กำลังหยิบอุปกรณ์",
         "string_id": "hud_action_grabbing_equipment"
     },
     "hud_action_grabbing_goat": {

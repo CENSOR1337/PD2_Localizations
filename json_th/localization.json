@@ -1976,7 +1976,7 @@
     },
     "wp_ap_escape": {
         "base_text": "Escape!",
-        "loc_text": "Escape!",
+        "loc_text": "หลบหนี!",
         "string_id": "wp_ap_escape"
     }
 }
