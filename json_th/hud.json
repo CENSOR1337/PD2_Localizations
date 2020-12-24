@@ -19046,27 +19046,27 @@
     },
     "hud_skirmish_ransom": {
         "base_text": "Current ransom:",
-        "loc_text": "Current ransom:",
+        "loc_text": "ค่าไถ่ปัจจุบัน:",
         "string_id": "hud_skirmish_ransom"
     },
     "hud_skirmish_ransom_popup": {
         "base_text": "New ransom offer: $money;",
-        "loc_text": "New ransom offer: $money;",
+        "loc_text": "จำนวนค่าไถ่ใหม่: $money;",
         "string_id": "hud_skirmish_ransom_popup"
     },
     "hud_skirmish_wave_end": {
         "base_text": "Wave $current; completed",
-        "loc_text": "Wave $current; completed",
+        "loc_text": "สำเร็จแล้ว $current; รอบ",
         "string_id": "hud_skirmish_wave_end"
     },
     "hud_skirmish_wave_start": {
         "base_text": "Wave $current; starts",
-        "loc_text": "Wave $current; starts",
+        "loc_text": "เริ่มต้นรอบที่ $current; ",
         "string_id": "hud_skirmish_wave_start"
     },
     "hud_skm_1": {
         "base_text": "Keep the cops away from the hostage!",
-        "loc_text": "Keep the cops away from the hostage!",
+        "loc_text": "ให้ตำรวจอยู่ห่างจากตัวประกันเข้าไว้!",
         "string_id": "hud_skm_1"
     },
     "hud_skm_1_hl": {
@@ -19086,12 +19086,12 @@
     },
     "hud_start_drill": {
         "base_text": "Hold $BTN_INTERACT; to start the BFD",
-        "loc_text": "Hold $BTN_INTERACT; to start the BFD",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเริ่มบีเอฟดี",
         "string_id": "hud_start_drill"
     },
     "hud_start_winch": {
         "base_text": "Hold $BTN_INTERACT; to start the winch",
-        "loc_text": "Hold $BTN_INTERACT; to start the winch",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเริ่มการกว้าน",
         "string_id": "hud_start_winch"
     },
     "hud_starting_heist": {
@@ -19106,17 +19106,17 @@
     },
     "hud_stats_bags_secured_value": {
         "base_text": "SECURED BAGS VALUE",
-        "loc_text": "SECURED BAGS VALUE",
+        "loc_text": "มูลค่าจากกระเป๋าที่ได้รับ",
         "string_id": "hud_stats_bags_secured_value"
     },
     "hud_stats_enemies_converted": {
         "base_text": "JOKERS CONTROLLED",
-        "loc_text": "ควบคุมโดย JOKERS",
+        "loc_text": "ควบคุมโดยโจ๊กเกอร์",
         "string_id": "hud_stats_enemies_converted"
     },
     "hud_stats_no_tracked": {
         "base_text": "NOT TRACKING ANY ACHIEVEMENTS",
-        "loc_text": "NOT TRACKING ANY ACHIEVEMENTS",
+        "loc_text": "ไม่ได้ติดตามรางวัลความสำเร็จใดๆ เลย",
         "string_id": "hud_stats_no_tracked"
     },
     "hud_stats_pagers_used": {
@@ -19126,37 +19126,37 @@
     },
     "hud_stats_tracked": {
         "base_text": "TRACKED ACHIEVEMENTS",
-        "loc_text": "TRACKED ACHIEVEMENTS",
+        "loc_text": "รางวัลความสำเร็จที่ติดตามอยู่",
         "string_id": "hud_stats_tracked"
     },
     "hud_stop_drill": {
         "base_text": "Hold $BTN_INTERACT; to stop the BFD",
-        "loc_text": "Hold $BTN_INTERACT; to stop the BFD",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยุดบีเอฟดี",
         "string_id": "hud_stop_drill"
     },
     "hud_suspicion_detected": {
         "base_text": "Detected",
-        "loc_text": "ถูกตรวจพบ",
+        "loc_text": "ถูกพบเห็น",
         "string_id": "hud_suspicion_detected"
     },
     "hud_take_bfd_tool": {
         "base_text": "Press $BTN_INTERACT; to take the BFD tool",
-        "loc_text": "Press $BTN_INTERACT; to take the BFD tool",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบเครื่องมือบีเอฟดี",
         "string_id": "hud_take_bfd_tool"
     },
     "hud_take_casino_chips": {
         "base_text": "Press $BTN_INTERACT; to pick up casino chips",
-        "loc_text": "Press $BTN_INTERACT; to pick up casino chips",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบเหรียญคาสิโน",
         "string_id": "hud_take_casino_chips"
     },
     "hud_take_hook": {
         "base_text": "Hold $BTN_INTERACT; to take the hook",
-        "loc_text": "Hold $BTN_INTERACT; to take the hook",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบตะขอ",
         "string_id": "hud_take_hook"
     },
     "hud_take_sleeping_gas": {
         "base_text": "Hold $BTN_INTERACT; to pick up the sleeping gas",
-        "loc_text": "Hold $BTN_INTERACT; to pick up the sleeping gas",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบแก๊สนอนหลับ",
         "string_id": "hud_take_sleeping_gas"
     },
     "hud_take_stapler": {
@@ -19171,12 +19171,12 @@
     },
     "hud_take_usb_key_data": {
         "base_text": "Press $BTN_INTERACT; to take the USB stick",
-        "loc_text": "Press $BTN_INTERACT; to take the USB stick",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบแฟลชไดร์ฟ",
         "string_id": "hud_take_usb_key_data"
     },
     "hud_take_watertank": {
         "base_text": "Hold $BTN_INTERACT; to take the water tank",
-        "loc_text": "Hold $BTN_INTERACT; to take the water tank",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบถังน้ำ",
         "string_id": "hud_take_watertank"
     },
     "hud_trade_delay": {
@@ -19186,7 +19186,7 @@
     },
     "hud_trophy_popup": {
         "base_text": "TROPHY UNLOCKED!",
-        "loc_text": "TROPHY UNLOCKED!",
+        "loc_text": "ปลดล็อครางวัล!",
         "string_id": "hud_trophy_popup"
     },
     "hud_uncuffed_in": {
@@ -19196,7 +19196,7 @@
     },
     "hud_unlocking_car": {
         "base_text": "Unlocking car",
-        "loc_text": "Unlocking car",
+        "loc_text": "กำลังปลดล็อคยานพาหนะ",
         "string_id": "hud_unlocking_car"
     },
     "hud_v_airport_mission1": {

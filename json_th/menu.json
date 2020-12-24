@@ -1,17 +1,17 @@
 {
     "bm_global_value_chico_unlock": {
         "base_text": "Buy the Scarface Character Pack to unlock",
-        "loc_text": "Buy the Scarface Character Pack to unlock",
+        "loc_text": "ซื้อ Scarface Character Pack เพื่อปลดล็อค",
         "string_id": "bm_global_value_chico_unlock"
     },
     "bm_global_value_collectable": {
         "base_text": "Collectable",
-        "loc_text": "Collectable",
+        "loc_text": "สะสมได้",
         "string_id": "bm_global_value_collectable"
     },
     "bm_global_value_jigg_unlock": {
         "base_text": "Buy the Humble Mask Pack 5 to unlock",
-        "loc_text": "Buy the Humble Mask Pack 5 to unlock",
+        "loc_text": "ซื้อ Humble Mask Pack 5 เพื่อปลดล็อค",
         "string_id": "bm_global_value_jigg_unlock"
     },
     "bm_melee_zeus_info": {
@@ -31,12 +31,12 @@
     },
     "bm_menu_customize_mask_title": {
         "base_text": "Customize mask: $mask_name;",
-        "loc_text": "Customize mask: $mask_name;",
+        "loc_text": "ปรับแต่งหน้ากาก: $mask_name;",
         "string_id": "bm_menu_customize_mask_title"
     },
     "bm_menu_missing_to_finalize_mask": {
         "base_text": "You have to choose a $missed_mods; to finalize customization",
-        "loc_text": "You have to choose a $missed_mods; to finalize customization",
+        "loc_text": "คุณต้องเลือกการปรับแต่ง $missed_mods; เพื่อสิ้นสุดการปรับแต่ง",
         "string_id": "bm_menu_missing_to_finalize_mask"
     },
     "bm_menu_weapon_mods": {
@@ -61,12 +61,12 @@
     },
     "civilian_heister_daily_info_ok": {
         "base_text": "OK",
-        "loc_text": "OK",
+        "loc_text": "โอเค",
         "string_id": "civilian_heister_daily_info_ok"
     },
     "cn_crime_spree": {
         "base_text": "Crime Spree",
-        "loc_text": "Crime Spree",
+        "loc_text": "ครามสปรี",
         "string_id": "cn_crime_spree"
     },
     "cn_crime_spree_brief": {
@@ -76,32 +76,32 @@
     },
     "cn_crime_spree_level": {
         "base_text": "Crime Spree: $level;$BTN_SPREE_TICKET;",
-        "loc_text": "Crime Spree: $level;$BTN_SPREE_TICKET;",
+        "loc_text": "เลเวลครามสปรี: $level;$BTN_SPREE_TICKET;",
         "string_id": "cn_crime_spree_level"
     },
     "cn_crime_spree_level_no_num": {
         "base_text": "Crime Spree: ",
-        "loc_text": "Crime Spree: ",
+        "loc_text": "ครามสปรี: ",
         "string_id": "cn_crime_spree_level_no_num"
     },
     "cn_crime_spree_modifiers": {
         "base_text": "Modifiers:",
-        "loc_text": "Modifiers:",
+        "loc_text": "การปรับแต่ง:",
         "string_id": "cn_crime_spree_modifiers"
     },
     "cn_crime_spree_my_level": {
         "base_text": "My Crime Spree: $level;$BTN_SPREE_TICKET;",
-        "loc_text": "My Crime Spree: $level;$BTN_SPREE_TICKET;",
+        "loc_text": "ครามสปรีของผู้เล่น: $level;$BTN_SPREE_TICKET;",
         "string_id": "cn_crime_spree_my_level"
     },
     "cn_crime_spree_my_level_no_num": {
         "base_text": "My Crime Spree: ",
-        "loc_text": "My Crime Spree: ",
+        "loc_text": "ครามสปรีของผู้เล่น: ",
         "string_id": "cn_crime_spree_my_level_no_num"
     },
     "cn_crime_spree_no_modifiers": {
         "base_text": "No modifiers active.",
-        "loc_text": "No modifiers active.",
+        "loc_text": "ไม่มีการปรับแต่งใดๆ",
         "string_id": "cn_crime_spree_no_modifiers"
     },
     "cn_crime_spree_starting": {
@@ -141,12 +141,12 @@
     },
     "cn_menu_contract_mutators_active": {
         "base_text": "ACTIVE",
-        "loc_text": "ACTIVE",
+        "loc_text": "เปิดใช้งาน",
         "string_id": "cn_menu_contract_mutators_active"
     },
     "cn_menu_contract_mutators_header": {
         "base_text": "MUTATORS:",
-        "loc_text": "MUTATORS:",
+        "loc_text": "มูเตเตอร์:",
         "string_id": "cn_menu_contract_mutators_header"
     },
     "cn_menu_contract_short_plural": {
@@ -221,7 +221,7 @@
     },
     "cn_skirmish_modifiers": {
         "base_text": "Modifiers:",
-        "loc_text": "Modifiers:",
+        "loc_text": "การปรับแต่ง:",
         "string_id": "cn_skirmish_modifiers"
     },
     "daily_akimbo": {
@@ -7116,7 +7116,7 @@
     },
     "menu_data_crew_item_unlock_cost": {
         "base_text": "Costs $cost; continental coins to unlock",
-        "loc_text": "Costs $cost; continental coins to unlock",
+        "loc_text": "Costs $cost; continental coins เพื่อปลดล็อค",
         "string_id": "menu_data_crew_item_unlock_cost"
     },
     "menu_data_crew_not_allowed": {
@@ -8331,7 +8331,7 @@
     },
     "menu_dlc_buy_akm4_pack": {
         "base_text": "Buy the Butcher AK/CAR Mod Pack DLC today!",
-        "loc_text": "Buy the Butcher AK/CAR Mod Pack DLC today!",
+        "loc_text": "ซื้อ Butcher AK/CAR Mod Pack DLC today!",
         "string_id": "menu_dlc_buy_akm4_pack"
     },
     "menu_dlc_buy_akm4_pack_help": {
@@ -8341,7 +8341,7 @@
     },
     "menu_dlc_buy_arena": {
         "base_text": "Buy The Alesso Heist DLC today!",
-        "loc_text": "Buy The Alesso Heist DLC today!",
+        "loc_text": "ซื้อ Alesso Heist DLC today!",
         "string_id": "menu_dlc_buy_arena"
     },
     "menu_dlc_buy_arena_help": {
@@ -8356,7 +8356,7 @@
     },
     "menu_dlc_buy_bbq": {
         "base_text": "Buy the BBQ Weapon Pack DLC today!",
-        "loc_text": "Buy the BBQ Weapon Pack DLC today!",
+        "loc_text": "ซื้อ BBQ Weapon Pack DLC today!",
         "string_id": "menu_dlc_buy_bbq"
     },
     "menu_dlc_buy_bbq_help": {
@@ -8366,7 +8366,7 @@
     },
     "menu_dlc_buy_berry": {
         "base_text": "Buy the Point Break Heists DLC today!",
-        "loc_text": "Buy the Point Break Heists DLC today!",
+        "loc_text": "ซื้อ Point Break Heists DLC today!",
         "string_id": "menu_dlc_buy_berry"
     },
     "menu_dlc_buy_berry_help": {
@@ -8376,7 +8376,7 @@
     },
     "menu_dlc_buy_big_bank": {
         "base_text": "Buy the Big Bank DLC today!",
-        "loc_text": "Buy the Big Bank DLC today!",
+        "loc_text": "ซื้อ Big Bank DLC today!",
         "string_id": "menu_dlc_buy_big_bank"
     },
     "menu_dlc_buy_big_bank_help": {
@@ -8386,7 +8386,7 @@
     },
     "menu_dlc_buy_born": {
         "base_text": "Buy the Biker Heist DLC today!",
-        "loc_text": "Buy the Biker Heist DLC today!",
+        "loc_text": "ซื้อ Biker Heist DLC today!",
         "string_id": "menu_dlc_buy_born"
     },
     "menu_dlc_buy_born_help": {
@@ -8396,7 +8396,7 @@
     },
     "menu_dlc_buy_character_pack_clover": {
         "base_text": "Buy the Clover Character Pack DLC today!",
-        "loc_text": "Buy the Clover Character Pack DLC today!",
+        "loc_text": "ซื้อ Clover Character Pack DLC today!",
         "string_id": "menu_dlc_buy_character_pack_clover"
     },
     "menu_dlc_buy_character_pack_clover_help": {
@@ -8406,7 +8406,7 @@
     },
     "menu_dlc_buy_character_pack_dragan": {
         "base_text": "Buy the Dragan Character Pack DLC today!",
-        "loc_text": "Buy the Dragan Character Pack DLC today!",
+        "loc_text": "ซื้อ Dragan Character Pack DLC today!",
         "string_id": "menu_dlc_buy_character_pack_dragan"
     },
     "menu_dlc_buy_character_pack_dragan_help": {
@@ -8416,7 +8416,7 @@
     },
     "menu_dlc_buy_character_pack_sokol": {
         "base_text": "Buy the Sokol Character Pack DLC today!",
-        "loc_text": "Buy the Sokol Character Pack DLC today!",
+        "loc_text": "ซื้อ Sokol Character Pack DLC today!",
         "string_id": "menu_dlc_buy_character_pack_sokol"
     },
     "menu_dlc_buy_character_pack_sokol_help": {
@@ -8431,7 +8431,7 @@
     },
     "menu_dlc_buy_coco": {
         "base_text": "Buy the Jimmy Character Pack DLC Today!",
-        "loc_text": "Buy the Jimmy Character Pack DLC Today!",
+        "loc_text": "ซื้อ Jimmy Character Pack DLC Today!",
         "string_id": "menu_dlc_buy_coco"
     },
     "menu_dlc_buy_coco_help": {
@@ -8441,7 +8441,7 @@
     },
     "menu_dlc_buy_dragon": {
         "base_text": "Buy the Yakuza Character Pack DLC today!",
-        "loc_text": "Buy the Yakuza Character Pack DLC today!",
+        "loc_text": "ซื้อ Yakuza Character Pack DLC today!",
         "string_id": "menu_dlc_buy_dragon"
     },
     "menu_dlc_buy_dragon_help": {
@@ -8451,7 +8451,7 @@
     },
     "menu_dlc_buy_ecp": {
         "base_text": "Buy the h3h3 Character Pack today!",
-        "loc_text": "Buy the h3h3 Character Pack today!",
+        "loc_text": "ซื้อ h3h3 Character Pack today!",
         "string_id": "menu_dlc_buy_ecp"
     },
     "menu_dlc_buy_ecp_help": {
@@ -8466,7 +8466,7 @@
     },
     "menu_dlc_buy_gage_pack_assault": {
         "base_text": "Buy the Gage Assault Pack DLC today!",
-        "loc_text": "Buy the Gage Assault Pack DLC today!",
+        "loc_text": "ซื้อ Gage Assault Pack DLC today!",
         "string_id": "menu_dlc_buy_gage_pack_assault"
     },
     "menu_dlc_buy_gage_pack_assault_help": {
@@ -8481,7 +8481,7 @@
     },
     "menu_dlc_buy_gage_pack_historical": {
         "base_text": "Buy the Gage Historical Pack DLC today!",
-        "loc_text": "Buy the Gage Historical Pack DLC today!",
+        "loc_text": "ซื้อ Gage Historical Pack DLC today!",
         "string_id": "menu_dlc_buy_gage_pack_historical"
     },
     "menu_dlc_buy_gage_pack_historical_help": {
@@ -8491,7 +8491,7 @@
     },
     "menu_dlc_buy_gage_pack_jobs": {
         "base_text": "Buy the Gage Mod Courier DLC today!",
-        "loc_text": "Buy the Gage Mod Courier DLC today!",
+        "loc_text": "ซื้อ Gage Mod Courier DLC today!",
         "string_id": "menu_dlc_buy_gage_pack_jobs"
     },
     "menu_dlc_buy_gage_pack_jobs_help": {
@@ -8501,7 +8501,7 @@
     },
     "menu_dlc_buy_gage_pack_lmg": {
         "base_text": "Buy the Gage Weapon Pack #02 DLC today!",
-        "loc_text": "Buy the Gage Weapon Pack #02 DLC today!",
+        "loc_text": "ซื้อ Gage Weapon Pack #02 DLC today!",
         "string_id": "menu_dlc_buy_gage_pack_lmg"
     },
     "menu_dlc_buy_gage_pack_lmg_help": {
@@ -8511,7 +8511,7 @@
     },
     "menu_dlc_buy_gage_pack_shotgun": {
         "base_text": "Buy the Gage Shotgun Pack DLC today!",
-        "loc_text": "Buy the Gage Shotgun Pack DLC today!",
+        "loc_text": "ซื้อ Gage Shotgun Pack DLC today!",
         "string_id": "menu_dlc_buy_gage_pack_shotgun"
     },
     "menu_dlc_buy_gage_pack_shotgun_help": {
@@ -8521,7 +8521,7 @@
     },
     "menu_dlc_buy_gage_pack_snp": {
         "base_text": "Buy the Gage Sniper Pack DLC today!",
-        "loc_text": "Buy the Gage Sniper Pack DLC today!",
+        "loc_text": "ซื้อ Gage Sniper Pack DLC today!",
         "string_id": "menu_dlc_buy_gage_pack_snp"
     },
     "menu_dlc_buy_gage_pack_snp_help": {
@@ -8536,7 +8536,7 @@
     },
     "menu_dlc_buy_hl_miami": {
         "base_text": "Buy the Hotline Miami DLC today!",
-        "loc_text": "Buy the Hotline Miami DLC today!",
+        "loc_text": "ซื้อ Hotline Miami DLC today!",
         "string_id": "menu_dlc_buy_hl_miami"
     },
     "menu_dlc_buy_hl_miami_help": {
@@ -8546,7 +8546,7 @@
     },
     "menu_dlc_buy_hope_diamond": {
         "base_text": "Buy the Diamond Heist DLC today!",
-        "loc_text": "Buy the Diamond Heist DLC today!",
+        "loc_text": "ซื้อ Diamond Heist DLC today!",
         "string_id": "menu_dlc_buy_hope_diamond"
     },
     "menu_dlc_buy_hope_diamond_help": {
@@ -8556,7 +8556,7 @@
     },
     "menu_dlc_buy_kenaz": {
         "base_text": "Buy the Golden Grin Casino DLC today!",
-        "loc_text": "Buy the Golden Grin Casino DLC today!",
+        "loc_text": "ซื้อ Golden Grin Casino DLC today!",
         "string_id": "menu_dlc_buy_kenaz"
     },
     "menu_dlc_buy_kenaz_help": {
@@ -8566,7 +8566,7 @@
     },
     "menu_dlc_buy_max": {
         "base_text": "Buy the Sangres DLC today!",
-        "loc_text": "Buy the Sangres DLC today!",
+        "loc_text": "ซื้อ Sangres DLC today!",
         "string_id": "menu_dlc_buy_max"
     },
     "menu_dlc_buy_max_help": {
@@ -8576,7 +8576,7 @@
     },
     "menu_dlc_buy_opera": {
         "base_text": "Buy the Sydney Character Pack DLC Today!",
-        "loc_text": "Buy the Sydney Character Pack DLC Today!",
+        "loc_text": "ซื้อ Sydney Character Pack DLC Today!",
         "string_id": "menu_dlc_buy_opera"
     },
     "menu_dlc_buy_opera_help": {
@@ -8591,7 +8591,7 @@
     },
     "menu_dlc_buy_pal": {
         "base_text": "Buy The Wolf Pack DLC today!",
-        "loc_text": "Buy The Wolf Pack DLC today!",
+        "loc_text": "ซื้อ Wolf Pack DLC today!",
         "string_id": "menu_dlc_buy_pal"
     },
     "menu_dlc_buy_pal_help": {
@@ -8601,7 +8601,7 @@
     },
     "menu_dlc_buy_peta": {
         "base_text": "Buy the Goat Simulator Heist DLC today!",
-        "loc_text": "Buy the Goat Simulator Heist DLC today!",
+        "loc_text": "ซื้อ Goat Simulator Heist DLC today!",
         "string_id": "menu_dlc_buy_peta"
     },
     "menu_dlc_buy_peta_help": {
@@ -8611,7 +8611,7 @@
     },
     "menu_dlc_buy_pgo": {
         "base_text": "Buy the Tailor Pack 3 DLC today!",
-        "loc_text": "Buy the Tailor Pack 3 DLC today!",
+        "loc_text": "ซื้อ Tailor Pack 3 DLC today!",
         "string_id": "menu_dlc_buy_pgo"
     },
     "menu_dlc_buy_pgo_help": {
@@ -8626,7 +8626,7 @@
     },
     "menu_dlc_buy_spa": {
         "base_text": "Buy the John Wick Heists DLC today!",
-        "loc_text": "Buy the John Wick Heists DLC today!",
+        "loc_text": "ซื้อ John Wick Heists DLC today!",
         "string_id": "menu_dlc_buy_spa"
     },
     "menu_dlc_buy_spa_help": {
@@ -8636,7 +8636,7 @@
     },
     "menu_dlc_buy_steel": {
         "base_text": "Buy the Gage Chivalry Pack DLC today!",
-        "loc_text": "Buy the Gage Chivalry Pack DLC today!",
+        "loc_text": "ซื้อ Gage Chivalry Pack DLC today!",
         "string_id": "menu_dlc_buy_steel"
     },
     "menu_dlc_buy_steel_help": {
@@ -8651,7 +8651,7 @@
     },
     "menu_dlc_buy_the_bomb": {
         "base_text": "Buy The Bomb Heists DLC today!",
-        "loc_text": "Buy The Bomb Heists DLC today!",
+        "loc_text": "ซื้อ Bomb Heists DLC today!",
         "string_id": "menu_dlc_buy_the_bomb"
     },
     "menu_dlc_buy_the_bomb_help": {
@@ -8661,7 +8661,7 @@
     },
     "menu_dlc_buy_turtles": {
         "base_text": "Buy the Gage Ninja Pack DLC today!",
-        "loc_text": "Buy the Gage Ninja Pack DLC today!",
+        "loc_text": "ซื้อ Gage Ninja Pack DLC today!",
         "string_id": "menu_dlc_buy_turtles"
     },
     "menu_dlc_buy_turtles_help": {
@@ -8881,7 +8881,7 @@
     },
     "menu_es_coins_progress": {
         "base_text": "Continental Coins",
-        "loc_text": "เหรียญ Continental",
+        "loc_text": "เหรียญคอนติเนนทอล",
         "string_id": "menu_es_coins_progress"
     },
     "menu_es_crime_spree_summary": {
@@ -8906,12 +8906,12 @@
     },
     "menu_es_daily_complete": {
         "base_text": "Daily Challenge Complete",
-        "loc_text": "Daily Challenge Complete",
+        "loc_text": "ความท้าทายรายวันเสร็จสมบูรณ์",
         "string_id": "menu_es_daily_complete"
     },
     "menu_es_daily_complete_desc": {
         "base_text": "You've completed your daily challenge for today!$NL;Come back tomorrow for a new challenge.",
-        "loc_text": "You've completed your daily challenge for today!$NL;Come back tomorrow for a new challenge.",
+        "loc_text": "คุณได้ทำความท้าทายประจำวันเสร็จสมบูรณ์ทั้งหมดแล้ว!$NL;ไว้มาทำความท้าทายใหม่พรุ่งนี้นะ",
         "string_id": "menu_es_daily_complete_desc"
     },
     "menu_es_day_bonus": {
@@ -8921,42 +8921,42 @@
     },
     "menu_es_extra_bonus": {
         "base_text": "Limited bonus",
-        "loc_text": "Limited bonus",
+        "loc_text": "โบนัสสูงสุด",
         "string_id": "menu_es_extra_bonus"
     },
     "menu_es_gage_assignment_bonus": {
         "base_text": "Gage Bonus",
-        "loc_text": "Gage Bonus",
+        "loc_text": "โบนัสเกจ",
         "string_id": "menu_es_gage_assignment_bonus"
     },
     "menu_es_gage_assignment_package": {
         "base_text": "You found some Gage Courier packages!",
-        "loc_text": "You found some Gage Courier packages!",
+        "loc_text": "คุณได้พบเกจคอเรียแพ็คเป็นบางส่วน",
         "string_id": "menu_es_gage_assignment_package"
     },
     "menu_es_gage_assignment_package_complete": {
         "base_text": "You have completed a Gage Mod Courier assignment! The rewards have been added to your inventory.",
-        "loc_text": "You have completed a Gage Mod Courier assignment! The rewards have been added to your inventory.",
+        "loc_text": "คุณได้ทำการเก็บชิ้นส่วนเกจคอเรียแพ็คครบแล้ว! รางวัลจะถูกเพิ่มเข้าไปยังช่องเก็บของคุณ",
         "string_id": "menu_es_gage_assignment_package_complete"
     },
     "menu_es_gage_assignment_reward": {
         "base_text": "Reward unlocked!",
-        "loc_text": "Reward unlocked!",
+        "loc_text": "ปลดล็อครางวัล!",
         "string_id": "menu_es_gage_assignment_reward"
     },
     "menu_es_gage_assignments_found": {
         "base_text": "You found:",
-        "loc_text": "You found:",
+        "loc_text": "คุณได้พบ:",
         "string_id": "menu_es_gage_assignments_found"
     },
     "menu_es_gage_assignments_progress": {
         "base_text": "Progress:",
-        "loc_text": "Progress:",
+        "loc_text": "ความคืบหน้า:",
         "string_id": "menu_es_gage_assignments_progress"
     },
     "menu_es_ghost_bonus": {
         "base_text": "Stealth bonus ",
-        "loc_text": "Stealth bonus ",
+        "loc_text": "โบนัสย่องเงียบ ",
         "string_id": "menu_es_ghost_bonus"
     },
     "menu_es_ghost_bonus_day": {
@@ -8966,7 +8966,7 @@
     },
     "menu_es_ghost_bonus_job": {
         "base_text": "You have earned a ##stealth bonus##:$NL;+$bonus;% XP for your next contract.",
-        "loc_text": "You have earned a ##stealth bonus##:$NL;+$bonus;% XP for your next contract.",
+        "loc_text": "คุณได้รับโบนัสย่องเงียบ ##stealth ##:$NL;ได้รับค่าประสบการณ์เพิ่มขึ้นอีก $bonus;% สำหรับงานจ้างถัดไป",
         "string_id": "menu_es_ghost_bonus_job"
     },
     "menu_es_heat_bonus": {
@@ -8976,7 +8976,7 @@
     },
     "menu_es_heat_reduction": {
         "base_text": "Reduction",
-        "loc_text": "การลด",
+        "loc_text": "การลดทอน",
         "string_id": "menu_es_heat_reduction"
     },
     "menu_es_in_custody_reduction": {
@@ -8986,12 +8986,12 @@
     },
     "menu_es_infamy_bonus": {
         "base_text": "Infamy bonus",
-        "loc_text": "Infamy bonus",
+        "loc_text": "โบนัสอินฟามี่",
         "string_id": "menu_es_infamy_bonus"
     },
     "menu_es_level_progress": {
         "base_text": "Level progress",
-        "loc_text": "Level progress",
+        "loc_text": "ความคืบหน้าเลเวล",
         "string_id": "menu_es_level_progress"
     },
     "menu_es_mission_xp_bonus": {
@@ -9006,22 +9006,22 @@
     },
     "menu_es_package_armor": {
         "base_text": "$armor; is now available in your inventory!",
-        "loc_text": "$armor; is now available in your inventory!",
+        "loc_text": "$armor; สามารถใช้งานได้ในช่องเก็บของแล้ว!",
         "string_id": "menu_es_package_armor"
     },
     "menu_es_package_melee_weapon": {
         "base_text": "$melee_weapon; is now available in your inventory!",
-        "loc_text": "$melee_weapon; is now available in your inventory!",
+        "loc_text": "$melee_weapon; is สามารถใช้งานได้ในช่องเก็บของแล้ว!",
         "string_id": "menu_es_package_melee_weapon"
     },
     "menu_es_package_projectile": {
         "base_text": "$projectile; is now available in your inventory!",
-        "loc_text": "$projectile; is now available in your inventory!",
+        "loc_text": "$projectile; is สามารถใช้งานได้ในช่องเก็บของแล้ว!",
         "string_id": "menu_es_package_projectile"
     },
     "menu_es_package_unlocked_plural": {
         "base_text": "New items unlocked!",
-        "loc_text": "New items unlocked!",
+        "loc_text": "ปลดล็อคไอเทมใหม่!",
         "string_id": "menu_es_package_unlocked_plural"
     },
     "menu_es_package_unlocked_singular": {
@@ -9031,7 +9031,7 @@
     },
     "menu_es_package_weapon": {
         "base_text": "$weapon; is now available for purchase!",
-        "loc_text": "$weapon; is now available for purchase!",
+        "loc_text": "$weapon; สามารถซื้อได้แล้ว!",
         "string_id": "menu_es_package_weapon"
     },
     "menu_es_playing_track": {
@@ -9041,67 +9041,67 @@
     },
     "menu_es_pro_job_bonus": {
         "base_text": "Pro Job bonus",
-        "loc_text": "Pro Job bonus",
+        "loc_text": "โบนัสงานจ้างโปร",
         "string_id": "menu_es_pro_job_bonus"
     },
     "menu_es_rep_upgrade": {
         "base_text": "$point; more skill points!",
-        "loc_text": "$point; more skill points!",
+        "loc_text": "$point; สกิลพอยท์ที่ได้รับเพิ่มเติม!",
         "string_id": "menu_es_rep_upgrade"
     },
     "menu_es_risk_bonus": {
         "base_text": "Risk bonus",
-        "loc_text": "Risk bonus",
+        "loc_text": "โบนัสความเสี่ยง",
         "string_id": "menu_es_risk_bonus"
     },
     "menu_es_safehouse_challenge_complete": {
         "base_text": "$challenge; completed",
-        "loc_text": "$challenge; completed",
+        "loc_text": "$challenge; สำเร็จ",
         "string_id": "menu_es_safehouse_challenge_complete"
     },
     "menu_es_safehouse_daily_challenge_complete": {
         "base_text": "Daily Challenge completed",
-        "loc_text": "Daily Challenge completed",
+        "loc_text": "ความท้าทายประจำวันสำเร็จ",
         "string_id": "menu_es_safehouse_daily_challenge_complete"
     },
     "menu_es_safehouse_earned_challenges": {
         "base_text": "Earned from completed challenges: $amount; coins",
-        "loc_text": "Earned from completed challenges: $amount; coins",
+        "loc_text": "ได้รับจากความท้าทาย: $amount; เหรียญ",
         "string_id": "menu_es_safehouse_earned_challenges"
     },
     "menu_es_safehouse_earned_income": {
         "base_text": "Earned from income: $amount; coins",
-        "loc_text": "Earned from income: $amount; coins",
+        "loc_text": "ได้รับจากรายได้: $amount; เหรียญ",
         "string_id": "menu_es_safehouse_earned_income"
     },
     "menu_es_safehouse_income_daily": {
         "base_text": "Daily Challenge",
-        "loc_text": "Daily Challenge",
+        "loc_text": "ความท้าทายประจำวัน",
         "string_id": "menu_es_safehouse_income_daily"
     },
     "menu_es_safehouse_reward_coins": {
         "base_text": "$amount; Coins",
-        "loc_text": "$amount; Coins",
+        "loc_text": "$amount; เหรียญ",
         "string_id": "menu_es_safehouse_reward_coins"
     },
     "menu_es_safehouse_summary": {
         "base_text": "Safe House",
-        "loc_text": "Safe House",
+        "loc_text": "เซฟเฮ้าส์",
         "string_id": "menu_es_safehouse_summary"
     },
     "menu_es_safehouse_total_coins": {
         "base_text": "You have $amount; Continental Coins in total.",
-        "loc_text": "You have $amount; Continental Coins in total.",
+        "loc_text": "คุณมีเหรียญคอนติเนนทอลอยู่ทั้งหมด $amount; เหรียญ",
         "string_id": "menu_es_safehouse_total_coins"
     },
     "menu_es_safehouse_upgrade_available": {
         "base_text": "You have enough coins to upgrade a room!",
-        "loc_text": "You have enough coins to upgrade a room!",
+        "loc_text": "คุณมีเหรียญคอนติเนนทอลเพียงพอแล้วสำหรับการอัปเกรดห้อง!",
         "string_id": "menu_es_safehouse_upgrade_available"
     },
     "menu_es_skill_bonus": {
         "base_text": "Skill bonus",
-        "loc_text": "Skill bonus",
+        "loc_text": "โบนัสสกิล",
         "string_id": "menu_es_skill_bonus"
     },
     "menu_es_skill_points_gained": {
@@ -9111,47 +9111,47 @@
     },
     "menu_es_skill_points_info": {
         "base_text": "Visit [$SKILL_MENU;] menu to spend your new earned points!",
-        "loc_text": "Visit [$SKILL_MENU;] menu to spend your new earned points!",
+        "loc_text": "เข้าหน้า [$SKILL_MENU;] เพื่อใช้งานพอยท์ที่เหลือได้รับ!",
         "string_id": "menu_es_skill_points_info"
     },
     "menu_es_skirmish_cash": {
         "base_text": "Ransom payout",
-        "loc_text": "Ransom payout",
+        "loc_text": "เงินค่าไถ่",
         "string_id": "menu_es_skirmish_cash"
     },
     "menu_es_stats_crew": {
         "base_text": "Crew stats",
-        "loc_text": "Crew stats",
+        "loc_text": "สถิติของทีม",
         "string_id": "menu_es_stats_crew"
     },
     "menu_es_stats_gage_assignment": {
         "base_text": "Packages",
-        "loc_text": "Packages",
+        "loc_text": "แพคเกจ",
         "string_id": "menu_es_stats_gage_assignment"
     },
     "menu_es_stats_personal": {
         "base_text": "Personal stats",
-        "loc_text": "Personal stats",
+        "loc_text": "สถิติส่วนตัว",
         "string_id": "menu_es_stats_personal"
     },
     "menu_es_summary": {
         "base_text": "Summary",
-        "loc_text": "Summary",
+        "loc_text": "สรุป",
         "string_id": "menu_es_summary"
     },
     "menu_es_xp_gained": {
         "base_text": "Exp gained:",
-        "loc_text": "Exp gained:",
+        "loc_text": "ค่าประสบการณ์ที่ได้รับ:",
         "string_id": "menu_es_xp_gained"
     },
     "menu_escape": {
         "base_text": "Escape!",
-        "loc_text": "Escape!",
+        "loc_text": "หลบหนี!",
         "string_id": "menu_escape"
     },
     "menu_exp_short": {
         "base_text": "XP",
-        "loc_text": "XP",
+        "loc_text": "ประสบการณ์",
         "string_id": "menu_exp_short"
     },
     "menu_experience": {
@@ -9161,7 +9161,7 @@
     },
     "menu_expert_handling": {
         "base_text": "Desperado",
-        "loc_text": "Desperado",
+        "loc_text": "เดสเพอะเรโก",
         "string_id": "menu_expert_handling"
     },
     "menu_expert_handling_desc": {
@@ -9171,12 +9171,12 @@
     },
     "menu_failed": {
         "base_text": "Failed",
-        "loc_text": "Failed",
+        "loc_text": "ล้มเหลว",
         "string_id": "menu_failed"
     },
     "menu_far_away_beta": {
         "base_text": "Far Away",
-        "loc_text": "Far Away",
+        "loc_text": "ฟาร์อเวย",
         "string_id": "menu_far_away_beta"
     },
     "menu_far_away_beta_desc": {
@@ -9186,7 +9186,7 @@
     },
     "menu_fast_fire_beta": {
         "base_text": "Surefire",
-        "loc_text": "Surefire",
+        "loc_text": "ชูวร์ฟายเออร์",
         "string_id": "menu_fast_fire_beta"
     },
     "menu_fast_fire_beta_desc": {
@@ -9211,17 +9211,17 @@
     },
     "menu_feature_crimenet_welcome_title": {
         "base_text": "YOU HAVE A NEW MESSAGE",
-        "loc_text": "YOU HAVE A NEW MESSAGE",
+        "loc_text": "คุณได้รับข้อความใหม่",
         "string_id": "menu_feature_crimenet_welcome_title"
     },
     "menu_feature_join_pd2_clan": {
         "base_text": "Join the PAYDAY 2 community on Steam to get the items above.",
-        "loc_text": "Join the PAYDAY 2 community on Steam to get the items above.",
+        "loc_text": "เข้าร่วมศูนย์กลางชุมชน เพยเดย์ 2 บนสตีมเพื่อรับไอเทมด้านบน",
         "string_id": "menu_feature_join_pd2_clan"
     },
     "menu_feature_join_pd2_clan_desc": {
         "base_text": "Being a part of our community gives you several benefits while playing PAYDAY 2!",
-        "loc_text": "Being a part of our community gives you several benefits while playing PAYDAY 2!",
+        "loc_text": "เป็นส่วนหนึ่งของศูนย์กลางชุมชน เพยเดย์ 2 จะทำให้คุณได้รับสิทธิบางอย่างสำหรับการเล่น เพยเดย์ 2",
         "string_id": "menu_feature_join_pd2_clan_desc"
     },
     "menu_feign_death": {
@@ -9236,7 +9236,7 @@
     },
     "menu_female_1": {
         "base_text": "Clover",
-        "loc_text": "Clover",
+        "loc_text": "โคลเวอร์",
         "string_id": "menu_female_1"
     },
     "menu_filter_achievement_count": {
@@ -9246,67 +9246,67 @@
     },
     "menu_filter_contractor": {
         "base_text": "Contractor",
-        "loc_text": "Contractor",
+        "loc_text": "ผู้ว่าจ้าง",
         "string_id": "menu_filter_contractor"
     },
     "menu_filter_favourite": {
         "base_text": "Favourites",
-        "loc_text": "Favourites",
+        "loc_text": "ที่ชื่นชอบ",
         "string_id": "menu_filter_favourite"
     },
     "menu_filter_heist_long": {
         "base_text": "3 Days $BTN_SPREE_LONG;",
-        "loc_text": "3 Days $BTN_SPREE_LONG;",
+        "loc_text": "3 วัน $BTN_SPREE_LONG;",
         "string_id": "menu_filter_heist_long"
     },
     "menu_filter_heist_medium": {
         "base_text": "2 Days $BTN_SPREE_MEDIUM;",
-        "loc_text": "2 Days $BTN_SPREE_MEDIUM;",
+        "loc_text": "2 วัน $BTN_SPREE_MEDIUM;",
         "string_id": "menu_filter_heist_medium"
     },
     "menu_filter_heist_short": {
         "base_text": "1 Day $BTN_SPREE_SHORT;",
-        "loc_text": "1 Day $BTN_SPREE_SHORT;",
+        "loc_text": "1 วัน $BTN_SPREE_SHORT;",
         "string_id": "menu_filter_heist_short"
     },
     "menu_filter_least_played": {
         "base_text": "Least Played",
-        "loc_text": "Least Played",
+        "loc_text": "เล่นน้อยที่สุด",
         "string_id": "menu_filter_least_played"
     },
     "menu_filter_most_played": {
         "base_text": "Most Played",
-        "loc_text": "Most Played",
+        "loc_text": "เล่นมากที่สุด",
         "string_id": "menu_filter_most_played"
     },
     "menu_filter_search": {
         "base_text": "Search",
-        "loc_text": "Search",
+        "loc_text": "ค้นหา",
         "string_id": "menu_filter_search"
     },
     "menu_filter_search_results": {
         "base_text": "Search Results",
-        "loc_text": "Search Results",
+        "loc_text": "ผลการค้นหา",
         "string_id": "menu_filter_search_results"
     },
     "menu_filter_tactic": {
         "base_text": "Tactic",
-        "loc_text": "Tactic",
+        "loc_text": "กลยุทธ์",
         "string_id": "menu_filter_tactic"
     },
     "menu_filter_tactic_loud_only": {
         "base_text": "Loud Only",
-        "loc_text": "Loud Only",
+        "loc_text": "บู้เท่านั้น",
         "string_id": "menu_filter_tactic_loud_only"
     },
     "menu_filter_tactic_stealth_only": {
         "base_text": "Stealth Only $BTN_GHOST;",
-        "loc_text": "Stealth Only $BTN_GHOST;",
+        "loc_text": "ย่องเงียบเท่านั้น $BTN_GHOST;",
         "string_id": "menu_filter_tactic_stealth_only"
     },
     "menu_filter_tactic_stealthable": {
         "base_text": "Stealth possible $BTN_GHOST;",
-        "loc_text": "Stealth possible $BTN_GHOST;",
+        "loc_text": "สามารถย่องเงียบได้ $BTN_GHOST;",
         "string_id": "menu_filter_tactic_stealthable"
     },
     "menu_filter_time": {
@@ -9316,12 +9316,12 @@
     },
     "menu_filtered_achievements": {
         "base_text": "Filtered achievements",
-        "loc_text": "Filtered achievements",
+        "loc_text": "รางวัลความสำเร็จที่ถูกกรอง",
         "string_id": "menu_filtered_achievements"
     },
     "menu_fire_control_beta": {
         "base_text": "Fire Control",
-        "loc_text": "Fire Control",
+        "loc_text": "ฟายเออร์คอนโทรล",
         "string_id": "menu_fire_control_beta"
     },
     "menu_fire_control_beta_desc": {
@@ -9331,7 +9331,7 @@
     },
     "menu_fire_trap_beta": {
         "base_text": "Fire Trap",
-        "loc_text": "Fire Trap",
+        "loc_text": "ฟายเออร์แทรป",
         "string_id": "menu_fire_trap_beta"
     },
     "menu_fire_trap_beta_desc": {
@@ -9341,17 +9341,17 @@
     },
     "menu_fov_adjustment": {
         "base_text": "FOV adjustment",
-        "loc_text": "FOV adjustment",
+        "loc_text": "ปรับแต่ง FOV",
         "string_id": "menu_fov_adjustment"
     },
     "menu_fov_adjustment_help": {
         "base_text": "Adjusts the width of the player field of view.",
-        "loc_text": "Adjusts the width of the player field of view.",
+        "loc_text": "การปรับแต่ง field of view หรือพื้นที่ของมุมมอง",
         "string_id": "menu_fov_adjustment_help"
     },
     "menu_fps_limit": {
         "base_text": "FRAME RATE LIMIT",
-        "loc_text": "FRAME RATE LIMIT",
+        "loc_text": "การจำกัดเฟรมเรท",
         "string_id": "menu_fps_limit"
     },
     "menu_fps_limit_help": {
@@ -9361,7 +9361,7 @@
     },
     "menu_frenzy": {
         "base_text": "Frenzy",
-        "loc_text": "Frenzy",
+        "loc_text": "เฟรนซี่",
         "string_id": "menu_frenzy"
     },
     "menu_frenzy_desc": {
@@ -9371,12 +9371,12 @@
     },
     "menu_friends_only_game": {
         "base_text": "FRIENDS-ONLY",
-        "loc_text": "FRIENDS-ONLY",
+        "loc_text": "เพื่อนเท่านั้น",
         "string_id": "menu_friends_only_game"
     },
     "menu_fullscreen": {
         "base_text": "FULLSCREEN",
-        "loc_text": "FULLSCREEN",
+        "loc_text": "เต็มหน้าจอ",
         "string_id": "menu_fullscreen"
     },
     "menu_fullscreen_help": {
@@ -9386,12 +9386,12 @@
     },
     "menu_gage_assignment_div_menu": {
         "base_text": "Menu",
-        "loc_text": "Menu",
+        "loc_text": "เมนู",
         "string_id": "menu_gage_assignment_div_menu"
     },
     "menu_gage_assignment_div_packages": {
         "base_text": "Packages",
-        "loc_text": "Packages",
+        "loc_text": "แพ็คเกจ",
         "string_id": "menu_gage_assignment_div_packages"
     },
     "menu_gage_assignment_introduction_desc": {
@@ -9411,7 +9411,7 @@
     },
     "menu_gage_assignment_summary_title": {
         "base_text": "Package Progress",
-        "loc_text": "Package Progress",
+        "loc_text": "ความคืบหน้าแพ็คเกจ",
         "string_id": "menu_gage_assignment_summary_title"
     },
     "menu_gage_assignment_title": {
@@ -9476,22 +9476,22 @@
     },
     "menu_gamemode": {
         "base_text": "Game Mode",
-        "loc_text": "Game Mode",
+        "loc_text": "โหมดเกม",
         "string_id": "menu_gamemode"
     },
     "menu_gamemode_heist": {
         "base_text": "Heists",
-        "loc_text": "Heists",
+        "loc_text": "การปล้น",
         "string_id": "menu_gamemode_heist"
     },
     "menu_gamemode_spree": {
         "base_text": "Crime Spree",
-        "loc_text": "Crime Spree",
+        "loc_text": "ครามสปรี",
         "string_id": "menu_gamemode_spree"
     },
     "menu_german": {
         "base_text": "Wolf",
-        "loc_text": "Wolf",
+        "loc_text": "วูล์ฟ",
         "string_id": "menu_german"
     },
     "menu_ghost_bonus": {
@@ -9506,17 +9506,17 @@
     },
     "menu_ghostable_stage": {
         "base_text": "Stealth is an option.",
-        "loc_text": "Stealth is an option.",
+        "loc_text": "การย่องเงียบเป็นทางเลือก",
         "string_id": "menu_ghostable_stage"
     },
     "menu_ghostable_stage_required": {
         "base_text": "Stealth is a requirement.",
-        "loc_text": "Stealth is a requirement.",
+        "loc_text": "ต้องการการย่องเงียบ",
         "string_id": "menu_ghostable_stage_required"
     },
     "menu_gun_fighter_beta": {
         "base_text": "One Handed Talent",
-        "loc_text": "One Handed Talent",
+        "loc_text": "วันแฮนด์ดิดส์ทาเล้นท์",
         "string_id": "menu_gun_fighter_beta"
     },
     "menu_gun_fighter_beta_desc": {
@@ -9526,7 +9526,7 @@
     },
     "menu_hardware_expert_beta": {
         "base_text": "Hardware Expert",
-        "loc_text": "Hardware Expert",
+        "loc_text": "ฮาร์ดแวร์เอคซเพิท",
         "string_id": "menu_hardware_expert_beta"
     },
     "menu_hardware_expert_beta_desc": {
@@ -9536,7 +9536,7 @@
     },
     "menu_headbob": {
         "base_text": "Use Acceleration Camera Effect",
-        "loc_text": "Use Acceleration Camera Effect",
+        "loc_text": "ใช้เอฟเฟกต์กล้องเร่งความเร็ว",
         "string_id": "menu_headbob"
     },
     "menu_headbob_help": {
@@ -9546,27 +9546,27 @@
     },
     "menu_heat_cold": {
         "base_text": "Experience reduced by $job_heat;%.",
-        "loc_text": "Experience reduced by $job_heat;%.",
+        "loc_text": "ค่าประสบการณ์ลดลงโดย $job_heat;%.",
         "string_id": "menu_heat_cold"
     },
     "menu_heat_ok": {
         "base_text": "Experience changed by $job_heat;%.",
-        "loc_text": "Experience changed by $job_heat;%.",
+        "loc_text": "ค่าประสบการณ์เปลี่ยนโดย $job_heat;%.",
         "string_id": "menu_heat_ok"
     },
     "menu_heat_warm": {
         "base_text": "Experience increased by $job_heat;%.",
-        "loc_text": "Experience increased by $job_heat;%.",
+        "loc_text": "ค่าประสบการณ์เพิ่มขึ้นโดย $job_heat;%.",
         "string_id": "menu_heat_warm"
     },
     "menu_heat_warm_short": {
         "base_text": "EXP +$job_heat;%",
-        "loc_text": "EXP +$job_heat;%",
+        "loc_text": "ค่าประสบการณ์ +$job_heat;%",
         "string_id": "menu_heat_warm_short"
     },
     "menu_heavy_impact_beta": {
         "base_text": "Heavy impact",
-        "loc_text": "Heavy impact",
+        "loc_text": "เฮฟวี่อิมแพค",
         "string_id": "menu_heavy_impact_beta"
     },
     "menu_heavy_impact_beta_desc": {
@@ -9591,7 +9591,7 @@
     },
     "menu_hold_to_duck": {
         "base_text": "HOLD TO CROUCH",
-        "loc_text": "HOLD TO CROUCH",
+        "loc_text": "กดค้างเพื่อนั่ง",
         "string_id": "menu_hold_to_duck"
     },
     "menu_hold_to_duck_help": {
@@ -9601,7 +9601,7 @@
     },
     "menu_hold_to_run": {
         "base_text": "HOLD TO RUN",
-        "loc_text": "HOLD TO RUN",
+        "loc_text": "กดค้างเพื่อวิ่ง",
         "string_id": "menu_hold_to_run"
     },
     "menu_hold_to_run_help": {
@@ -9611,7 +9611,7 @@
     },
     "menu_hold_to_steelsight": {
         "base_text": "HOLD TO AIM",
-        "loc_text": "HOLD TO AIM",
+        "loc_text": "กดค้างเพื่อยิง",
         "string_id": "menu_hold_to_steelsight"
     },
     "menu_hold_to_steelsight_help": {
@@ -9621,7 +9621,7 @@
     },
     "menu_hud_cheater": {
         "base_text": "Cheater",
-        "loc_text": "Cheater",
+        "loc_text": "ขยะสังคม",
         "string_id": "menu_hud_cheater"
     },
     "menu_infamy_banner_already_unlocked": {
@@ -9661,7 +9661,7 @@
     },
     "menu_infamy_coming_soon_title": {
         "base_text": "Coming Soon!",
-        "loc_text": "Coming Soon!",
+        "loc_text": "เร็วๆ นี้!",
         "string_id": "menu_infamy_coming_soon_title"
     },
     "menu_infamy_desc_balaclava": {
@@ -12951,7 +12951,7 @@
     },
     "menu_pp_asset_crojob3_crowbar": {
         "base_text": "Crowbar",
-        "loc_text": "Crowbar",
+        "loc_text": "ชะแลง",
         "string_id": "menu_pp_asset_crojob3_crowbar"
     },
     "menu_pp_asset_crojob3_crowbar_desc": {
@@ -18776,12 +18776,12 @@
     },
     "menu_weekly_skirmish_progress": {
         "base_text": "Weekly Reward",
-        "loc_text": "Weekly Reward",
+        "loc_text": "รางวัลรายสัปดาห์",
         "string_id": "menu_weekly_skirmish_progress"
     },
     "menu_weekly_skirmish_rewards": {
         "base_text": "Rewards",
-        "loc_text": "Rewards",
+        "loc_text": "รางวัล",
         "string_id": "menu_weekly_skirmish_rewards"
     },
     "menu_weekly_skirmish_tab_description": {
@@ -19061,7 +19061,7 @@
     },
     "skirmish_weekly_time_left": {
         "base_text": "Time left: $hours;h $minutes;min",
-        "loc_text": "Time left: $hours;h $minutes;min",
+        "loc_text": "เวลาที่เหลือ: $hours;ชั่วโมง $minutes;นาที",
         "string_id": "skirmish_weekly_time_left"
     },
     "sokol_desc": {
@@ -19086,7 +19086,7 @@
     },
     "st_menu_cost": {
         "base_text": "Cost:",
-        "loc_text": "Cost:",
+        "loc_text": "ค่าใช้จ่าย:",
         "string_id": "st_menu_cost"
     },
     "st_menu_enforce_shotgun": {
@@ -19181,7 +19181,7 @@
     },
     "st_menu_max_perk_dialog_title": {
         "base_text": "Are you sure?",
-        "loc_text": "Are you sure?",
+        "loc_text": "คุณแน่ใจหรือไม่?",
         "string_id": "st_menu_max_perk_dialog_title"
     },
     "st_menu_point": {
@@ -19196,7 +19196,7 @@
     },
     "st_menu_respec_tree": {
         "base_text": "Respec this skill tree",
-        "loc_text": "Respec this skill tree",
+        "loc_text": "รีเซ็ตสกิลสายนี้ใหม่",
         "string_id": "st_menu_respec_tree"
     },
     "st_menu_skill_cost": {
@@ -19291,17 +19291,17 @@
     },
     "steam_rp_current_players": {
         "base_text": "$current;/$max; Players",
-        "loc_text": "$current;/$max; Players",
+        "loc_text": "จำนวนผู้เล่น $current;/$max;",
         "string_id": "steam_rp_current_players"
     },
     "steam_rp_in_lobby": {
         "base_text": "In Lobby",
-        "loc_text": "In Lobby",
+        "loc_text": "ในล็อบบี้",
         "string_id": "steam_rp_in_lobby"
     },
     "steam_rp_in_lobby_heist": {
         "base_text": "In Lobby for $heist;",
-        "loc_text": "In Lobby for $heist;",
+        "loc_text": "ล็อบบี้งานจ้าง $heist;",
         "string_id": "steam_rp_in_lobby_heist"
     },
     "sydney_desc": {
