@@ -1,7 +1,7 @@
 {
     "bm_global_value_chico_unlock": {
         "base_text": "Buy the Scarface Character Pack to unlock",
-        "loc_text": "ซื้อ Scarface Character Pack เพื่อปลดล็อค",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Scarface Character Pack เพื่อปลดล็อค",
         "string_id": "bm_global_value_chico_unlock"
     },
     "bm_global_value_collectable": {
@@ -11,7 +11,7 @@
     },
     "bm_global_value_jigg_unlock": {
         "base_text": "Buy the Humble Mask Pack 5 to unlock",
-        "loc_text": "ซื้อ Humble Mask Pack 5 เพื่อปลดล็อค",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Humble Mask Pack 5 เพื่อปลดล็อค",
         "string_id": "bm_global_value_jigg_unlock"
     },
     "bm_melee_zeus_info": {
@@ -1531,7 +1531,7 @@
     },
     "menu_akimbo_skill_beta": {
         "base_text": "Akimbo",
-        "loc_text": "ปืนคู่",
+        "loc_text": "อคิมโบ",
         "string_id": "menu_akimbo_skill_beta"
     },
     "menu_akimbo_skill_beta_desc": {
@@ -1546,7 +1546,7 @@
     },
     "menu_american": {
         "base_text": "Houston",
-        "loc_text": "Houston",
+        "loc_text": "ฮูสตัน",
         "string_id": "menu_american"
     },
     "menu_ammo_2x_beta": {
@@ -2341,7 +2341,7 @@
     },
     "menu_black_marketeer_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Having at least one of your own hostage or converted law enforcer makes you regenerate ##$multibasic;## health every ##$multibasic2;## seconds.$NL;$NL;ACE: ##$pro;##$NL;Having at least one of your own hostage or converted law enforcer makes you regenerate ##$multipro;## health every ##$multipro2;## seconds.",
-        "loc_text": "เบสิค: ##$basic;##$NL;Having at least one of your own hostage or converted law enforcer makes you regenerate ##$multibasic;## health every ##$multibasic2;## seconds.$NL;$NL;เอซ: ##$pro;##$NL;Having at least one of your own hostage or converted law enforcer makes you regenerate ##$multipro;## health every ##$multipro2;## seconds.",
+        "loc_text": "เบสิค: ##$basic;##$NL;มีตัวประกันหรือศัตรูที่ถูกเปลี่ยนฝั่งอย่างน้อยหนึ่งตัวจะทำให้คุณฟื้นฟูเลือด ##$multibasic;## ทุกๆ ##$multibasic2;## วินาที$NL;$NL;เอซ: ##$pro;##$NL; มีตัวประกันหรือศัตรูที่ถูกเปลี่ยนฝั่งอย่างน้อยหนึ่งตัวจะทำให้คุณฟื้นฟูเลือด ##$multipro;## ทุกๆ ##$multipro2;## วินาที",
         "string_id": "menu_black_marketeer_beta_desc"
     },
     "menu_blackmarket": {
@@ -2406,7 +2406,7 @@
     },
     "menu_bonnie": {
         "base_text": "Bonnie",
-        "loc_text": "Bonnie",
+        "loc_text": "บอนนี่",
         "string_id": "menu_bonnie"
     },
     "menu_bonnie_desc_codex": {
@@ -2676,7 +2676,7 @@
     },
     "menu_cable_guy_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;The power and range of your intimidation is increased by ##$multibasic2;## $NL;$NL;ACE: ##$pro;##$NL;You can now have ##$multipro2;## converted enemies at the same time.",
-        "loc_text": "เบสิค: ##$basic;##$NL;The power and range of your intimidation is increased by ##$multibasic2;## $NL;$NL;เอซ: ##$pro;##$NL;You can now have ##$multipro2;## converted enemies at the same time.",
+        "loc_text": "เบสิค: ##$basic;##$NL;ระยะและค่าของการข่มขู่เพิ่มขึ้นอีก ##$multibasic2;## $NL;$NL;เอซ: ##$pro;##$NL;คุณสามารถที่จะเปลี่ยนพวกกับศัตรูได้แล้ว ##$multipro2;## ตัวในเวลาเดียวกัน",
         "string_id": "menu_cable_guy_beta_desc"
     },
     "menu_camera_sensitivity_horizontal": {
@@ -5256,7 +5256,7 @@
     },
     "menu_chico": {
         "base_text": "Scarface",
-        "loc_text": "Scarface",
+        "loc_text": "สการ์เฟซ",
         "string_id": "menu_chico"
     },
     "menu_chico_desc_codex": {
@@ -5311,7 +5311,7 @@
     },
     "menu_clover": {
         "base_text": "Clover",
-        "loc_text": "Clover",
+        "loc_text": "โคลเวอร์",
         "string_id": "menu_clover"
     },
     "menu_clover_desc_codex": {
@@ -5701,7 +5701,7 @@
     },
     "menu_control_freak_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Having a converted enemy increases your movement speed by ##$multibasic;##.$NL;$NL;Your converted enemy takes ##$multibasic3;## less damage.$NL;$NL;ACE: ##$pro;##$NL;Having a converted enemy increases your health by ##$multipro3;##.$NL;$NL;Your converted enemy takes an additional ##$multipro4;## less damage.",
-        "loc_text": "เบสิค: ##$basic;##$NL;Having a converted enemy increases your movement speed by ##$multibasic;##.$NL;$NL;Your converted enemy takes ##$multibasic3;## less damage.$NL;$NL;เอซ: ##$pro;##$NL;Having a converted enemy increases your health by ##$multipro3;##.$NL;$NL;Your converted enemy takes an additional ##$multipro4;## less damage.",
+        "loc_text": "เบสิค: ##$basic;##$NL;มีศัตรูที่ถูกเปลี่ยนฝั่งจะทำให้คุณเคลื่อนที่เร็วขึ้น ##$multibasic;##$NL;$NL;ศัตรูที่ถูกเปลี่ยนฝั่งโดยคุณจะรับความเสียหายน้อยลง ##$multibasic3;##$NL;$NL;เอซ: ##$pro;##$NL;มีศัตรูที่ถูกเปลี่ยนฝั่งจะทำให้คุณมีเลือดเพิ่มขึ้น ##$multipro3;##$NL;$NL;ศัตรูที่ถูกเปลี่ยนฝั่งโดยคุณจะรับความเสียหายน้อยลง ##$multipro4;##",
         "string_id": "menu_control_freak_beta_desc"
     },
     "menu_control_option_default": {
@@ -8241,7 +8241,7 @@
     },
     "menu_description_locke": {
         "base_text": "Locke's plan",
-        "loc_text": "Locke's plan",
+        "loc_text": "แผนของล็อก",
         "string_id": "menu_description_locke"
     },
     "menu_dialog_become_infamous": {
@@ -8261,47 +8261,47 @@
     },
     "menu_diff_filter": {
         "base_text": "DIFFICULTY FILTER",
-        "loc_text": "DIFFICULTY FILTER",
+        "loc_text": "คัดกรองความยาก",
         "string_id": "menu_diff_filter"
     },
     "menu_difficulty_apocalypse": {
         "base_text": "Death Wish",
-        "loc_text": "Death Wish",
+        "loc_text": "เดธวิช",
         "string_id": "menu_difficulty_apocalypse"
     },
     "menu_difficulty_easy_wish": {
         "base_text": "Mayhem",
-        "loc_text": "Mayhem",
+        "loc_text": "เมย์เฮม",
         "string_id": "menu_difficulty_easy_wish"
     },
     "menu_difficulty_hard": {
         "base_text": "HARD",
-        "loc_text": "HARD",
+        "loc_text": "ฮาร์ด",
         "string_id": "menu_difficulty_hard"
     },
     "menu_difficulty_normal": {
         "base_text": "NORMAL",
-        "loc_text": "NORMAL",
+        "loc_text": "นอร์มอล",
         "string_id": "menu_difficulty_normal"
     },
     "menu_difficulty_overkill": {
         "base_text": "OVERKILL",
-        "loc_text": "OVERKILL",
+        "loc_text": "โอเวอร์คิล",
         "string_id": "menu_difficulty_overkill"
     },
     "menu_difficulty_sm_wish": {
         "base_text": "Death Sentence",
-        "loc_text": "Death Sentence",
+        "loc_text": "เดธเซนเท้นซ์",
         "string_id": "menu_difficulty_sm_wish"
     },
     "menu_difficulty_very_hard": {
         "base_text": "Very Hard",
-        "loc_text": "Very Hard",
+        "loc_text": "เอรี่ฮาร์ด",
         "string_id": "menu_difficulty_very_hard"
     },
     "menu_dire_need_beta": {
         "base_text": "Dire Need",
-        "loc_text": "Dire Need",
+        "loc_text": "ไดเออร์นีดซ",
         "string_id": "menu_dire_need_beta"
     },
     "menu_dire_need_beta_desc": {
@@ -8316,22 +8316,22 @@
     },
     "menu_dist_filter_close": {
         "base_text": "Close",
-        "loc_text": "Close",
+        "loc_text": "ปิด",
         "string_id": "menu_dist_filter_close"
     },
     "menu_dist_filter_far": {
         "base_text": "Far",
-        "loc_text": "Far",
+        "loc_text": "ไกล",
         "string_id": "menu_dist_filter_far"
     },
     "menu_dist_filter_worldwide": {
         "base_text": "Worldwide",
-        "loc_text": "Worldwide",
+        "loc_text": "ทั่วโลก",
         "string_id": "menu_dist_filter_worldwide"
     },
     "menu_dlc_buy_akm4_pack": {
         "base_text": "Buy the Butcher AK/CAR Mod Pack DLC today!",
-        "loc_text": "ซื้อ Butcher AK/CAR Mod Pack DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Butcher AK/CAR Mod Pack ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_akm4_pack"
     },
     "menu_dlc_buy_akm4_pack_help": {
@@ -8341,7 +8341,7 @@
     },
     "menu_dlc_buy_arena": {
         "base_text": "Buy The Alesso Heist DLC today!",
-        "loc_text": "ซื้อ Alesso Heist DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Alesso Heist ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_arena"
     },
     "menu_dlc_buy_arena_help": {
@@ -8356,7 +8356,7 @@
     },
     "menu_dlc_buy_bbq": {
         "base_text": "Buy the BBQ Weapon Pack DLC today!",
-        "loc_text": "ซื้อ BBQ Weapon Pack DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม BBQ Weapon Pack ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_bbq"
     },
     "menu_dlc_buy_bbq_help": {
@@ -8366,7 +8366,7 @@
     },
     "menu_dlc_buy_berry": {
         "base_text": "Buy the Point Break Heists DLC today!",
-        "loc_text": "ซื้อ Point Break Heists DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Point Break Heists ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_berry"
     },
     "menu_dlc_buy_berry_help": {
@@ -8376,7 +8376,7 @@
     },
     "menu_dlc_buy_big_bank": {
         "base_text": "Buy the Big Bank DLC today!",
-        "loc_text": "ซื้อ Big Bank DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Big Bank ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_big_bank"
     },
     "menu_dlc_buy_big_bank_help": {
@@ -8386,7 +8386,7 @@
     },
     "menu_dlc_buy_born": {
         "base_text": "Buy the Biker Heist DLC today!",
-        "loc_text": "ซื้อ Biker Heist DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Biker Heist ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_born"
     },
     "menu_dlc_buy_born_help": {
@@ -8396,7 +8396,7 @@
     },
     "menu_dlc_buy_character_pack_clover": {
         "base_text": "Buy the Clover Character Pack DLC today!",
-        "loc_text": "ซื้อ Clover Character Pack DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Clover Character Pack ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_character_pack_clover"
     },
     "menu_dlc_buy_character_pack_clover_help": {
@@ -8406,7 +8406,7 @@
     },
     "menu_dlc_buy_character_pack_dragan": {
         "base_text": "Buy the Dragan Character Pack DLC today!",
-        "loc_text": "ซื้อ Dragan Character Pack DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Dragan Character Pack ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_character_pack_dragan"
     },
     "menu_dlc_buy_character_pack_dragan_help": {
@@ -8416,7 +8416,7 @@
     },
     "menu_dlc_buy_character_pack_sokol": {
         "base_text": "Buy the Sokol Character Pack DLC today!",
-        "loc_text": "ซื้อ Sokol Character Pack DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Sokol Character Pack ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_character_pack_sokol"
     },
     "menu_dlc_buy_character_pack_sokol_help": {
@@ -8431,7 +8431,7 @@
     },
     "menu_dlc_buy_coco": {
         "base_text": "Buy the Jimmy Character Pack DLC Today!",
-        "loc_text": "ซื้อ Jimmy Character Pack DLC Today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Jimmy Character Pack ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_coco"
     },
     "menu_dlc_buy_coco_help": {
@@ -8441,7 +8441,7 @@
     },
     "menu_dlc_buy_dragon": {
         "base_text": "Buy the Yakuza Character Pack DLC today!",
-        "loc_text": "ซื้อ Yakuza Character Pack DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Yakuza Character Pack ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_dragon"
     },
     "menu_dlc_buy_dragon_help": {
@@ -8451,7 +8451,7 @@
     },
     "menu_dlc_buy_ecp": {
         "base_text": "Buy the h3h3 Character Pack today!",
-        "loc_text": "ซื้อ h3h3 Character Pack today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม h3h3 Character Pack today!",
         "string_id": "menu_dlc_buy_ecp"
     },
     "menu_dlc_buy_ecp_help": {
@@ -8466,7 +8466,7 @@
     },
     "menu_dlc_buy_gage_pack_assault": {
         "base_text": "Buy the Gage Assault Pack DLC today!",
-        "loc_text": "ซื้อ Gage Assault Pack DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Gage Assault Pack ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_gage_pack_assault"
     },
     "menu_dlc_buy_gage_pack_assault_help": {
@@ -8481,7 +8481,7 @@
     },
     "menu_dlc_buy_gage_pack_historical": {
         "base_text": "Buy the Gage Historical Pack DLC today!",
-        "loc_text": "ซื้อ Gage Historical Pack DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Gage Historical Pack ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_gage_pack_historical"
     },
     "menu_dlc_buy_gage_pack_historical_help": {
@@ -8491,7 +8491,7 @@
     },
     "menu_dlc_buy_gage_pack_jobs": {
         "base_text": "Buy the Gage Mod Courier DLC today!",
-        "loc_text": "ซื้อ Gage Mod Courier DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Gage Mod Courier ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_gage_pack_jobs"
     },
     "menu_dlc_buy_gage_pack_jobs_help": {
@@ -8501,7 +8501,7 @@
     },
     "menu_dlc_buy_gage_pack_lmg": {
         "base_text": "Buy the Gage Weapon Pack #02 DLC today!",
-        "loc_text": "ซื้อ Gage Weapon Pack #02 DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Gage Weapon Pack #02 ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_gage_pack_lmg"
     },
     "menu_dlc_buy_gage_pack_lmg_help": {
@@ -8511,7 +8511,7 @@
     },
     "menu_dlc_buy_gage_pack_shotgun": {
         "base_text": "Buy the Gage Shotgun Pack DLC today!",
-        "loc_text": "ซื้อ Gage Shotgun Pack DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Gage Shotgun Pack ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_gage_pack_shotgun"
     },
     "menu_dlc_buy_gage_pack_shotgun_help": {
@@ -8521,7 +8521,7 @@
     },
     "menu_dlc_buy_gage_pack_snp": {
         "base_text": "Buy the Gage Sniper Pack DLC today!",
-        "loc_text": "ซื้อ Gage Sniper Pack DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Gage Sniper Pack ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_gage_pack_snp"
     },
     "menu_dlc_buy_gage_pack_snp_help": {
@@ -8536,7 +8536,7 @@
     },
     "menu_dlc_buy_hl_miami": {
         "base_text": "Buy the Hotline Miami DLC today!",
-        "loc_text": "ซื้อ Hotline Miami DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Hotline Miami ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_hl_miami"
     },
     "menu_dlc_buy_hl_miami_help": {
@@ -8546,7 +8546,7 @@
     },
     "menu_dlc_buy_hope_diamond": {
         "base_text": "Buy the Diamond Heist DLC today!",
-        "loc_text": "ซื้อ Diamond Heist DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Diamond Heist ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_hope_diamond"
     },
     "menu_dlc_buy_hope_diamond_help": {
@@ -8556,7 +8556,7 @@
     },
     "menu_dlc_buy_kenaz": {
         "base_text": "Buy the Golden Grin Casino DLC today!",
-        "loc_text": "ซื้อ Golden Grin Casino DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Golden Grin Casino ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_kenaz"
     },
     "menu_dlc_buy_kenaz_help": {
@@ -8566,7 +8566,7 @@
     },
     "menu_dlc_buy_max": {
         "base_text": "Buy the Sangres DLC today!",
-        "loc_text": "ซื้อ Sangres DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Sangres ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_max"
     },
     "menu_dlc_buy_max_help": {
@@ -8576,7 +8576,7 @@
     },
     "menu_dlc_buy_opera": {
         "base_text": "Buy the Sydney Character Pack DLC Today!",
-        "loc_text": "ซื้อ Sydney Character Pack DLC Today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Sydney Character Pack ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_opera"
     },
     "menu_dlc_buy_opera_help": {
@@ -8591,7 +8591,7 @@
     },
     "menu_dlc_buy_pal": {
         "base_text": "Buy The Wolf Pack DLC today!",
-        "loc_text": "ซื้อ Wolf Pack DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Wolf Pack ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_pal"
     },
     "menu_dlc_buy_pal_help": {
@@ -8601,7 +8601,7 @@
     },
     "menu_dlc_buy_peta": {
         "base_text": "Buy the Goat Simulator Heist DLC today!",
-        "loc_text": "ซื้อ Goat Simulator Heist DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Goat Simulator Heist ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_peta"
     },
     "menu_dlc_buy_peta_help": {
@@ -8611,7 +8611,7 @@
     },
     "menu_dlc_buy_pgo": {
         "base_text": "Buy the Tailor Pack 3 DLC today!",
-        "loc_text": "ซื้อ Tailor Pack 3 DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Tailor Pack 3 ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_pgo"
     },
     "menu_dlc_buy_pgo_help": {
@@ -8626,7 +8626,7 @@
     },
     "menu_dlc_buy_spa": {
         "base_text": "Buy the John Wick Heists DLC today!",
-        "loc_text": "ซื้อ John Wick Heists DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม John Wick Heists ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_spa"
     },
     "menu_dlc_buy_spa_help": {
@@ -8636,7 +8636,7 @@
     },
     "menu_dlc_buy_steel": {
         "base_text": "Buy the Gage Chivalry Pack DLC today!",
-        "loc_text": "ซื้อ Gage Chivalry Pack DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Gage Chivalry Pack ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_steel"
     },
     "menu_dlc_buy_steel_help": {
@@ -8651,7 +8651,7 @@
     },
     "menu_dlc_buy_the_bomb": {
         "base_text": "Buy The Bomb Heists DLC today!",
-        "loc_text": "ซื้อ Bomb Heists DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Bomb Heists ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_the_bomb"
     },
     "menu_dlc_buy_the_bomb_help": {
@@ -8661,7 +8661,7 @@
     },
     "menu_dlc_buy_turtles": {
         "base_text": "Buy the Gage Ninja Pack DLC today!",
-        "loc_text": "ซื้อ Gage Ninja Pack DLC today!",
+        "loc_text": "ซื้อเนื้อหาดาวโหลดเพิ่มเติม Gage Ninja Pack ได้แล้ววันนี้!",
         "string_id": "menu_dlc_buy_turtles"
     },
     "menu_dlc_buy_turtles_help": {
@@ -8681,7 +8681,7 @@
     },
     "menu_dragan": {
         "base_text": "Dragan",
-        "loc_text": "Dragan",
+        "loc_text": "ดราเกน",
         "string_id": "menu_dragan"
     },
     "menu_dragan_desc_codex": {
@@ -8691,7 +8691,7 @@
     },
     "menu_dragon": {
         "base_text": "Jiro",
-        "loc_text": "Jiro",
+        "loc_text": "จิโร่",
         "string_id": "menu_dragon"
     },
     "menu_dragon_desc_codex": {
@@ -8776,12 +8776,12 @@
     },
     "menu_ecp_female": {
         "base_text": "Hila",
-        "loc_text": "Hila",
+        "loc_text": "ฮีร่า",
         "string_id": "menu_ecp_female"
     },
     "menu_ecp_male": {
         "base_text": "Ethan",
-        "loc_text": "Ethan",
+        "loc_text": "อีธาน",
         "string_id": "menu_ecp_male"
     },
     "menu_edit_game_settings": {
@@ -9881,7 +9881,7 @@
     },
     "menu_infamytree": {
         "base_text": "Infamy",
-        "loc_text": "Infamy",
+        "loc_text": "อินฟามี่",
         "string_id": "menu_infamytree"
     },
     "menu_infamytree_help": {
@@ -9901,7 +9901,7 @@
     },
     "menu_inspire_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You revive crew members ##$multibasic;## faster. Shouting at your teammates will increase their movement and reload speed by ##$multibasic2;## for ##$multibasic3;## seconds.$NL;$NL;ACE: ##$pro;##$NL;There is a ##$multipro;## chance that you can revive crew members at a distance of up to ##$multipro3;## meters by shouting at them. This cannot occur more than once every ##$multipro2;## seconds.",
-        "loc_text": "เบสิค: ##$basic;##$NL;You revive crew members ##$multibasic;## faster. Shouting at your teammates will increase their movement and reload speed by ##$multibasic2;## for ##$multibasic3;## seconds.$NL;$NL;เอซ: ##$pro;##$NL;There is a ##$multipro;## chance that you can revive crew members at a distance of up to ##$multipro3;## meters by shouting at them. This cannot occur more than once every ##$multipro2;## seconds.",
+        "loc_text": "เบสิค: ##$basic;##$NL;คุณสามารถช่วยเพื่อนร่วมทีมได้เร็วขึ้น ##$multibasic;## การตะโกนใส่เพื่อนร่วมทีมจะทำให้วิ่งและรีโหลดเร็วขึ้น ##$multibasic2;## เป็นเวลา ##$multibasic3;## วินาที$NL;$NL;เอซ: ##$pro;##$NL;คุณมีโอกาส ##$multipro;## ที่จะสามารถช่วยเพื่อนร่วมทีมได้โดยการตะโกนใส่ในระยะ ##$multipro3;## เมตรและความสามารถนี้ไม่สามารถทำซ้ำได้ทุกๆ ##$multipro2;## วินาที.",
         "string_id": "menu_inspire_beta_desc"
     },
     "menu_insulation_beta": {
@@ -9976,7 +9976,7 @@
     },
     "menu_jacket": {
         "base_text": "Jacket",
-        "loc_text": "Jacket",
+        "loc_text": "แจ๊กแก๊ต",
         "string_id": "menu_jacket"
     },
     "menu_jacket_desc_codex": {
@@ -10106,7 +10106,7 @@
     },
     "menu_jimmy": {
         "base_text": "Jimmy",
-        "loc_text": "Jimmy",
+        "loc_text": "จิมมี่",
         "string_id": "menu_jimmy"
     },
     "menu_jimmy_desc_codex": {
@@ -10151,17 +10151,17 @@
     },
     "menu_joker_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You can convert a non-special enemy to fight on your side.$NL;This can not be done during stealth and the enemy must have surrendered in order for you to convert them.$NL;$NL;You can only convert one non-special enemy at a time.$NL;$NL;ACE: ##$pro;##$NL;Your converted enemy deals ##$multipro2;## more damage. The time to convert an enemy is reduced by ##$multipro3;##.",
-        "loc_text": "เบสิค: ##$basic;##$NL;You can convert a non-special enemy to fight on your side.$NL;This can not be done during stealth and the enemy must have surrendered in order for you to convert them.$NL;$NL;You can only convert one non-special enemy at a time.$NL;$NL;เอซ: ##$pro;##$NL;Your converted enemy deals ##$multipro2;## more damage. The time to convert an enemy is reduced by ##$multipro3;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;คุณสามารถเปลี่ยนพวกศัตรูประเภทปกติเพื่ออยู่ฝั่งเดียวกับคุณ$NL;สกิลนี้ไม่สามารถใช้งานได้เมื่อกำลังย่องเงียบอยู่และศัตรูที่จะสามารถเปลี่ยนพวกได้นั้นจะต้องอยู่ในสถานะยอมจำนนก่อน$NL;$NL;คุณสามารถเปลี่ยนพวกได้เพียงแค่หนึ่งคนในเวลาเดียวกันเท่านี้น$NL;$NL;เอซ: ##$pro;##$NL;ศัตรูที่คุณเปลี่ยนพวกจะทำความเสียหายมากขึ้น ##$multipro2;## เวลาที่ใช้งานการเปลี่ยนพวกลดลง ##$multipro3;##",
         "string_id": "menu_joker_beta_desc"
     },
     "menu_jowi": {
         "base_text": "John Wick",
-        "loc_text": "John Wick",
+        "loc_text": "จอห์นวิค",
         "string_id": "menu_jowi"
     },
     "menu_joy": {
         "base_text": "Joy",
-        "loc_text": "Joy",
+        "loc_text": "จอย",
         "string_id": "menu_joy"
     },
     "menu_joy_desc_codex": {
@@ -12156,7 +12156,7 @@
     },
     "menu_max": {
         "base_text": "Sangres",
-        "loc_text": "Sangres",
+        "loc_text": "แซนเกรซ",
         "string_id": "menu_max"
     },
     "menu_max_desc_codex": {
@@ -12186,7 +12186,7 @@
     },
     "menu_medic_2x_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You can now deploy ##$multibasic;## Doctor Bags instead of just one.$NL;$NL;ACE: ##$pro;##$NL;Your doctor bags have ##$multipro;## more charges.",
-        "loc_text": "เบสิค: ##$basic;##$NL;เพิ่มด็อกเตอร์แบคสำหรับใช้งานอีก ##$multibasic;## อันแล้ว$NL;$NL;เอซ: ##$pro;##$NL;ด็อกเตอร์แบคของคุณสามารถใช้งานได้อีก ##$multipro;## ครั้ง",
+        "loc_text": "เบสิค: ##$basic;##$NL;เพิ่มด็อกเตอร์แบคสำหรับใช้งานอีก ##$multibasic;## อัน$NL;$NL;เอซ: ##$pro;##$NL;ด็อกเตอร์แบคของคุณสามารถใช้งานได้อีก ##$multipro;## ครั้ง",
         "string_id": "menu_medic_2x_beta_desc"
     },
     "menu_milestone_btn": {
@@ -12411,7 +12411,7 @@
     },
     "menu_myh": {
         "base_text": "Duke",
-        "loc_text": "Duke",
+        "loc_text": "ดุ๊ก",
         "string_id": "menu_myh"
     },
     "menu_myh_desc_codex": {
@@ -12521,7 +12521,7 @@
     },
     "menu_old_hoxton": {
         "base_text": "Hoxton",
-        "loc_text": "Hoxton",
+        "loc_text": "ฮ็อกซ์ตัน",
         "string_id": "menu_old_hoxton"
     },
     "menu_on": {
@@ -16396,7 +16396,7 @@
     },
     "menu_preferred_character_title": {
         "base_text": "Choose your four preferred characters",
-        "loc_text": "Choose your four preferred characters",
+        "loc_text": "เลือกตัวละครสี่ตัวที่คุณต้องการ",
         "string_id": "menu_preferred_character_title"
     },
     "menu_preferred_plan": {
@@ -16796,7 +16796,7 @@
     },
     "menu_rifleman_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your snap to zoom is ##$multibasic;## faster with all weapons.$NL;$NL;Your movement speed is unhindered while using steel sight.$NL;$NL;ACE: ##$pro;##$NL;Your weapon zoom level is increased by ##$multipro;## with all weapons. Your weapon accuracy while moving with SMGs, Assault Rifles and Sniper Rifles is increased by ##$multipro2;##.",
-        "loc_text": "เบสิค: ##$basic;##$NL;Your snap to zoom is ##$multibasic;## faster with all weapons.$NL;$NL;Your movement speed is unhindered while using steel sight.$NL;$NL;เอซ: ##$pro;##$NL;Your weapon zoom level is increased by ##$multipro;## with all weapons. Your weapon accuracy while moving with SMGs, Assault Rifles and Sniper Rifles is increased by ##$multipro2;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;คุณจะสามารถเล็งอาวุธได้เร็วขึ้น ##$multibasic;##$NL;$NL;ความเร็วในการเคลื่อนที่ของคุณจะไม่ลดลงเมื่อเล็งอาวุธ$NL;$NL;เอซ: ##$pro;##$NL;กำลังขยายสำหรับการเล็งเพิ่มขึ้น ##$multipro;## กับอาวุธทุกประเภท$NL;เพิ่มความแม่นยำขณะเคลื่อนที่ให้กับปืนประเภท ปืนกลมือ, ไรเฟิลจู่โจม, และสไนเปอร์อีก ##$multipro2;##",
         "string_id": "menu_rifleman_beta_desc"
     },
     "menu_risk": {
@@ -16851,7 +16851,7 @@
     },
     "menu_russian": {
         "base_text": "Dallas",
-        "loc_text": "Dallas",
+        "loc_text": "แดลลัส",
         "string_id": "menu_russian"
     },
     "menu_scavenger_beta": {
@@ -16931,7 +16931,7 @@
     },
     "menu_sharpshooter_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic2;## weapon accuracy with all SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode. $NL;$NL;ACE: ##$pro;##$NL;You gain a ##$multipro2;## accuracy bonus while aiming down sights with all SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.",
-        "loc_text": "เบสิค: ##$basic;##$NL;You gain ##$multibasic2;## weapon accuracy with all SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode. $NL;$NL;เอซ: ##$pro;##$NL;You gain a ##$multipro2;## accuracy bonus while aiming down sights with all SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.",
+        "loc_text": "เบสิค: ##$basic;##$NL;ความแม่นยำของอาวุธเพิ่มขึ้นอีก ##$multibasic2;## ให้กับอาวุธประเภทปืนกลมือ, ไรเฟิลจู่โจม, และสไนเปอร์ในโหมดยิงทีละนัด$NL;$NL;เอซ: ##$pro;##$NL;ความแม่นยำของอาวุธเพิ่มขึ้นอีก ##$multipro2;## เมื่อเล็งอาวุธให้กับอาวุธประเภทปืนกลมือ, ไรเฟิลจู่โจม, และสไนเปอร์ในโหมดยิงทีละนัด",
         "string_id": "menu_sharpshooter_beta_desc"
     },
     "menu_shock_and_awe_beta": {
@@ -17241,7 +17241,7 @@
     },
     "menu_sokol": {
         "base_text": "Sokol",
-        "loc_text": "Sokol",
+        "loc_text": "โซโคล",
         "string_id": "menu_sokol"
     },
     "menu_sokol_desc_codex": {
@@ -17286,7 +17286,7 @@
     },
     "menu_spanish": {
         "base_text": "Chains",
-        "loc_text": "Chains",
+        "loc_text": "เซน",
         "string_id": "menu_spanish"
     },
     "menu_specialization": {
@@ -17806,7 +17806,7 @@
     },
     "menu_stable_shot_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic;## weapon Stability.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro;## weapon Accuracy while standing still.",
-        "loc_text": "เบสิค: ##$basic;##$NL;You gain ##$multibasic;## weapon Stability.$NL;$NL;เอซ: ##$pro;##$NL;You gain ##$multipro;## weapon Accuracy while standing still.",
+        "loc_text": "เบสิค: ##$basic;##$NL;คุณจะได้รับความนิ่งของอาวุธอีก ##$multibasic;##$NL;$NL;เอซ: ##$pro;##$NL;คุณจะได้รับความแม่นยำของอาวุธอีก ##$multipro;## เมื่อยืนอยู่เฉยๆ",
         "string_id": "menu_stable_shot_beta_desc"
     },
     "menu_stageendscreen_speed_up": {
@@ -17861,7 +17861,7 @@
     },
     "menu_steam_market_content_burn_01": {
         "base_text": "Sydney",
-        "loc_text": "Sydney",
+        "loc_text": "ซิดนีย์",
         "string_id": "menu_steam_market_content_burn_01"
     },
     "menu_steam_market_content_cas_01": {
@@ -17876,7 +17876,7 @@
     },
     "menu_steam_market_content_cola_01": {
         "base_text": "Jimmy",
-        "loc_text": "Jimmy",
+        "loc_text": "จิมมี่",
         "string_id": "menu_steam_market_content_cola_01"
     },
     "menu_steam_market_content_css_01": {
@@ -17891,7 +17891,7 @@
     },
     "menu_steam_market_content_dallas_01": {
         "base_text": "Dallas",
-        "loc_text": "Dallas",
+        "loc_text": "แดลลัส",
         "string_id": "menu_steam_market_content_dallas_01"
     },
     "menu_steam_market_content_dss_01": {
@@ -17911,7 +17911,7 @@
     },
     "menu_steam_market_content_pack_01": {
         "base_text": "Wolf",
-        "loc_text": "Wolf",
+        "loc_text": "วูล์ฟ",
         "string_id": "menu_steam_market_content_pack_01"
     },
     "menu_steam_market_content_sfs_01": {
@@ -17926,12 +17926,12 @@
     },
     "menu_steam_market_content_surf_01": {
         "base_text": "Bodhi",
-        "loc_text": "Bodhi",
+        "loc_text": "โบดี้",
         "string_id": "menu_steam_market_content_surf_01"
     },
     "menu_steam_market_content_wac_01": {
         "base_text": "John Wick",
-        "loc_text": "John Wick",
+        "loc_text": "จอห์นวิค",
         "string_id": "menu_steam_market_content_wac_01"
     },
     "menu_steam_market_content_weapon_01": {
@@ -17971,7 +17971,7 @@
     },
     "menu_stockholm_syndrome_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Civilians are intimidated by the noise you make and remain intimidated ##$multibasic;## longer.$NL;$NL;ACE: ##$pro;##$NL;Your hostages will not flee when they have been rescued by law enforcers. Whenever you get into custody, your hostages will trade themselves for your safe return. This effect can occur during assaults, but only ##$multipro;## time during a heist.",
-        "loc_text": "เบสิค: ##$basic;##$NL;Civilians are intimidated by the noise you make and remain intimidated ##$multibasic;## longer.$NL;$NL;เอซ: ##$pro;##$NL;Your hostages will not flee when they have been rescued by law enforcers. Whenever you get into custody, your hostages will trade themselves for your safe return. This effect can occur during assaults, but only ##$multipro;## time during a heist.",
+        "loc_text": "เบสิค: ##$basic;##$NL;ประชาชนที่ถูกคุณข่มขูด้วยเสียงจะอยู่ในสภาวะกลัวนานขึ้น ##$multibasic;##$NL;$NL;เอซ: ##$pro;##$NL;ตัวประกันของคุณจะไม่วิ่งหนีเมื่อถูกปล่อยตัวโดยหน่วยเมื่อคุณถูกจับกุมตัวประกันของคุณจะแลกเปลี่ยนตัวเองเพื่อปล่อยตัวคุณความสามารถนี้สามารถใช้ได้แม้อยู่ในระหว่างการจับกุมและสามารถใช้ได้เพียง ##$multipro;## ครั้งต่องานจ้างเท่านั้น",
         "string_id": "menu_stockholm_syndrome_beta_desc"
     },
     "menu_stop_sound": {
@@ -18001,7 +18001,7 @@
     },
     "menu_sydney": {
         "base_text": "Sydney",
-        "loc_text": "Sydney",
+        "loc_text": "ซิดนีย์",
         "string_id": "menu_sydney"
     },
     "menu_sydney_desc_codex": {
@@ -18461,7 +18461,7 @@
     },
     "menu_triathlete_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Increases your supply of cable ties by ##$multibasic2;##. You can cable tie hostages ##$multibasic3;## faster. $NL;$NL;ACE: ##$pro;##$NL;You and your crew gain ##$multipro;## damage absorption for each hostage you have. This effect stacks with up to a maximum of ##$multipro2;## hostages.$NL;$NL;Note: This skill does not stack with other players Forced Friendship skill.",
-        "loc_text": "เบสิค: ##$basic;##$NL;Increases your supply of cable ties by ##$multibasic2;##. You can cable tie hostages ##$multibasic3;## faster. $NL;$NL;เอซ: ##$pro;##$NL;You and your crew gain ##$multipro;## damage absorption for each hostage you have. This effect stacks with up to a maximum of ##$multipro2;## hostages.$NL;$NL;Note: This skill does not stack with other players Forced Friendship skill.",
+        "loc_text": "เบสิค: ##$basic;##$NL;เพิ่มสายมัดตัวประกันให้อีก ##$multibasic2;## อันและสามารถมัดตัวประกันได้เร็วขึ้น ##$multibasic3;##$NL;$NL;เอซ: ##$pro;##$NL;คุณและเพื่อนร่วมทีมของคุณจะได้รับการดูดซับความเสียหาย ##$multipro;## ต่อหนึ่งตัวประกันที่คุณมีและสามารถซ้อนทับกันได้สูงสุด ##$multipro2;## คน$NL;$NL;หมายเหตุ: ความสามารถนี้ไม่ทำการซ้อนทับกันกับสกิล ##ฟอร์ซเฟรนชิพ## ของผู้เล่นอื่น",
         "string_id": "menu_triathlete_beta_desc"
     },
     "menu_trigger_happy_beta": {
@@ -18791,7 +18791,7 @@
     },
     "menu_wild": {
         "base_text": "Rust",
-        "loc_text": "Rust",
+        "loc_text": "รัช",
         "string_id": "menu_wild"
     },
     "menu_wild_desc_codex": {
@@ -19226,7 +19226,7 @@
     },
     "st_menu_technician": {
         "base_text": "Technician",
-        "loc_text": "เทคนิชเชิน",
+        "loc_text": "เทคนิคเชี่ยน",
         "string_id": "st_menu_technician"
     },
     "st_menu_technician_auto": {
@@ -19246,7 +19246,7 @@
     },
     "st_menu_value": {
         "base_text": "Value",
-        "loc_text": "Value",
+        "loc_text": "มูลค่า ",
         "string_id": "st_menu_value"
     },
     "steam_inventory_collection_mxs_01": {
@@ -19261,17 +19261,17 @@
     },
     "steam_inventory_quality": {
         "base_text": "Quality:",
-        "loc_text": "Quality:",
+        "loc_text": "คุณภาพ:",
         "string_id": "steam_inventory_quality"
     },
     "steam_inventory_rarity": {
         "base_text": "Rarity:",
-        "loc_text": "Rarity:",
+        "loc_text": "ความหายาก:",
         "string_id": "steam_inventory_rarity"
     },
     "steam_inventory_stat_boost": {
         "base_text": "Stat Boost:",
-        "loc_text": "Stat Boost:",
+        "loc_text": "บูสต์สถานะ:",
         "string_id": "steam_inventory_stat_boost"
     },
     "steam_rp_current_difficulty": {

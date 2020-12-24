@@ -19056,7 +19056,7 @@
     },
     "hud_skirmish_wave_end": {
         "base_text": "Wave $current; completed",
-        "loc_text": "สำเร็จแล้ว $current; รอบ",
+        "loc_text": "จบรอบที่ $current;",
         "string_id": "hud_skirmish_wave_end"
     },
     "hud_skirmish_wave_start": {

@@ -2311,7 +2311,7 @@
     },
     "bm_menu_btn_clear_preferred": {
         "base_text": "Clear Preferred Characters",
-        "loc_text": "Clear Preferred Characters",
+        "loc_text": "ล้างค่าตัวละครที่ต้องการ",
         "string_id": "bm_menu_btn_clear_preferred"
     },
     "bm_menu_btn_craft_mod": {
@@ -2346,7 +2346,7 @@
     },
     "bm_menu_btn_equip_armor": {
         "base_text": "Equip armor",
-        "loc_text": "Equip armor",
+        "loc_text": "ใช้งานเกราะ",
         "string_id": "bm_menu_btn_equip_armor"
     },
     "bm_menu_btn_equip_armor_skin": {
@@ -2361,27 +2361,27 @@
     },
     "bm_menu_btn_equip_gloves": {
         "base_text": "Equip Gloves",
-        "loc_text": "Equip Gloves",
+        "loc_text": "ใช้งานถุงมือ",
         "string_id": "bm_menu_btn_equip_gloves"
     },
     "bm_menu_btn_equip_grenade": {
         "base_text": "Equip Throwable",
-        "loc_text": "Equip Throwable",
+        "loc_text": "ใช้งานอาวุธขว้าง",
         "string_id": "bm_menu_btn_equip_grenade"
     },
     "bm_menu_btn_equip_mask": {
         "base_text": "Equip mask",
-        "loc_text": "Equip mask",
+        "loc_text": "ใช้งานหน้ากาก",
         "string_id": "bm_menu_btn_equip_mask"
     },
     "bm_menu_btn_equip_melee_weapon": {
         "base_text": "Equip melee weapon",
-        "loc_text": "Equip melee weapon",
+        "loc_text": "ใช้งานอาวุธระยะประชิด",
         "string_id": "bm_menu_btn_equip_melee_weapon"
     },
     "bm_menu_btn_equip_player_style": {
         "base_text": "Equip Outfit",
-        "loc_text": "Equip Outfit",
+        "loc_text": "ใช้งานชุด",
         "string_id": "bm_menu_btn_equip_player_style"
     },
     "bm_menu_btn_equip_primary_deployable": {
@@ -2401,7 +2401,7 @@
     },
     "bm_menu_btn_equip_weapon": {
         "base_text": "Equip weapon",
-        "loc_text": "Equip weapon",
+        "loc_text": "ใช้งานอาวุธ",
         "string_id": "bm_menu_btn_equip_weapon"
     },
     "bm_menu_btn_equip_weapon_cosmetic": {
@@ -2451,22 +2451,22 @@
     },
     "bm_menu_btn_preview_gloves": {
         "base_text": "Preview Gloves",
-        "loc_text": "Preview Gloves",
+        "loc_text": "แสดงตัวอย่างถุงมือ",
         "string_id": "bm_menu_btn_preview_gloves"
     },
     "bm_menu_btn_preview_grenade": {
         "base_text": "Preview Throwable",
-        "loc_text": "Preview Throwable",
+        "loc_text": "แสดงตัวอย่างอาวุธขว้าง",
         "string_id": "bm_menu_btn_preview_grenade"
     },
     "bm_menu_btn_preview_mask": {
         "base_text": "Preview mask",
-        "loc_text": "Preview mask",
+        "loc_text": "แสดงตัวอย่างหน้ากาก",
         "string_id": "bm_menu_btn_preview_mask"
     },
     "bm_menu_btn_preview_melee_weapon": {
         "base_text": "Preview melee weapon",
-        "loc_text": "Preview melee weapon",
+        "loc_text": "แสดงตัวอย่างอาวุธระยะประชิด",
         "string_id": "bm_menu_btn_preview_melee_weapon"
     },
     "bm_menu_btn_preview_no_mod": {
@@ -2476,7 +2476,7 @@
     },
     "bm_menu_btn_preview_player_style": {
         "base_text": "Preview Outfit",
-        "loc_text": "Preview Outfit",
+        "loc_text": "แสดงตัวอย่างชุด",
         "string_id": "bm_menu_btn_preview_player_style"
     },
     "bm_menu_btn_preview_suit_variation": {
@@ -2516,47 +2516,47 @@
     },
     "bm_menu_btn_sell": {
         "base_text": "Sell weapon",
-        "loc_text": "Sell weapon",
+        "loc_text": "ขายอาวุธ",
         "string_id": "bm_menu_btn_sell"
     },
     "bm_menu_btn_sell_mask": {
         "base_text": "Sell mask",
-        "loc_text": "Sell mask",
+        "loc_text": "ขายหน้ากาก",
         "string_id": "bm_menu_btn_sell_mask"
     },
     "bm_menu_btn_sell_tradable": {
         "base_text": "Sell On Community Market",
-        "loc_text": "Sell On Community Market",
+        "loc_text": "ขายบนศูนย์กลางชุมชน",
         "string_id": "bm_menu_btn_sell_tradable"
     },
     "bm_menu_btn_sentry_ap_rounds": {
         "base_text": "Set AP rounds",
-        "loc_text": "Set AP rounds",
+        "loc_text": "ตั้งค่าให้เป็นยิงเจาะเกราะ",
         "string_id": "bm_menu_btn_sentry_ap_rounds"
     },
     "bm_menu_btn_sentry_default_rounds": {
         "base_text": "Set default rounds",
-        "loc_text": "Set default rounds",
+        "loc_text": "ตั้งค่าให้เป็นยิงปกติ",
         "string_id": "bm_menu_btn_sentry_default_rounds"
     },
     "bm_menu_btn_set_preferred_to_slot": {
         "base_text": "Set Preferred",
-        "loc_text": "Set Preferred",
+        "loc_text": "ตั้งให้เป็นที่ต้องการ",
         "string_id": "bm_menu_btn_set_preferred_to_slot"
     },
     "bm_menu_btn_show_weapons": {
         "base_text": "Show Weapons",
-        "loc_text": "Show Weapons",
+        "loc_text": "แสดงอาวุธ",
         "string_id": "bm_menu_btn_show_weapons"
     },
     "bm_menu_btn_skin": {
         "base_text": "Edit skin",
-        "loc_text": "Edit skin",
+        "loc_text": "แก้ไขสกิน",
         "string_id": "bm_menu_btn_skin"
     },
     "bm_menu_btn_stop_move": {
         "base_text": "Cancel",
-        "loc_text": "Cancel",
+        "loc_text": "ยกเลิก",
         "string_id": "bm_menu_btn_stop_move"
     },
     "bm_menu_btn_stop_preview_weapon_cosmetic": {
@@ -2586,7 +2586,7 @@
     },
     "bm_menu_btn_unequip_weapon": {
         "base_text": "Unequip weapon",
-        "loc_text": "Unequip weapon",
+        "loc_text": "ยกเลิกการใช้งานอาวุธ",
         "string_id": "bm_menu_btn_unequip_weapon"
     },
     "bm_menu_btn_unselect": {
@@ -2626,7 +2626,7 @@
     },
     "bm_menu_charge_time": {
         "base_text": "Charge time",
-        "loc_text": "Charge time",
+        "loc_text": "เวลาชาร์จ",
         "string_id": "bm_menu_charge_time"
     },
     "bm_menu_chosen": {
@@ -2691,7 +2691,7 @@
     },
     "bm_menu_damage_effect": {
         "base_text": "Knockdown",
-        "loc_text": "Knockdown",
+        "loc_text": "ทำให้ล้มลง",
         "string_id": "bm_menu_damage_effect"
     },
     "bm_menu_damage_shake": {
@@ -2751,7 +2751,7 @@
     },
     "bm_menu_extra": {
         "base_text": "Extra",
-        "loc_text": "Extra",
+        "loc_text": "เพิ่มเติม",
         "string_id": "bm_menu_extra"
     },
     "bm_menu_fire_rate": {
@@ -2776,7 +2776,7 @@
     },
     "bm_menu_foregrip": {
         "base_text": "Foregrip",
-        "loc_text": "Foregrip",
+        "loc_text": "กริปจับมือหน้า",
         "string_id": "bm_menu_foregrip"
     },
     "bm_menu_gadget": {
@@ -2796,7 +2796,7 @@
     },
     "bm_menu_gloves": {
         "base_text": "Gloves",
-        "loc_text": "Gloves",
+        "loc_text": "ถุงมือ",
         "string_id": "bm_menu_gloves"
     },
     "bm_menu_grenades": {
@@ -2806,7 +2806,7 @@
     },
     "bm_menu_grip": {
         "base_text": "Grip",
-        "loc_text": "Grip",
+        "loc_text": "กริปจับมือหลัง",
         "string_id": "bm_menu_grip"
     },
     "bm_menu_health": {
@@ -2836,7 +2836,7 @@
     },
     "bm_menu_item_amount": {
         "base_text": "In stock: $amount;",
-        "loc_text": "In stock: $amount;",
+        "loc_text": "มีอยู่ในคลัง: $amount;",
         "string_id": "bm_menu_item_amount"
     },
     "bm_menu_item_locked": {
@@ -2911,7 +2911,7 @@
     },
     "bm_menu_lower_reciever": {
         "base_text": "Lower Receiver",
-        "loc_text": "Lower Receiver",
+        "loc_text": "โครงปืนล่าง",
         "string_id": "bm_menu_lower_reciever"
     },
     "bm_menu_magazine": {
@@ -2986,12 +2986,12 @@
     },
     "bm_menu_player_styles": {
         "base_text": "Outfit",
-        "loc_text": "Outfit",
+        "loc_text": "ชุด",
         "string_id": "bm_menu_player_styles"
     },
     "bm_menu_preferred": {
         "base_text": "Selected",
-        "loc_text": "Selected",
+        "loc_text": "ถูกเลือกอยู่",
         "string_id": "bm_menu_preferred"
     },
     "bm_menu_preview_mods": {
@@ -3361,7 +3361,7 @@
     },
     "bm_menu_stock": {
         "base_text": "Stock",
-        "loc_text": "Stock",
+        "loc_text": "พานท้าย",
         "string_id": "bm_menu_stock"
     },
     "bm_menu_stock_plural": {
@@ -3371,7 +3371,7 @@
     },
     "bm_menu_suit_variations": {
         "base_text": "Customize Outfit",
-        "loc_text": "Customize Outfit",
+        "loc_text": "ปรับแต่งชุด",
         "string_id": "bm_menu_suit_variations"
     },
     "bm_menu_suppression": {
@@ -3426,7 +3426,7 @@
     },
     "bm_menu_upper_reciever": {
         "base_text": "Upper Receiver",
-        "loc_text": "Upper Receiver",
+        "loc_text": "โครงปืนบน",
         "string_id": "bm_menu_upper_reciever"
     },
     "bm_menu_vertical_grip": {
