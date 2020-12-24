@@ -3331,7 +3331,7 @@
     },
     "bm_menu_stats_mod": {
         "base_text": "Mod",
-        "loc_text": "การปรับแต่ง",
+        "loc_text": "แต่ง",
         "string_id": "bm_menu_stats_mod"
     },
     "bm_menu_stats_skill": {
