@@ -16,7 +16,7 @@
     },
     "chill_combat_rewards": {
         "base_text": "Rewards",
-        "loc_text": "Rewards",
+        "loc_text": "รางวัล",
         "string_id": "chill_combat_rewards"
     },
     "eday1_brief": {
