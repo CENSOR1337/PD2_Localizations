@@ -1801,47 +1801,47 @@
     },
     "menu_asset_bodybags_bag_desc": {
         "base_text": "Buy body bags to share with your crew",
-        "loc_text": "ซื้อกระเป๋าศพแบ่งปันกับ",
+        "loc_text": "ซื้อกระเป๋าศพแบ่งปันกับเพื่อนร่วมทีมของคุณ",
         "string_id": "menu_asset_bodybags_bag_desc"
     },
     "menu_asset_branchbank_blueprint": {
         "base_text": "Blueprints",
-        "loc_text": "Blueprints",
+        "loc_text": "พิมพ์เขียว",
         "string_id": "menu_asset_branchbank_blueprint"
     },
     "menu_asset_branchbank_insiderinfo": {
         "base_text": "Insider Info",
-        "loc_text": "Insider Info",
+        "loc_text": "ข้อมูลคนใน",
         "string_id": "menu_asset_branchbank_insiderinfo"
     },
     "menu_asset_buy_all": {
         "base_text": "Buy all assets",
-        "loc_text": "Buy all assets",
+        "loc_text": "ซื้ออุปกรณ์ช่วยเหลือทั้งหมด",
         "string_id": "menu_asset_buy_all"
     },
     "menu_asset_buy_all_button": {
         "base_text": "Buy all assets",
-        "loc_text": "Buy all assets",
+        "loc_text": "ซื้ออุปกรณ์ช่วยเหลือทั้งหมด",
         "string_id": "menu_asset_buy_all_button"
     },
     "menu_asset_buy_all_desc": {
         "base_text": "Do you want to buy all available assets for $price;?",
-        "loc_text": "Do you want to buy all available assets for $price;?",
+        "loc_text": "คุณต้องการที่จะซื้ออุปกรณ์ช่วยเหลือที่สามารถซื้อได้ทั้งหมดในราคา $price; ใช่หรือไม่?",
         "string_id": "menu_asset_buy_all_desc"
     },
     "menu_asset_buy_all_fail": {
         "base_text": "No assets available.",
-        "loc_text": "No assets available.",
+        "loc_text": "ไม่มีอุปกรณ์ช่วยเหลือใดๆ",
         "string_id": "menu_asset_buy_all_fail"
     },
     "menu_asset_buy_all_req_skill": {
         "base_text": "##Requires Sixth Sense Aced##",
-        "loc_text": "##ต้องการสกิล Sixth Sense เอซ##",
+        "loc_text": "##ต้องการสกิล ซิกซ์เซ้นส์ เอซ##",
         "string_id": "menu_asset_buy_all_req_skill"
     },
     "menu_asset_cam": {
         "base_text": "Camera Feed",
-        "loc_text": "Camera Feed",
+        "loc_text": "กล้องวงจรปิด",
         "string_id": "menu_asset_cam"
     },
     "menu_asset_colored_tags": {
@@ -1851,17 +1851,17 @@
     },
     "menu_asset_dark_additional_cameras": {
         "base_text": "Additional Cameras",
-        "loc_text": "Additional Cameras",
+        "loc_text": "กล้องวงจรปิดเพิ่มเติม",
         "string_id": "menu_asset_dark_additional_cameras"
     },
     "menu_asset_dark_emp": {
         "base_text": "EMP Part",
-        "loc_text": "EMP Part",
+        "loc_text": "ส่วนของอีเอ็มพี",
         "string_id": "menu_asset_dark_emp"
     },
     "menu_asset_dumpsters": {
         "base_text": "Dumpsters",
-        "loc_text": "Dumpsters",
+        "loc_text": "ถังขยะ",
         "string_id": "menu_asset_dumpsters"
     },
     "menu_asset_election1_keycard": {
@@ -1881,7 +1881,7 @@
     },
     "menu_asset_extra_cutter": {
         "base_text": "Extra Cutter",
-        "loc_text": "Extra Cutter",
+        "loc_text": "เครื่องมือตัดเพิ่มเติม",
         "string_id": "menu_asset_extra_cutter"
     },
     "menu_asset_flat_panic_room_blueprint": {
@@ -1891,32 +1891,32 @@
     },
     "menu_asset_four_stores_overview": {
         "base_text": "Overview",
-        "loc_text": "Overview",
+        "loc_text": "ภาพรวม",
         "string_id": "menu_asset_four_stores_overview"
     },
     "menu_asset_framing3_vent": {
         "base_text": "Bag Shortcut",
-        "loc_text": "Bag Shortcut",
+        "loc_text": "ทางลัดกระเป๋า",
         "string_id": "menu_asset_framing3_vent"
     },
     "menu_asset_framing_frame_art": {
         "base_text": "Additional Entry Point",
-        "loc_text": "Additional Entry Point",
+        "loc_text": "จุดทางเข้าเพิ่มเติม",
         "string_id": "menu_asset_framing_frame_art"
     },
     "menu_asset_framing_frame_art_desc": {
         "base_text": "An additional entry point from the roof",
-        "loc_text": "An additional entry point from the roof",
+        "loc_text": "จุดทางเข้าเพิ่มเติมจากหลังคา",
         "string_id": "menu_asset_framing_frame_art_desc"
     },
     "menu_asset_framing_frame_truck": {
         "base_text": "Additional Roof Access",
-        "loc_text": "Additional Roof Access",
+        "loc_text": "การเข้าถึงพื้นที่บนหลังคา",
         "string_id": "menu_asset_framing_frame_truck"
     },
     "menu_asset_framing_frame_truck_desc": {
         "base_text": "Strategically parked truck provides roof access",
-        "loc_text": "Strategically parked truck provides roof access",
+        "loc_text": "จอดรถรถบรรทุกเพื่อให้สามารถเข้าถึงหลังคาได้",
         "string_id": "menu_asset_framing_frame_truck_desc"
     },
     "menu_asset_gage_assignment": {
@@ -1931,7 +1931,7 @@
     },
     "menu_asset_grenade_crate_desc": {
         "base_text": "Buy frag grenades to share with your crew",
-        "loc_text": "Buy frag grenades to share with your crew",
+        "loc_text": "ซื้อระเบิดเพื่อแบ่งปันกับเพื่อนร่วมทีมของคุณ",
         "string_id": "menu_asset_grenade_crate_desc"
     },
     "menu_asset_health": {
@@ -1941,7 +1941,7 @@
     },
     "menu_asset_health_desc": {
         "base_text": "Buy a doctor bag dead drop",
-        "loc_text": "Buy a doctor bag dead drop",
+        "loc_text": "ซื้อด็อกเตอร์แบค",
         "string_id": "menu_asset_health_desc"
     },
     "menu_asset_jungle_2_ammo": {
@@ -8961,12 +8961,12 @@
     },
     "menu_es_ghost_bonus_day": {
         "base_text": "Day successfully stealthed!$NL;Complete the contract to earn your ##stealth bonus##.",
-        "loc_text": "ทำการย่องเงียบได้สำเร็จ!$NL;สิ้นสุดงานจ้างเพื่อรับโบนัสย่องเงียบ ##stealth bonus##.",
+        "loc_text": "ทำการย่องเงียบได้สำเร็จ!$NL;สิ้นสุดงานจ้างเพื่อรับ ##โบนัสย่องเงียบ##",
         "string_id": "menu_es_ghost_bonus_day"
     },
     "menu_es_ghost_bonus_job": {
         "base_text": "You have earned a ##stealth bonus##:$NL;+$bonus;% XP for your next contract.",
-        "loc_text": "คุณได้รับโบนัสย่องเงียบ ##stealth ##:$NL;ได้รับค่าประสบการณ์เพิ่มขึ้นอีก $bonus;% สำหรับงานจ้างถัดไป",
+        "loc_text": "คุณได้รับ ##โบนัสย่องเงียบ##:$NL;ได้รับค่าประสบการณ์เพิ่มขึ้นอีก $bonus;% สำหรับงานจ้างถัดไป",
         "string_id": "menu_es_ghost_bonus_job"
     },
     "menu_es_heat_bonus": {

@@ -3011,27 +3011,27 @@
     },
     "bm_menu_quality_fair": {
         "base_text": "Well-Used",
-        "loc_text": "ถูกใช้งานพอสมควร",
+        "loc_text": "เวลยูซท",
         "string_id": "bm_menu_quality_fair"
     },
     "bm_menu_quality_fine": {
         "base_text": "Lightly-Marked",
-        "loc_text": "มีรอยเล็กน้อย",
+        "loc_text": "ไลท์เวทมาร์ค",
         "string_id": "bm_menu_quality_fine"
     },
     "bm_menu_quality_good": {
         "base_text": "Broken-In",
-        "loc_text": "เริ่มโทรม",
+        "loc_text": "โบรเค็นอิน",
         "string_id": "bm_menu_quality_good"
     },
     "bm_menu_quality_mint": {
         "base_text": "Mint-Condition",
-        "loc_text": "สภาพใหม่เอี่ยม",
+        "loc_text": "มิ้นท์-คอนดิชั่นเนอร์",
         "string_id": "bm_menu_quality_mint"
     },
     "bm_menu_quality_poor": {
         "base_text": "Battle-Worn",
-        "loc_text": "ผ่านการต่อสู้อย่างหนักหนา",
+        "loc_text": "แบทเทิลวอร์น",
         "string_id": "bm_menu_quality_poor"
     },
     "bm_menu_range": {
