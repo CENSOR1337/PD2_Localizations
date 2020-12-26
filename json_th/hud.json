@@ -101,7 +101,7 @@
     },
     "hint_cant_stand_up": {
         "base_text": "You can't stand up here.",
-        "loc_text": "You can't stand up here.",
+        "loc_text": "คุณไม่สามารถยืนที่นี่ได้",
         "string_id": "hint_cant_stand_up"
     },
     "hint_case_pickup": {
@@ -2441,12 +2441,12 @@
     },
     "hud_arm_mission5_hl": {
         "base_text": "Escape is available",
-        "loc_text": "Escape is available",
+        "loc_text": "การหลบหนีพร้อมแล้ว",
         "string_id": "hud_arm_mission5_hl"
     },
     "hud_assault_assault": {
         "base_text": "Police assault in progress",
-        "loc_text": "Police assault in progress",
+        "loc_text": "อยู่ระหว่างการจับกุม",
         "string_id": "hud_assault_assault"
     },
     "hud_assault_end_line": {
@@ -2471,7 +2471,7 @@
     },
     "hud_assault_waves": {
         "base_text": "WAVE $current;/$max;",
-        "loc_text": "WAVE $current;/$max;",
+        "loc_text": "รอบที่ $current;/$max;",
         "string_id": "hud_assault_waves"
     },
     "hud_body_bags": {
@@ -2871,7 +2871,7 @@
     },
     "hud_carry_diamonds": {
         "base_text": "Jewelry",
-        "loc_text": "Jewelry",
+        "loc_text": "เครื่องเพรช",
         "string_id": "hud_carry_diamonds"
     },
     "hud_carry_diamonds_dah": {
@@ -3211,7 +3211,7 @@
     },
     "hud_carrying": {
         "base_text": "Carrying:",
-        "loc_text": "Carrying:",
+        "loc_text": "กำลังแบก:",
         "string_id": "hud_carrying"
     },
     "hud_carrying_announcement": {
@@ -15766,7 +15766,7 @@
     },
     "hud_instruct_throw_bag": {
         "base_text": "$BTN_USE_ITEM; to throw",
-        "loc_text": "$BTN_USE_ITEM; to throw",
+        "loc_text": "กด $BTN_USE_ITEM; เพื่อโยน",
         "string_id": "hud_instruct_throw_bag"
     },
     "hud_int_access_camera": {
@@ -15946,7 +15946,7 @@
     },
     "hud_int_equipment_barcode_opa_locka": {
         "base_text": "Barcode: Shaw",
-        "loc_text": "Barcode: Shaw",
+        "loc_text": "บาร์โค้ด: ชอว์",
         "string_id": "hud_int_equipment_barcode_opa_locka"
     },
     "hud_int_equipment_blow_torch": {
@@ -16616,7 +16616,7 @@
     },
     "hud_int_hold_grab_the_bag": {
         "base_text": "Hold $BTN_INTERACT; to grab the bag",
-        "loc_text": "Hold $BTN_INTERACT; to grab the bag",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบกระเป๋า",
         "string_id": "hud_int_hold_grab_the_bag"
     },
     "hud_int_hold_grab_the_painting": {
@@ -17231,7 +17231,7 @@
     },
     "hud_int_hold_take_jewelry": {
         "base_text": "Hold $BTN_INTERACT; to take the jewelry",
-        "loc_text": "Hold $BTN_INTERACT; to take the jewelry",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบเครื่องเพชร",
         "string_id": "hud_int_hold_take_jewelry"
     },
     "hud_int_hold_take_mask": {
@@ -17496,7 +17496,7 @@
     },
     "hud_int_hostage_convert": {
         "base_text": "Hold $BTN_INTERACT; to convert the enemy",
-        "loc_text": "Hold $BTN_INTERACT; to convert the enemy",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเปลี่ยนฝั่งของศัตรู",
         "string_id": "hud_int_hostage_convert"
     },
     "hud_int_ignite_flare": {
@@ -18031,7 +18031,7 @@
     },
     "hud_int_take": {
         "base_text": "Press $BTN_INTERACT; to take",
-        "loc_text": "Press $BTN_INTERACT; to take",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบ",
         "string_id": "hud_int_take"
     },
     "hud_int_take_acid": {
@@ -18511,7 +18511,7 @@
     },
     "hud_loot_secured_title": {
         "base_text": "Loot secured",
-        "loc_text": "Loot secured",
+        "loc_text": "ได้รับของแล้ว",
         "string_id": "hud_loot_secured_title"
     },
     "hud_man_apply_tape": {
@@ -19551,7 +19551,7 @@
     },
     "hud_v_ukrainian_job_mission4_hl": {
         "base_text": "Steal and secure the jewelry",
-        "loc_text": "Steal and secure the jewelry",
+        "loc_text": "ขโมยเครื่องเพรช",
         "string_id": "hud_v_ukrainian_job_mission4_hl"
     },
     "hud_v_ukrainian_job_mission_hl": {

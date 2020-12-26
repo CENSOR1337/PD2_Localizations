@@ -1,0 +1,1002 @@
+{
+    "debug_ammo_bag": {
+        "base_text": "Ammo Bag",
+        "loc_text": "กระเป๋ากระสุน",
+        "string_id": "debug_ammo_bag"
+    },
+    "debug_c4_diffusible": {
+        "base_text": "Hold $BTN_INTERACT; to Defuse the C4",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อกู้ระเบิดซีโฟร์",
+        "string_id": "debug_c4_diffusible"
+    },
+    "debug_chat_say": {
+        "base_text": "Chat:",
+        "loc_text": "สนทนา:",
+        "string_id": "debug_chat_say"
+    },
+    "debug_doctor_bag": {
+        "base_text": "Doctor Bag",
+        "loc_text": "ด็อกเตอร์แบ็ค",
+        "string_id": "debug_doctor_bag"
+    },
+    "debug_equipment_armor_kit": {
+        "base_text": "Armor Bag",
+        "loc_text": "กระเป๋ากระสุน",
+        "string_id": "debug_equipment_armor_kit"
+    },
+    "debug_equipment_blood_sample": {
+        "base_text": "BLOOD SAMPLE",
+        "loc_text": "ตัวอย่างเลือด",
+        "string_id": "debug_equipment_blood_sample"
+    },
+    "debug_equipment_blood_sample_valid": {
+        "base_text": "VALID BLOOD SAMPLE",
+        "loc_text": "ตัวอย่างเลือดที่ถูกต้อง",
+        "string_id": "debug_equipment_blood_sample_valid"
+    },
+    "debug_equipment_bodybags_bag": {
+        "base_text": "Body Bag Case",
+        "loc_text": "กระเป๋าถุงศพ",
+        "string_id": "debug_equipment_bodybags_bag"
+    },
+    "debug_equipment_crowbar": {
+        "base_text": "CROWBAR",
+        "loc_text": "ชะแลง",
+        "string_id": "debug_equipment_crowbar"
+    },
+    "debug_equipment_ecm_jammer": {
+        "base_text": "ECM jammer",
+        "loc_text": "อีซีเอ็มแจมเมอร์",
+        "string_id": "debug_equipment_ecm_jammer"
+    },
+    "debug_equipment_first_aid_kit": {
+        "base_text": "First Aid Kit",
+        "loc_text": "เฟริสเอสคิด",
+        "string_id": "debug_equipment_first_aid_kit"
+    },
+    "debug_equipment_gas": {
+        "base_text": "Gasoline",
+        "loc_text": "น้ำมันเบนซิน",
+        "string_id": "debug_equipment_gas"
+    },
+    "debug_equipment_stash_planks": {
+        "base_text": "PLANKS",
+        "loc_text": "กระดานไม้",
+        "string_id": "debug_equipment_stash_planks"
+    },
+    "debug_equipment_stash_server": {
+        "base_text": "SERVER",
+        "loc_text": "เซิร์ฟเวอร์",
+        "string_id": "debug_equipment_stash_server"
+    },
+    "debug_instruct_finish_arrest": {
+        "base_text": "Press $BTN_INTERACT; to get up",
+        "loc_text": "กด $BTN_INTERACT; เพื่อลุกขึ้น",
+        "string_id": "debug_instruct_finish_arrest"
+    },
+    "debug_instruct_finish_arrest_PS3": {
+        "base_text": "Press $BTN_INTERACT; to get up",
+        "loc_text": "กด $BTN_INTERACT; เพื่อลุกขึ้น",
+        "string_id": "debug_instruct_finish_arrest_PS3"
+    },
+    "debug_instruct_mask_on": {
+        "base_text": "Press $BTN_INTERACT; to start the Heist",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเริ่มภารกิจ",
+        "string_id": "debug_instruct_mask_on"
+    },
+    "debug_instruct_mask_on_PS3": {
+        "base_text": "Press $BTN_INTERACT; to Start the Heist",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเพื่อเริ่มภารกิจ",
+        "string_id": "debug_instruct_mask_on_PS3"
+    },
+    "debug_interact_ammo_bag_take_ammo": {
+        "base_text": "Hold $BTN_INTERACT; to Take Ammo",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบกระสุน",
+        "string_id": "debug_interact_ammo_bag_take_ammo"
+    },
+    "debug_interact_ammo_bag_take_ammo_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Take Ammo",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบกระสุน",
+        "string_id": "debug_interact_ammo_bag_take_ammo_PS3"
+    },
+    "debug_interact_apartment_helicopter": {
+        "base_text": "Hold $BTN_INTERACT; to Attach the Magnet",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเชื่อมต่อแม่เหล็ก",
+        "string_id": "debug_interact_apartment_helicopter"
+    },
+    "debug_interact_apartment_helicopter_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Attach the Magnet",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อค้างเพื่อเชื่อมต่อแม่เหล็ก",
+        "string_id": "debug_interact_apartment_helicopter_PS3"
+    },
+    "debug_interact_apartment_key": {
+        "base_text": "Press $BTN_INTERACT; to use the Key",
+        "loc_text": "กด $BTN_INTERACT; เพื่อใช้กุญแจ",
+        "string_id": "debug_interact_apartment_key"
+    },
+    "debug_interact_apartment_key_PS3": {
+        "base_text": "Press $BTN_INTERACT; to use the Key",
+        "loc_text": "กด $BTN_INTERACT; เพื่อใช้กุญแจ",
+        "string_id": "debug_interact_apartment_key_PS3"
+    },
+    "debug_interact_being_freed": {
+        "base_text": "You are Being Rescued",
+        "loc_text": "คุณกำลังได้รับการปล่อยตัว",
+        "string_id": "debug_interact_being_freed"
+    },
+    "debug_interact_being_revived": {
+        "base_text": "You are Being Helped Up",
+        "loc_text": "คุณกำลังได้รับการช่วยเหลือ",
+        "string_id": "debug_interact_being_revived"
+    },
+    "debug_interact_bodybags_bag_take_bodybag": {
+        "base_text": "Hold $BTN_INTERACT; to grab a body bag",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบถุงศพ",
+        "string_id": "debug_interact_bodybags_bag_take_bodybag"
+    },
+    "debug_interact_c4": {
+        "base_text": "Hold $BTN_INTERACT; to Place the Explosives",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อวางระเบิด",
+        "string_id": "debug_interact_c4"
+    },
+    "debug_interact_c4_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Place the Explosives",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อวางระเบิด",
+        "string_id": "debug_interact_c4_PS3"
+    },
+    "debug_interact_c4_bag": {
+        "base_text": "Hold $BTN_INTERACT; to Pick up Explosives",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบระเบิด",
+        "string_id": "debug_interact_c4_bag"
+    },
+    "debug_interact_c4_bag_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Pick up Explosives",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบระเบิด",
+        "string_id": "debug_interact_c4_bag_PS3"
+    },
+    "debug_interact_circuit_breaker": {
+        "base_text": "Press $BTN_INTERACT; to Turn on the Power",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเปิดไฟฟ้า",
+        "string_id": "debug_interact_circuit_breaker"
+    },
+    "debug_interact_computer_test": {
+        "base_text": "Press $BTN_INTERACT; to copy the files",
+        "loc_text": "กด $BTN_INTERACT; เพื่อคัดลอกไฟล์",
+        "string_id": "debug_interact_computer_test"
+    },
+    "debug_interact_computer_test_PS3": {
+        "base_text": "Press $BTN_INTERACT; to Copy the files",
+        "loc_text": "กด $BTN_INTERACT; เพื่อคัดลอกไฟล์",
+        "string_id": "debug_interact_computer_test_PS3"
+    },
+    "debug_interact_copy_machine": {
+        "base_text": "Press $BTN_INTERACT; to open the Copy Machine",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเปิดเครื่องทำสำเนา",
+        "string_id": "debug_interact_copy_machine"
+    },
+    "debug_interact_copy_machine_PS3": {
+        "base_text": "Press $BTN_INTERACT; to open the Copy Machine",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเปิดเครื่องทำสำเนา",
+        "string_id": "debug_interact_copy_machine_PS3"
+    },
+    "debug_interact_crowbar": {
+        "base_text": "Hold $BTN_INTERACT; to Breach the Door",
+        "loc_text": "กด $BTN_INTERACT; เพื่องัดประตู",
+        "string_id": "debug_interact_crowbar"
+    },
+    "debug_interact_crowbar2": {
+        "base_text": "Hold $BTN_INTERACT; to Breach the Trunk",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่องัดกระโปรงหลังรถ",
+        "string_id": "debug_interact_crowbar2"
+    },
+    "debug_interact_crowbar_breach": {
+        "base_text": "Hold $BTN_INTERACT; to Breach",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่องัด",
+        "string_id": "debug_interact_crowbar_breach"
+    },
+    "debug_interact_cutter_jammed": {
+        "base_text": "Hold $BTN_INTERACT; to Restart the Cutter",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเริ่มเครื่องตัดใหม่",
+        "string_id": "debug_interact_cutter_jammed"
+    },
+    "debug_interact_cutter_jammed_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Restart the Cutter",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเริ่มเครื่องตัดใหม่",
+        "string_id": "debug_interact_cutter_jammed_PS3"
+    },
+    "debug_interact_diamond": {
+        "base_text": "Press $BTN_INTERACT; to take the diamond",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบเพรช",
+        "string_id": "debug_interact_diamond"
+    },
+    "debug_interact_diamond_PS3": {
+        "base_text": "Press $BTN_INTERACT; to take the diamond",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบเพรช",
+        "string_id": "debug_interact_diamond_PS3"
+    },
+    "debug_interact_diamond_case": {
+        "base_text": "Press $BTN_INTERACT; to open",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเปิด",
+        "string_id": "debug_interact_diamond_case"
+    },
+    "debug_interact_diamond_case_PS3": {
+        "base_text": "Press $BTN_INTERACT; to open",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเปิด",
+        "string_id": "debug_interact_diamond_case_PS3"
+    },
+    "debug_interact_doctor_bag_heal": {
+        "base_text": "Hold $BTN_INTERACT; to Patch Yourself Up",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อรักษาตัวเอง",
+        "string_id": "debug_interact_doctor_bag_heal"
+    },
+    "debug_interact_doctor_bag_heal_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Patch Yourself Up",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อรักษาตัวเอง",
+        "string_id": "debug_interact_doctor_bag_heal_PS3"
+    },
+    "debug_interact_drill_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Place the Drill",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อวางเครื่องเจาะ",
+        "string_id": "debug_interact_drill_PS3"
+    },
+    "debug_interact_drill_jammed": {
+        "base_text": "Hold $BTN_INTERACT; to Restart the Drill",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเริ่มเครื่องเจาะใหม่",
+        "string_id": "debug_interact_drill_jammed"
+    },
+    "debug_interact_drill_jammed_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Restart the Drill",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเริ่มเครื่องเจาะใหม่",
+        "string_id": "debug_interact_drill_jammed_PS3"
+    },
+    "debug_interact_elevator_door": {
+        "base_text": "Press $BTN_INTERACT; to Call the Elevator",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเรียกลิฟต์",
+        "string_id": "debug_interact_elevator_door"
+    },
+    "debug_interact_elevator_door_roof": {
+        "base_text": "Press $BTN_INTERACT; to START the Elevator",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเริ่มลิฟต์",
+        "string_id": "debug_interact_elevator_door_roof"
+    },
+    "debug_interact_embassy_door": {
+        "base_text": "Hold $BTN_INTERACT; to Open The Door",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเปิดประตู",
+        "string_id": "debug_interact_embassy_door"
+    },
+    "debug_interact_embassy_door_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Open The Door",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเปิดประตู",
+        "string_id": "debug_interact_embassy_door_PS3"
+    },
+    "debug_interact_equipment_blood_sample_verified": {
+        "base_text": "you need a valid blood sample",
+        "loc_text": "คุณต้องมีตัวอย่างเลือดที่ถูกต้อง",
+        "string_id": "debug_interact_equipment_blood_sample_verified"
+    },
+    "debug_interact_equipment_c4": {
+        "base_text": "Requires C4",
+        "loc_text": "ต้องการซีโฟร์",
+        "string_id": "debug_interact_equipment_c4"
+    },
+    "debug_interact_equipment_cable_tie": {
+        "base_text": "You need cable ties",
+        "loc_text": "คุณต้องการสายรัด",
+        "string_id": "debug_interact_equipment_cable_tie"
+    },
+    "debug_interact_equipment_crowbar": {
+        "base_text": "You Need a Crowbar",
+        "loc_text": "คุณต้องการชะแลง",
+        "string_id": "debug_interact_equipment_crowbar"
+    },
+    "debug_interact_equipment_gas": {
+        "base_text": "You need Gasoline",
+        "loc_text": "คุณต้องการน้ำมันเบนซิน",
+        "string_id": "debug_interact_equipment_gas"
+    },
+    "debug_interact_equipment_requires_cable_ties": {
+        "base_text": "You need cable ties",
+        "loc_text": "คุณต้องการสายรัด",
+        "string_id": "debug_interact_equipment_requires_cable_ties"
+    },
+    "debug_interact_equipment_saw": {
+        "base_text": "Get the Saw",
+        "loc_text": "คุณต้องการเครื่องเลื่อย",
+        "string_id": "debug_interact_equipment_saw"
+    },
+    "debug_interact_equipment_stash_planks": {
+        "base_text": "You need some Planks",
+        "loc_text": "คุณต้องการกระดานไม้",
+        "string_id": "debug_interact_equipment_stash_planks"
+    },
+    "debug_interact_equipment_stash_server": {
+        "base_text": "You Need the Server",
+        "loc_text": "คุณต้องการเซิร์ฟเวอร์",
+        "string_id": "debug_interact_equipment_stash_server"
+    },
+    "debug_interact_equipment_thermite": {
+        "base_text": "You need Thermite!",
+        "loc_text": "คุณต้องการเทอร์ไมท์",
+        "string_id": "debug_interact_equipment_thermite"
+    },
+    "debug_interact_equiptment_apartment_key": {
+        "base_text": "Take the key from Chavez",
+        "loc_text": "เอากุญแจจากชาเวซ",
+        "string_id": "debug_interact_equiptment_apartment_key"
+    },
+    "debug_interact_equiptment_sample_validation": {
+        "base_text": "Requires a Blood Sample",
+        "loc_text": "ต้องการตัวอย่างเลือด",
+        "string_id": "debug_interact_equiptment_sample_validation"
+    },
+    "debug_interact_free": {
+        "base_text": "Hold $BTN_INTERACT; to Rescue your Teammate",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อปล่อยเพื่อนร่วมทีม",
+        "string_id": "debug_interact_free"
+    },
+    "debug_interact_free_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Rescue your Teammate",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อปล่อยเพื่อนร่วมทีม",
+        "string_id": "debug_interact_free_PS3"
+    },
+    "debug_interact_gage_assignment_take": {
+        "base_text": "Hold $BTN_INTERACT; to pick up the package",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบแพกเกจ",
+        "string_id": "debug_interact_gage_assignment_take"
+    },
+    "debug_interact_gas": {
+        "base_text": "Press $BTN_INTERACT; to pour Gasoline",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเทน้ำมันเบนซิน",
+        "string_id": "debug_interact_gas"
+    },
+    "debug_interact_gas_PS3": {
+        "base_text": "Press $BTN_INTERACT; to pour Gasoline",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเทน้ำมันเบนซิน",
+        "string_id": "debug_interact_gas_PS3"
+    },
+    "debug_interact_gen_pku_loot_take": {
+        "base_text": "Press $BTN_INTERACT; to Take the loot",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบของ",
+        "string_id": "debug_interact_gen_pku_loot_take"
+    },
+    "debug_interact_glass_cutter": {
+        "base_text": "Hold $BTN_INTERACT; to Place the Cutter",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อวางเครื่องตัด",
+        "string_id": "debug_interact_glass_cutter"
+    },
+    "debug_interact_gold_bag": {
+        "base_text": "Hold $BTN_INTERACT; to Pick up the Bag",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบกระเป๋า",
+        "string_id": "debug_interact_gold_bag"
+    },
+    "debug_interact_gold_bag_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Pick up the Bag",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบกระเป๋า",
+        "string_id": "debug_interact_gold_bag_PS3"
+    },
+    "debug_interact_gold_pile_take_money": {
+        "base_text": "Hold $BTN_INTERACT; to Take the Gold",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบทอง",
+        "string_id": "debug_interact_gold_pile_take_money"
+    },
+    "debug_interact_gold_pile_take_money_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Take the Gold",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบทอง",
+        "string_id": "debug_interact_gold_pile_take_money_PS3"
+    },
+    "debug_interact_grenade_crate_take_grenades": {
+        "base_text": "Hold $BTN_INTERACT; to grab a throwable",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบอาวุธขว้าง",
+        "string_id": "debug_interact_grenade_crate_take_grenades"
+    },
+    "debug_interact_hack_ipad": {
+        "base_text": "Hold $BTN_INTERACT; to set up Device",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อวางอุปการณ์",
+        "string_id": "debug_interact_hack_ipad"
+    },
+    "debug_interact_hack_ipad_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to set up Device",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อวางอุปการณ์",
+        "string_id": "debug_interact_hack_ipad_PS3"
+    },
+    "debug_interact_hack_ipad_jammed": {
+        "base_text": "Hold $BTN_INTERACT; to reboot",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเริ่มระบบใหม่",
+        "string_id": "debug_interact_hack_ipad_jammed"
+    },
+    "debug_interact_hack_ipad_jammed_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to reboot",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเริ่มระบบใหม่",
+        "string_id": "debug_interact_hack_ipad_jammed_PS3"
+    },
+    "debug_interact_hold_to_breach": {
+        "base_text": "Hold $BTN_INTERACT; to Breach",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อทำลาย",
+        "string_id": "debug_interact_hold_to_breach"
+    },
+    "debug_interact_hospital_phone": {
+        "base_text": "Press $BTN_INTERACT; to answer the phone",
+        "loc_text": "กด $BTN_INTERACT; เพื่อตอบโทรศัพท์",
+        "string_id": "debug_interact_hospital_phone"
+    },
+    "debug_interact_hospital_saw_teddy": {
+        "base_text": "Hold $BTN_INTERACT; to Pick up the saw",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบเลื่อย",
+        "string_id": "debug_interact_hospital_saw_teddy"
+    },
+    "debug_interact_hospital_security_cable": {
+        "base_text": "hold $BTN_INTERACT; to cut the cable",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อตัดสาย",
+        "string_id": "debug_interact_hospital_security_cable"
+    },
+    "debug_interact_hospital_sentry": {
+        "base_text": "hold $BTN_INTERACT; to set up the sentry gun",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อติดตั้งป้อมปืน",
+        "string_id": "debug_interact_hospital_sentry"
+    },
+    "debug_interact_hospital_veil_container": {
+        "base_text": "hold $BTN_INTERACT; to stash the Vial",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเก็บขวด",
+        "string_id": "debug_interact_hospital_veil_container"
+    },
+    "debug_interact_hostage_move": {
+        "base_text": "Hold $BTN_INTERACT; to move the hostage",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อย้ายตัวประกัน",
+        "string_id": "debug_interact_hostage_move"
+    },
+    "debug_interact_hostage_stay": {
+        "base_text": "Hold $BTN_INTERACT; to sit the hostage down",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อสั่งให้ตัวประกันนั่งลง",
+        "string_id": "debug_interact_hostage_stay"
+    },
+    "debug_interact_interaction_ball": {
+        "base_text": "Hold $BTN_INTERACT; to Pull the Hose",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อดึงสายยาง",
+        "string_id": "debug_interact_interaction_ball"
+    },
+    "debug_interact_intimidate": {
+        "base_text": "Hold $BTN_INTERACT; to Tie Hands",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อมัดมือ",
+        "string_id": "debug_interact_intimidate"
+    },
+    "debug_interact_intimidate_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Tie Hands",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อมัดมือ",
+        "string_id": "debug_interact_intimidate_PS3"
+    },
+    "debug_interact_key": {
+        "base_text": "Press $BTN_INTERACT; to use the Keycard",
+        "loc_text": "กด $BTN_INTERACT; เพื่อใช้งานคีย์การ์ด",
+        "string_id": "debug_interact_key"
+    },
+    "debug_interact_key_PS3": {
+        "base_text": "Press $BTN_INTERACT; to use the Keycard",
+        "loc_text": "กด $BTN_INTERACT; เพื่อใช้งานคีย์การ์ด",
+        "string_id": "debug_interact_key_PS3"
+    },
+    "debug_interact_laptop_objective": {
+        "base_text": "Hold $BTN_INTERACT; to Erase security footage",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อล้างข้อมูลระบบรักษาความปลอดภัย",
+        "string_id": "debug_interact_laptop_objective"
+    },
+    "debug_interact_laptop_objective_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Erase security footage",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อล้างข้อมูลระบบรักษาความปลอดภัย",
+        "string_id": "debug_interact_laptop_objective_PS3"
+    },
+    "debug_interact_money_bag": {
+        "base_text": "Press $BTN_INTERACT; to Place the Money Bag",
+        "loc_text": "กด $BTN_INTERACT; เพื่อวางกระเป๋าเงิน",
+        "string_id": "debug_interact_money_bag"
+    },
+    "debug_interact_money_bag_PS3": {
+        "base_text": "Press $BTN_INTERACT; to Place the Money Bag",
+        "loc_text": "กด $BTN_INTERACT; เพื่อวางกระเป๋าเงิน",
+        "string_id": "debug_interact_money_bag_PS3"
+    },
+    "debug_interact_money_printed_take_money": {
+        "base_text": "Hold $BTN_INTERACT; to take the Money",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบเงิน",
+        "string_id": "debug_interact_money_printed_take_money"
+    },
+    "debug_interact_money_wrap_single_bundle_take_money": {
+        "base_text": "Press $BTN_INTERACT; to Take the Money",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบเงิน",
+        "string_id": "debug_interact_money_wrap_single_bundle_take_money"
+    },
+    "debug_interact_money_wrap_single_bundle_take_money_PS3": {
+        "base_text": "Press $BTN_INTERACT; to Take the Money",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบเงิน",
+        "string_id": "debug_interact_money_wrap_single_bundle_take_money_PS3"
+    },
+    "debug_interact_money_wrap_take_money": {
+        "base_text": "Hold $BTN_INTERACT; to Fill the Money bag",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบใส่กระเป๋า",
+        "string_id": "debug_interact_money_wrap_take_money"
+    },
+    "debug_interact_money_wrap_take_money_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Fill the Money bag",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบใส่กระเป๋า",
+        "string_id": "debug_interact_money_wrap_take_money_PS3"
+    },
+    "debug_interact_move_bookshelf": {
+        "base_text": "Hold $BTN_INTERACT; to Move the Bookshelf",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อย้ายตู้หนังสือ",
+        "string_id": "debug_interact_move_bookshelf"
+    },
+    "debug_interact_numpad": {
+        "base_text": "Press $BTN_INTERACT; to enter the code",
+        "loc_text": "กด $BTN_INTERACT; เพื่อใส่โค๊ด",
+        "string_id": "debug_interact_numpad"
+    },
+    "debug_interact_numpad_PS3": {
+        "base_text": "Press $BTN_INTERACT; to enter the code",
+        "loc_text": "กด $BTN_INTERACT; เพื่อใส่โค๊ด",
+        "string_id": "debug_interact_numpad_PS3"
+    },
+    "debug_interact_open_door": {
+        "base_text": "Hold $BTN_INTERACT; to Open The Door",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเปิดประตู",
+        "string_id": "debug_interact_open_door"
+    },
+    "debug_interact_open_door_PS3": {
+        "base_text": "Press $BTN_INTERACT; to Open The Door",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเปิดประตู",
+        "string_id": "debug_interact_open_door_PS3"
+    },
+    "debug_interact_open_trunk": {
+        "base_text": "Hold $BTN_INTERACT; to Open Trunk",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเปิดกระโปรงหลัง",
+        "string_id": "debug_interact_open_trunk"
+    },
+    "debug_interact_patient_paper": {
+        "base_text": "Hold $BTN_INTERACT; TO CHECK FILE",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อตรวจสอบไฟล์",
+        "string_id": "debug_interact_patient_paper"
+    },
+    "debug_interact_printing_plates": {
+        "base_text": "Hold $BTN_INTERACT; to Take the Printing Plate",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบแผ่นพิมพ์",
+        "string_id": "debug_interact_printing_plates"
+    },
+    "debug_interact_requires_gold_bag": {
+        "base_text": "Hold $BTN_INTERACT; to Drop the Bag",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อวางกระเป๋า",
+        "string_id": "debug_interact_requires_gold_bag"
+    },
+    "debug_interact_requires_gold_bag_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Drop the Bag",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อวางกระเป๋า",
+        "string_id": "debug_interact_requires_gold_bag_PS3"
+    },
+    "debug_interact_revive": {
+        "base_text": "Hold $BTN_INTERACT; to Help your Teammate Up",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อช่วยเหลือเพื่อนร่วมทีม",
+        "string_id": "debug_interact_revive"
+    },
+    "debug_interact_revive_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Help your Teammate Up",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อช่วยเหลือเพื่อนร่วมทีม",
+        "string_id": "debug_interact_revive_PS3"
+    },
+    "debug_interact_saw": {
+        "base_text": "Hold $BTN_INTERACT; to Place the Saw",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อวางเครื่องเลื่อย",
+        "string_id": "debug_interact_saw"
+    },
+    "debug_interact_saw_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Place the Saw",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อวางเครื่องเลื่อย",
+        "string_id": "debug_interact_saw_PS3"
+    },
+    "debug_interact_saw_jammed": {
+        "base_text": "Hold $BTN_INTERACT; to Restart the Saw",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเริ่มเครื่องเลื่อยใหม่",
+        "string_id": "debug_interact_saw_jammed"
+    },
+    "debug_interact_saw_jammed_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Restart the Saw",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเริ่มเครื่องเลื่อยใหม่",
+        "string_id": "debug_interact_saw_jammed_PS3"
+    },
+    "debug_interact_search_key": {
+        "base_text": "Hold $BTN_INTERACT; to Search for Key",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อค้นหากุญแจ",
+        "string_id": "debug_interact_search_key"
+    },
+    "debug_interact_search_key_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Search for Key",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อค้นหากุญแจ",
+        "string_id": "debug_interact_search_key_PS3"
+    },
+    "debug_interact_security_station": {
+        "base_text": "Hold $BTN_INTERACT; to Start the Override",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อทำการแฮกระบบ",
+        "string_id": "debug_interact_security_station"
+    },
+    "debug_interact_security_station_jammed": {
+        "base_text": "Hold $BTN_INTERACT; to Continue",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อไปต่อ",
+        "string_id": "debug_interact_security_station_jammed"
+    },
+    "debug_interact_sentry_gun_reload": {
+        "base_text": "Hold $BTN_INTERACT; to reload Sentry Gun$NL;( Ammo Remaining: $AMMO; )",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเติมกระสุนป้อมปืน$NL;( เหลือกระสุนอยู่: $AMMO; )",
+        "string_id": "debug_interact_sentry_gun_reload"
+    },
+    "debug_interact_sewer_manhole": {
+        "base_text": "Hold $BTN_INTERACT; to Open the Manhole",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเปิดท่อระบายน้ำ",
+        "string_id": "debug_interact_sewer_manhole"
+    },
+    "debug_interact_stash_planks": {
+        "base_text": "Hold $BTN_INTERACT; to Barricade",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเสริมกำบัง",
+        "string_id": "debug_interact_stash_planks"
+    },
+    "debug_interact_stash_planks_pickup": {
+        "base_text": "Hold $BTN_INTERACT; to Take the Planks",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบกระดานไม้",
+        "string_id": "debug_interact_stash_planks_pickup"
+    },
+    "debug_interact_stash_server": {
+        "base_text": "Hold $BTN_INTERACT; to Connect the Server",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเชื่อมต่อเซิร์ฟเวอร์",
+        "string_id": "debug_interact_stash_server"
+    },
+    "debug_interact_stash_server_cord": {
+        "base_text": "Press $BTN_INTERACT; to Connect the Power Cord",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเชื่อมต่อเข้ากับแหล่งจ่ายไฟ",
+        "string_id": "debug_interact_stash_server_cord"
+    },
+    "debug_interact_stash_server_pickup": {
+        "base_text": "Hold $BTN_INTERACT; to Take the Server",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบเซิร์ฟเวอร์",
+        "string_id": "debug_interact_stash_server_pickup"
+    },
+    "debug_interact_take_christmas_present": {
+        "base_text": "Press $BTN_INTERACT; to Take the Xmas Present",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบของขวัญ",
+        "string_id": "debug_interact_take_christmas_present"
+    },
+    "debug_interact_tear_painting": {
+        "base_text": "Press $BTN_INTERACT; to Tear the Painting",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบภาพวาด",
+        "string_id": "debug_interact_tear_painting"
+    },
+    "debug_interact_temp_interact_box": {
+        "base_text": "Hold $BTN_INTERACT; to interact",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อตอบโต้",
+        "string_id": "debug_interact_temp_interact_box"
+    },
+    "debug_interact_temp_interact_box_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to interact",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อตอบโต้",
+        "string_id": "debug_interact_temp_interact_box_PS3"
+    },
+    "debug_interact_temp_interact_box_press": {
+        "base_text": "Press $BTN_INTERACT; to interact",
+        "loc_text": "กด $BTN_INTERACT; เพื่อตอบโต้",
+        "string_id": "debug_interact_temp_interact_box_press"
+    },
+    "debug_interact_thermite": {
+        "base_text": "Hold $BTN_INTERACT; to place the Thermite",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อวางเทอร์ไมท์",
+        "string_id": "debug_interact_thermite"
+    },
+    "debug_interact_thermite_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to place the Thermite",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อวางเทอร์ไมท์",
+        "string_id": "debug_interact_thermite_PS3"
+    },
+    "debug_interact_trade": {
+        "base_text": "Hold $BTN_INTERACT; to Trade your Teammate",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อแลกเปลี่ยนเพื่อนร่วมทีม",
+        "string_id": "debug_interact_trade"
+    },
+    "debug_interact_trade_PS3": {
+        "base_text": "Hold $BTN_INTERACT; to Trade your Teammate",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อแลกเปลี่ยนเพื่อนร่วมทีม",
+        "string_id": "debug_interact_trade_PS3"
+    },
+    "debug_interact_trade_hostage_skm": {
+        "base_text": "Hold $BTN_INTERACT; to Trade the Hostage",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อแลกตัวประกัน",
+        "string_id": "debug_interact_trade_hostage_skm"
+    },
+    "debug_interact_transformer_box": {
+        "base_text": "Hold $BTN_INTERACT; to Turn on the Power",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเปิดไฟฟ้า",
+        "string_id": "debug_interact_transformer_box"
+    },
+    "debug_interact_trip_mine": {
+        "base_text": "Press $BTN_INTERACT; to Turn Trip Mine On or Off",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเปิดหรือปิดกับดักระเบิด",
+        "string_id": "debug_interact_trip_mine"
+    },
+    "debug_interact_trip_mine_PS3": {
+        "base_text": "Press $BTN_INTERACT; to Turn Trip Mine On or Off",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเปิดหรือปิดกับดักระเบิด",
+        "string_id": "debug_interact_trip_mine_PS3"
+    },
+    "debug_interact_water_tap": {
+        "base_text": "Hold $BTN_INTERACT; to Turn on the Water",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเปิดน้ำ",
+        "string_id": "debug_interact_water_tap"
+    },
+    "debug_loading_level": {
+        "base_text": "Loading",
+        "loc_text": "กำลังโหลด",
+        "string_id": "debug_loading_level"
+    },
+    "debug_mission_end_continue": {
+        "base_text": "$CONTINUE; Continue to lobby",
+        "loc_text": "$CONTINUE; ดำเนินการต่อไปที่ล็อบบี้",
+        "string_id": "debug_mission_end_continue"
+    },
+    "debug_mission_end_continue_PS3": {
+        "base_text": "$BTN_A; Continue to lobby",
+        "loc_text": "$BTN_A; ดำเนินการต่อไปที่ล็อบบี้",
+        "string_id": "debug_mission_end_continue_PS3"
+    },
+    "debug_mugshot_cuffed": {
+        "base_text": "Cuffed",
+        "loc_text": "โดนใส่กุญแจมือ",
+        "string_id": "debug_mugshot_cuffed"
+    },
+    "debug_mugshot_downed": {
+        "base_text": "Downed",
+        "loc_text": "ล้ม",
+        "string_id": "debug_mugshot_downed"
+    },
+    "debug_mugshot_electrified": {
+        "base_text": "Electrified",
+        "loc_text": "ถูกช็อต",
+        "string_id": "debug_mugshot_electrified"
+    },
+    "debug_mugshot_in_custody": {
+        "base_text": "In custody.",
+        "loc_text": "ถูกจับกุม",
+        "string_id": "debug_mugshot_in_custody"
+    },
+    "debug_sentry_gun": {
+        "base_text": "Sentry Gun",
+        "loc_text": "ป้อมปืน",
+        "string_id": "debug_sentry_gun"
+    },
+    "debug_team_mate_need_free": {
+        "base_text": "Teammate is under Arrest!",
+        "loc_text": "เพื่อนร่วมทีมถูกจับกุม",
+        "string_id": "debug_team_mate_need_free"
+    },
+    "debug_team_mate_need_revive": {
+        "base_text": "Teammate is Down!",
+        "loc_text": "เพื่อนร่วมทีมล้มลง!",
+        "string_id": "debug_team_mate_need_revive"
+    },
+    "debug_trade_hostage": {
+        "base_text": "Trade hostage for your teammate!",
+        "loc_text": "แลกเปลี่ยนตัวประกันสำหรับเพื่อนร่วมทีมของคุณ!",
+        "string_id": "debug_trade_hostage"
+    },
+    "debug_trip_mine": {
+        "base_text": "Trip Mine",
+        "loc_text": "กับดักระเบิด",
+        "string_id": "debug_trip_mine"
+    },
+    "debug_undecided": {
+        "base_text": "Undecided",
+        "loc_text": "ไม่ถูกเลือก",
+        "string_id": "debug_undecided"
+    },
+    "debug_wskn_base_gradient": {
+        "base_text": "Base Gradient",
+        "loc_text": "ต้นแบบการไล่ระดับสี",
+        "string_id": "debug_wskn_base_gradient"
+    },
+    "debug_wskn_base_skin": {
+        "base_text": "Base Skin",
+        "loc_text": "ต้นแบบสกิน",
+        "string_id": "debug_wskn_base_skin"
+    },
+    "debug_wskn_black": {
+        "base_text": "Black",
+        "loc_text": "ดำ",
+        "string_id": "debug_wskn_black"
+    },
+    "debug_wskn_blue": {
+        "base_text": "Blue",
+        "loc_text": "น้ำเงิน",
+        "string_id": "debug_wskn_blue"
+    },
+    "debug_wskn_browse_skin": {
+        "base_text": "Browse to skin folder",
+        "loc_text": "เรียกดูข้อมูลสกิน",
+        "string_id": "debug_wskn_browse_skin"
+    },
+    "debug_wskn_clear_skin": {
+        "base_text": "Clear Skin",
+        "loc_text": "ล้างสกิน",
+        "string_id": "debug_wskn_clear_skin"
+    },
+    "debug_wskn_color": {
+        "base_text": "Color",
+        "loc_text": "",
+        "string_id": "debug_wskn_color"
+    },
+    "debug_wskn_cubemap_pattern_control_x": {
+        "base_text": "Pattern Cubemap Intensity",
+        "loc_text": "รูปแบบความเข้มของ Cubemap",
+        "string_id": "debug_wskn_cubemap_pattern_control_x"
+    },
+    "debug_wskn_cubemap_pattern_control_y": {
+        "base_text": "Pattern Cubemap Influence",
+        "loc_text": "รูปแบบความชัดของ Cubemap",
+        "string_id": "debug_wskn_cubemap_pattern_control_y"
+    },
+    "debug_wskn_cyan": {
+        "base_text": "Cyan",
+        "loc_text": "ฟ้า",
+        "string_id": "debug_wskn_cyan"
+    },
+    "debug_wskn_delete_skin": {
+        "base_text": "Delete skin",
+        "loc_text": "ลบสกิน",
+        "string_id": "debug_wskn_delete_skin"
+    },
+    "debug_wskn_desc_input": {
+        "base_text": "Description",
+        "loc_text": "คำอธิบาย",
+        "string_id": "debug_wskn_desc_input"
+    },
+    "debug_wskn_edit_skin": {
+        "base_text": "Edit Skin",
+        "loc_text": "แก้ไขสกิน",
+        "string_id": "debug_wskn_edit_skin"
+    },
+    "debug_wskn_green": {
+        "base_text": "Green",
+        "loc_text": "เขียว",
+        "string_id": "debug_wskn_green"
+    },
+    "debug_wskn_name_input": {
+        "base_text": "Enter ID here",
+        "loc_text": "ใส่ไอดีที่นี่",
+        "string_id": "debug_wskn_name_input"
+    },
+    "debug_wskn_new_skin": {
+        "base_text": "New skin",
+        "loc_text": "สกินใหม่",
+        "string_id": "debug_wskn_new_skin"
+    },
+    "debug_wskn_none": {
+        "base_text": "None",
+        "loc_text": "ไม่มี",
+        "string_id": "debug_wskn_none"
+    },
+    "debug_wskn_pattern": {
+        "base_text": "Pattern",
+        "loc_text": "รูปแบบ",
+        "string_id": "debug_wskn_pattern"
+    },
+    "debug_wskn_pattern_gradient": {
+        "base_text": "Pattern Gradient",
+        "loc_text": "การไล่สีรูปแบบ",
+        "string_id": "debug_wskn_pattern_gradient"
+    },
+    "debug_wskn_pattern_pos_x": {
+        "base_text": "Pattern Position X",
+        "loc_text": "รูปแบบตำแหน่ง X",
+        "string_id": "debug_wskn_pattern_pos_x"
+    },
+    "debug_wskn_pattern_pos_y": {
+        "base_text": "Pattern Position Y",
+        "loc_text": "รูปแบบตำแหน่ง Y",
+        "string_id": "debug_wskn_pattern_pos_y"
+    },
+    "debug_wskn_pattern_tweak_x": {
+        "base_text": "Pattern Scale",
+        "loc_text": "มาตราส่วนรูปแบบ",
+        "string_id": "debug_wskn_pattern_tweak_x"
+    },
+    "debug_wskn_pattern_tweak_y": {
+        "base_text": "Pattern Rotation",
+        "loc_text": "การหมุนรูปแบบ",
+        "string_id": "debug_wskn_pattern_tweak_y"
+    },
+    "debug_wskn_pattern_tweak_z": {
+        "base_text": "Pattern Spec Opacity",
+        "loc_text": "ความทึบของรูปแบบ",
+        "string_id": "debug_wskn_pattern_tweak_z"
+    },
+    "debug_wskn_pink": {
+        "base_text": "Pink",
+        "loc_text": "ชมพู",
+        "string_id": "debug_wskn_pink"
+    },
+    "debug_wskn_publish_skin": {
+        "base_text": "Publish",
+        "loc_text": "เผยแพร่",
+        "string_id": "debug_wskn_publish_skin"
+    },
+    "debug_wskn_red": {
+        "base_text": "Red",
+        "loc_text": "แดง",
+        "string_id": "debug_wskn_red"
+    },
+    "debug_wskn_save_skin_local": {
+        "base_text": "Save skin",
+        "loc_text": "บันทึกสกิน",
+        "string_id": "debug_wskn_save_skin_local"
+    },
+    "debug_wskn_sticker": {
+        "base_text": "Sticker",
+        "loc_text": "สติ๊กเกอร์",
+        "string_id": "debug_wskn_sticker"
+    },
+    "debug_wskn_submit_failed": {
+        "base_text": "Failed to submit skin",
+        "loc_text": "ส่งสกินไม่สำเร็จ",
+        "string_id": "debug_wskn_submit_failed"
+    },
+    "debug_wskn_submit_no_screenshot": {
+        "base_text": "No screenshot selected",
+        "loc_text": "ไม่ได้เลือกภาพหน้าจอ",
+        "string_id": "debug_wskn_submit_no_screenshot"
+    },
+    "debug_wskn_title_input": {
+        "base_text": "Title",
+        "loc_text": "หัวข้อ",
+        "string_id": "debug_wskn_title_input"
+    },
+    "debug_wskn_uv_offset_rot_x": {
+        "base_text": "Sticker X",
+        "loc_text": "สติ๊กเกอร์ X",
+        "string_id": "debug_wskn_uv_offset_rot_x"
+    },
+    "debug_wskn_uv_offset_rot_y": {
+        "base_text": "Sticker Y",
+        "loc_text": "สติ๊กเกอร์ Y",
+        "string_id": "debug_wskn_uv_offset_rot_y"
+    },
+    "debug_wskn_uv_offset_rot_z": {
+        "base_text": "Sticker Rotation",
+        "loc_text": "การหมุนสติ๊กเกอร์",
+        "string_id": "debug_wskn_uv_offset_rot_z"
+    },
+    "debug_wskn_uv_scale_lock": {
+        "base_text": "Lock Scale",
+        "loc_text": "ล็อคขนาด",
+        "string_id": "debug_wskn_uv_scale_lock"
+    },
+    "debug_wskn_uv_scale_x": {
+        "base_text": "Sticker Width",
+        "loc_text": "ความกว้างของสติกเกอร์",
+        "string_id": "debug_wskn_uv_scale_x"
+    },
+    "debug_wskn_uv_scale_y": {
+        "base_text": "Sticker Height",
+        "loc_text": "ความสูงของสติกเกอร์",
+        "string_id": "debug_wskn_uv_scale_y"
+    },
+    "debug_wskn_uv_scale_z": {
+        "base_text": "Sticker Quality Influence",
+        "loc_text": "ความชัดเจนของคุณภาพสติกเกอร์",
+        "string_id": "debug_wskn_uv_scale_z"
+    },
+    "debug_wskn_want_to_save": {
+        "base_text": "Do you want to save your changes?",
+        "loc_text": "คุณต้องการบันทึกการเปลี่ยนแปลงของคุณ?",
+        "string_id": "debug_wskn_want_to_save"
+    },
+    "debug_wskn_white": {
+        "base_text": "White",
+        "loc_text": "ขาว",
+        "string_id": "debug_wskn_white"
+    },
+    "debug_wskn_yellow": {
+        "base_text": "Yellow",
+        "loc_text": "เหลือง",
+        "string_id": "debug_wskn_yellow"
+    }
+}

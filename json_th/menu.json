@@ -211,7 +211,7 @@
     },
     "cn_menu_skirmish_contract_waves_header": {
         "base_text": "Waves:",
-        "loc_text": "Waves:",
+        "loc_text": "จำนวนรอบ:",
         "string_id": "cn_menu_skirmish_contract_waves_header"
     },
     "cn_menu_westend_title": {
@@ -1031,7 +1031,7 @@
     },
     "discord_rp_mp_end": {
         "base_text": "Heist Summary",
-        "loc_text": "Heist Summary",
+        "loc_text": "สรุปงานจ้าง",
         "string_id": "discord_rp_mp_end"
     },
     "discord_rp_mp_end_details": {
@@ -1051,7 +1051,7 @@
     },
     "discord_rp_safehouse": {
         "base_text": "In the Safe House",
-        "loc_text": "In the Safe House",
+        "loc_text": "อยู่ในเซฟเฮ้าส์",
         "string_id": "discord_rp_safehouse"
     },
     "discord_rp_single_end": {
@@ -1116,12 +1116,12 @@
     },
     "hint_chill_betting_loss": {
         "base_text": "You lost!",
-        "loc_text": "You lost!",
+        "loc_text": "คุณแพ้!",
         "string_id": "hint_chill_betting_loss"
     },
     "hint_chill_betting_won_20k": {
         "base_text": "You won $20,000!",
-        "loc_text": "You won $20,000!",
+        "loc_text": "คุณชนะเป็นจำนวน $20,000!",
         "string_id": "hint_chill_betting_won_20k"
     },
     "hud_heist_chill_mission1": {
@@ -1831,7 +1831,7 @@
     },
     "menu_asset_buy_all_fail": {
         "base_text": "No assets available.",
-        "loc_text": "ไม่มีอุปกรณ์ช่วยเหลือใดๆ",
+        "loc_text": "ไม่เหลืออุปกรณ์ช่วยเหลือใดๆ แล้ว",
         "string_id": "menu_asset_buy_all_fail"
     },
     "menu_asset_buy_all_req_skill": {
@@ -2271,7 +2271,7 @@
     },
     "menu_assets": {
         "base_text": "Assets",
-        "loc_text": "อุปกรณ์",
+        "loc_text": "อุปกรณ์ช่วยเหลือ",
         "string_id": "menu_assets"
     },
     "menu_awareness_beta": {
@@ -2386,7 +2386,7 @@
     },
     "menu_bodhi": {
         "base_text": "Bodhi",
-        "loc_text": "Bodhi",
+        "loc_text": "โบดี้",
         "string_id": "menu_bodhi"
     },
     "menu_bodhi_desc_codex": {
@@ -2441,12 +2441,12 @@
     },
     "menu_broker_last_played": {
         "base_text": "Last played: $time;",
-        "loc_text": "Last played: $time;",
+        "loc_text": "เล่นล่าสุด: $time;",
         "string_id": "menu_broker_last_played"
     },
     "menu_button_accelerate": {
         "base_text": "Accelerate",
-        "loc_text": "Accelerate",
+        "loc_text": "เร่งความเร็ว",
         "string_id": "menu_button_accelerate"
     },
     "menu_button_aim_down_sight": {
@@ -2741,22 +2741,22 @@
     },
     "menu_cash_bonus_bags": {
         "base_text": "Bag loot items",
-        "loc_text": "Bag loot items",
+        "loc_text": "มูลค่าของกระเป๋า",
         "string_id": "menu_cash_bonus_bags"
     },
     "menu_cash_costs": {
         "base_text": "Costs",
-        "loc_text": "Costs",
+        "loc_text": "ต่าใช้จ่าย",
         "string_id": "menu_cash_costs"
     },
     "menu_cash_crew": {
         "base_text": "Crew alive bonus",
-        "loc_text": "Crew alive bonus",
+        "loc_text": "โบนัสเพื่อนร่วมทีมที่อยู่รอด",
         "string_id": "menu_cash_crew"
     },
     "menu_cash_income": {
         "base_text": "Income",
-        "loc_text": "Income",
+        "loc_text": "รายได้",
         "string_id": "menu_cash_income"
     },
     "menu_cash_safe_result": {
@@ -2766,17 +2766,17 @@
     },
     "menu_cash_spending": {
         "base_text": "Spending cash",
-        "loc_text": "Spending cash",
+        "loc_text": "เงินสด",
         "string_id": "menu_cash_spending"
     },
     "menu_casino_choice_bet": {
         "base_text": "$BTN_X; Place bet",
-        "loc_text": "$BTN_X; Place bet",
+        "loc_text": "$BTN_X; เพื่อวางพนัน",
         "string_id": "menu_casino_choice_bet"
     },
     "menu_casino_choice_exit": {
         "base_text": "$BTN_X; Back",
-        "loc_text": "$BTN_X; Back",
+        "loc_text": "$BTN_X; ย้อนกลับ",
         "string_id": "menu_casino_choice_exit"
     },
     "menu_casino_cost_fee": {
@@ -2796,7 +2796,7 @@
     },
     "menu_casino_option_prefer_none": {
         "base_text": "None",
-        "loc_text": "None",
+        "loc_text": "ไม่มีเจาะจง",
         "string_id": "menu_casino_option_prefer_none"
     },
     "menu_casino_option_prefer_title": {
@@ -2891,7 +2891,7 @@
     },
     "menu_casino_title_main": {
         "base_text": "Offshore Payday",
-        "loc_text": "Offshore Payday",
+        "loc_text": "ออฟชอร์เพย์เดย์",
         "string_id": "menu_casino_title_main"
     },
     "menu_casino_title_stats": {
@@ -5116,7 +5116,7 @@
     },
     "menu_chat_peer_added": {
         "base_text": "$name; is joining.",
-        "loc_text": "$name; is joining.",
+        "loc_text": "$name; กำลังเข้าร่วมเกม",
         "string_id": "menu_chat_peer_added"
     },
     "menu_chat_peer_added_modded": {
@@ -5206,12 +5206,12 @@
     },
     "menu_chat_peer_failed": {
         "base_text": "$name; failed authentication.",
-        "loc_text": "$name; failed authentication.",
+        "loc_text": "$name; ไม่สามารถยืนยันตัวตนได้",
         "string_id": "menu_chat_peer_failed"
     },
     "menu_chat_peer_kicked": {
         "base_text": "$name; has been kicked.",
-        "loc_text": "$name; has been kicked.",
+        "loc_text": "$name; ถูกขับไล่",
         "string_id": "menu_chat_peer_kicked"
     },
     "menu_chat_peer_kicked_unknown": {
@@ -5221,17 +5221,17 @@
     },
     "menu_chat_peer_left": {
         "base_text": "$name; left.",
-        "loc_text": "$name; left.",
+        "loc_text": "$name; ออกจากเกม.",
         "string_id": "menu_chat_peer_left"
     },
     "menu_chat_peer_lost": {
         "base_text": "$name; disconnected.",
-        "loc_text": "$name; disconnected.",
+        "loc_text": "$name; ตัดการเชื่อมต่อ.",
         "string_id": "menu_chat_peer_lost"
     },
     "menu_chat_peer_unlocked_asset": {
         "base_text": "$name; unlocked asset: $asset;.",
-        "loc_text": "$name; unlocked asset: $asset;.",
+        "loc_text": "$name; ปลดล็อคอุปกรณ์ช่วยเหลือ: $asset;.",
         "string_id": "menu_chat_peer_unlocked_asset"
     },
     "menu_chat_peer_unlocked_gage_asset": {
@@ -5246,12 +5246,12 @@
     },
     "menu_chat_preplanning_unreserved": {
         "base_text": "$name; removed $type;",
-        "loc_text": "$name; removed $type;",
+        "loc_text": "$name; ได้ลบ $type;",
         "string_id": "menu_chat_preplanning_unreserved"
     },
     "menu_chat_restart_timer": {
         "base_text": "Restarting in $time; seconds.",
-        "loc_text": "Restarting in $time; seconds.",
+        "loc_text": "เริ่มเกมใหม่ใน $time; วินาที",
         "string_id": "menu_chat_restart_timer"
     },
     "menu_chico": {
@@ -5266,7 +5266,7 @@
     },
     "menu_chill_combat_under_attack": {
         "base_text": "SAFE HOUSE UNDER ATTACK",
-        "loc_text": "SAFE HOUSE UNDER ATTACK",
+        "loc_text": "เซฟเฮ้าส์กำลังถูกโจมตี",
         "string_id": "menu_chill_combat_under_attack"
     },
     "menu_chill_combat_under_attack_desc": {
@@ -5341,27 +5341,27 @@
     },
     "menu_cn_chat_hide": {
         "base_text": "$BTN_BACK; Hide chat",
-        "loc_text": "$BTN_BACK; Hide chat",
+        "loc_text": "$BTN_BACK; ซ่อนการสนทนา",
         "string_id": "menu_cn_chat_hide"
     },
     "menu_cn_chat_show": {
         "base_text": "$BTN_BACK; Show chat",
-        "loc_text": "$BTN_BACK; Show chat",
+        "loc_text": "$BTN_BACK; แสดงการสนทนา",
         "string_id": "menu_cn_chat_show"
     },
     "menu_cn_chill": {
         "base_text": "Safe House",
-        "loc_text": "Safe House",
+        "loc_text": "เซฟเฮ้าส์",
         "string_id": "menu_cn_chill"
     },
     "menu_cn_chill_combat": {
         "base_text": "Safe House Raid",
-        "loc_text": "Safe House Raid",
+        "loc_text": "เซฟเฮ้าส์ถูกโจมตี",
         "string_id": "menu_cn_chill_combat"
     },
     "menu_cn_chill_combat_defend": {
         "base_text": "Defend the Safe House",
-        "loc_text": "Defend the Safe House",
+        "loc_text": "ป้องกันเซฟเฮ้าส์",
         "string_id": "menu_cn_chill_combat_defend"
     },
     "menu_cn_chill_combat_ignore_defend": {
@@ -5371,7 +5371,7 @@
     },
     "menu_cn_contact_info": {
         "base_text": "Contact Database",
-        "loc_text": "Contact Database",
+        "loc_text": "ฐานข้อมูลการติดต่อ",
         "string_id": "menu_cn_contact_info"
     },
     "menu_cn_contract_title": {
@@ -5386,7 +5386,7 @@
     },
     "menu_cn_gage_assignment": {
         "base_text": "Gage",
-        "loc_text": "Gage",
+        "loc_text": "เกจ",
         "string_id": "menu_cn_gage_assignment"
     },
     "menu_cn_game_mods": {
@@ -5461,7 +5461,7 @@
     },
     "menu_cn_premium_buy": {
         "base_text": "Contract Broker",
-        "loc_text": "Contract Broker",
+        "loc_text": "งานจ้าง",
         "string_id": "menu_cn_premium_buy"
     },
     "menu_cn_premium_buy_accept": {
@@ -5526,7 +5526,7 @@
     },
     "menu_cn_shortcuts": {
         "base_text": "Minimize Sidebar",
-        "loc_text": "Minimize Sidebar",
+        "loc_text": "ย่อแถบด้านข้าง",
         "string_id": "menu_cn_shortcuts"
     },
     "menu_cn_side_jobs": {
@@ -5541,7 +5541,7 @@
     },
     "menu_cn_story_missions": {
         "base_text": "Story Line",
-        "loc_text": "Story Line",
+        "loc_text": "เนื้อเรื่อง",
         "string_id": "menu_cn_story_missions"
     },
     "menu_color_bhd": {
@@ -5591,7 +5591,7 @@
     },
     "menu_color_off": {
         "base_text": "Off",
-        "loc_text": "Off",
+        "loc_text": "ปิด",
         "string_id": "menu_color_off"
     },
     "menu_color_sepia": {
@@ -5656,7 +5656,7 @@
     },
     "menu_contact_info_chill_combat": {
         "base_text": "Safe House",
-        "loc_text": "Safe House",
+        "loc_text": "เซฟเฮ้าส์",
         "string_id": "menu_contact_info_chill_combat"
     },
     "menu_contact_info_short": {
@@ -6011,7 +6011,7 @@
     },
     "menu_cs_daily_challenge": {
         "base_text": "Side Jobs",
-        "loc_text": "Side Jobs",
+        "loc_text": "ภารกิจเพิ่มเติม",
         "string_id": "menu_cs_daily_challenge"
     },
     "menu_cs_daily_desc": {
@@ -6846,12 +6846,12 @@
     },
     "menu_cs_return_to_lobby": {
         "base_text": "Return to Lobby",
-        "loc_text": "Return to Lobby",
+        "loc_text": "กลับไปยังล็อบบี้",
         "string_id": "menu_cs_return_to_lobby"
     },
     "menu_cs_rewards": {
         "base_text": "Rewards",
-        "loc_text": "Rewards",
+        "loc_text": "รางวัล",
         "string_id": "menu_cs_rewards"
     },
     "menu_cs_rewards_has_failed": {
@@ -8711,7 +8711,7 @@
     },
     "menu_drop_in_on": {
         "base_text": "On",
-        "loc_text": "On",
+        "loc_text": "เปิด",
         "string_id": "menu_drop_in_on"
     },
     "menu_drop_in_prompt": {
@@ -8871,7 +8871,7 @@
     },
     "menu_es_cash_job": {
         "base_text": "Contract pay",
-        "loc_text": "Contract pay",
+        "loc_text": "ค่าจ้างจากงาน",
         "string_id": "menu_es_cash_job"
     },
     "menu_es_challenge_completed": {
@@ -8891,7 +8891,7 @@
     },
     "menu_es_current_xp": {
         "base_text": "Current exp:",
-        "loc_text": "Current exp:",
+        "loc_text": "ค่าประสบการณ์ปัจจุบัน:",
         "string_id": "menu_es_current_xp"
     },
     "menu_es_daily_available": {
@@ -9846,12 +9846,12 @@
     },
     "menu_infamy_rank_increased": {
         "base_text": "Congratulations! You have reached infamous level $infamy_rank;!",
-        "loc_text": "Congratulations! You have reached infamous level $infamy_rank;!",
+        "loc_text": "ขอแสดงความยินดี! คุณได้อินฟามี่เป็นลำดับที่ $infamy_rank; แล้ว!",
         "string_id": "menu_infamy_rank_increased"
     },
     "menu_infamy_rank_reached": {
         "base_text": "Congratulations! You have become Infamous!",
-        "loc_text": "Congratulations! You have become Infamous!",
+        "loc_text": "ขอแสดงความยินดี! ดูเหมือนว่าคุณจะมีชื่อเสียงไปอีกขั้นแล้วหละ!",
         "string_id": "menu_infamy_rank_reached"
     },
     "menu_infamy_stinger_001_name": {
@@ -11281,32 +11281,32 @@
     },
     "menu_kit_locked": {
         "base_text": "LOCKED",
-        "loc_text": "LOCKED",
+        "loc_text": "ล็อค",
         "string_id": "menu_kit_locked"
     },
     "menu_l_choose_card_chosen": {
         "base_text": "Chosen! Revealing in $time;...",
-        "loc_text": "Chosen! Revealing in $time;...",
+        "loc_text": "เลือกแล้ว! เปิดการ์ดภายใน $time;...",
         "string_id": "menu_l_choose_card_chosen"
     },
     "menu_l_choose_card_chosen_suspense": {
         "base_text": "Chosen!",
-        "loc_text": "Chosen!",
+        "loc_text": "เลือกแล้ว!",
         "string_id": "menu_l_choose_card_chosen_suspense"
     },
     "menu_l_choose_card_local": {
         "base_text": "Pick a card",
-        "loc_text": "Pick a card",
+        "loc_text": "เลือกการ์ด",
         "string_id": "menu_l_choose_card_local"
     },
     "menu_l_choose_card_peer": {
         "base_text": "Choosing...",
-        "loc_text": "Choosing...",
+        "loc_text": "กำลังเลือก...",
         "string_id": "menu_l_choose_card_peer"
     },
     "menu_l_choose_card_waiting": {
         "base_text": "Chosen! Waiting for response...",
-        "loc_text": "Chosen! Waiting for response...",
+        "loc_text": "เลือกแล้ว! กำลังรอการตอบสนอง...",
         "string_id": "menu_l_choose_card_waiting"
     },
     "menu_l_global_value_afp": {
@@ -11851,17 +11851,17 @@
     },
     "menu_l_waiting_for_all": {
         "base_text": "Waiting for everyone to pick a card!",
-        "loc_text": "Waiting for everyone to pick a card!",
+        "loc_text": "กำลังรอให้ทุกคนหยิบการ์ด!",
         "string_id": "menu_l_waiting_for_all"
     },
     "menu_l_waiting_for_cards": {
         "base_text": "Waiting for cards...",
-        "loc_text": "Waiting for cards...",
+        "loc_text": "กำลังรอการ์ด...",
         "string_id": "menu_l_waiting_for_cards"
     },
     "menu_l_you_got": {
         "base_text": "Got a $category;:$NL;$item;",
-        "loc_text": "Got a $category;:$NL;$item;",
+        "loc_text": "ได้รับ $category;:$NL;$item;",
         "string_id": "menu_l_you_got"
     },
     "menu_leave_lobby": {
@@ -12031,7 +12031,7 @@
     },
     "menu_loadout": {
         "base_text": "Loadout",
-        "loc_text": "อุปกรณ์",
+        "loc_text": "อุปกรณ์ของผู้เล่น",
         "string_id": "menu_loadout"
     },
     "menu_loadout_blackmarket": {
@@ -12331,7 +12331,7 @@
     },
     "menu_mutators": {
         "base_text": "Mutators",
-        "loc_text": "Mutators",
+        "loc_text": "มูเตเตอร์",
         "string_id": "menu_mutators"
     },
     "menu_mutators_achievement_disabled": {
@@ -12496,7 +12496,7 @@
     },
     "menu_number_range": {
         "base_text": "$min; to $max;",
-        "loc_text": "$min; to $max;",
+        "loc_text": "$min; ถึง $max;",
         "string_id": "menu_number_range"
     },
     "menu_objective_reminder": {
@@ -12511,7 +12511,7 @@
     },
     "menu_off": {
         "base_text": "OFF",
-        "loc_text": "OFF",
+        "loc_text": "ปิด",
         "string_id": "menu_off"
     },
     "menu_offshore_account": {
@@ -12526,7 +12526,7 @@
     },
     "menu_on": {
         "base_text": "ON",
-        "loc_text": "ON",
+        "loc_text": "เปิด",
         "string_id": "menu_on"
     },
     "menu_one_down": {
@@ -17031,7 +17031,7 @@
     },
     "menu_skirmish": {
         "base_text": "Holdout",
-        "loc_text": "Holdout",
+        "loc_text": "โฮลด์เอาท์",
         "string_id": "menu_skirmish"
     },
     "menu_skirmish_fail_end_screen": {
@@ -17046,12 +17046,12 @@
     },
     "menu_skirmish_pick_heist": {
         "base_text": "Pick a holdout heist you want to play",
-        "loc_text": "Pick a holdout heist you want to play",
+        "loc_text": "เลือกภารกิจโฮลด์เอาท์ที่คุณอยากจะเล่น",
         "string_id": "menu_skirmish_pick_heist"
     },
     "menu_skirmish_random": {
         "base_text": "Holdout",
-        "loc_text": "Holdout",
+        "loc_text": "โฮลด์เอาท์",
         "string_id": "menu_skirmish_random"
     },
     "menu_skirmish_random_briefing": {
@@ -18246,12 +18246,12 @@
     },
     "menu_time_month_ago": {
         "base_text": "$time; month ago",
-        "loc_text": "$time; month ago",
+        "loc_text": "$time; เดือนที่แล้ว",
         "string_id": "menu_time_month_ago"
     },
     "menu_time_months_ago": {
         "base_text": "$time; months ago",
-        "loc_text": "$time; months ago",
+        "loc_text": "$time; เดือนที่แล้ว",
         "string_id": "menu_time_months_ago"
     },
     "menu_time_never": {
@@ -18266,17 +18266,17 @@
     },
     "menu_time_week_ago": {
         "base_text": "$time; week ago",
-        "loc_text": "$time; week ago",
+        "loc_text": "$time; สัปดาห์ที่แล้ว",
         "string_id": "menu_time_week_ago"
     },
     "menu_time_weeks_ago": {
         "base_text": "$time; weeks ago",
-        "loc_text": "$time; weeks ago",
+        "loc_text": "$time; สัปดาห์ที่แล้ว",
         "string_id": "menu_time_weeks_ago"
     },
     "menu_time_year_over": {
         "base_text": "Over a year ago",
-        "loc_text": "Over a year ago",
+        "loc_text": "ผ่านมามากกว่าหนึ่งปี",
         "string_id": "menu_time_year_over"
     },
     "menu_toggle_ai": {
@@ -18561,12 +18561,12 @@
     },
     "menu_victory_goto_next_stage": {
         "base_text": "$CONTINUE; Proceed to next day",
-        "loc_text": "$CONTINUE; Proceed to next day",
+        "loc_text": "$CONTINUE; ดำเนินการต่อในวันถัดไป",
         "string_id": "menu_victory_goto_next_stage"
     },
     "menu_victory_goto_payday": {
         "base_text": "$CONTINUE; PAYDAY",
-        "loc_text": "$CONTINUE; PAYDAY",
+        "loc_text": "$CONTINUE; เพยเดย์!",
         "string_id": "menu_victory_goto_payday"
     },
     "menu_victory_retry_stage": {
@@ -18661,7 +18661,7 @@
     },
     "menu_waiting_for_players_progress": {
         "base_text": "Waiting for $player_name; $prog;%",
-        "loc_text": "Waiting for $player_name; $prog;%",
+        "loc_text": "กำลังรอผู้เล่น $player_name; $prog;%",
         "string_id": "menu_waiting_for_players_progress"
     },
     "menu_waiting_is_joining": {
@@ -20376,12 +20376,12 @@
     },
     "victory_stage_cash_summary_name_bags": {
         "base_text": "You also made it out with $bag_amount; bag(s) with a total value of $bag_cash;.",
-        "loc_text": "You also made it out with $bag_amount; bag(s) with a total value of $bag_cash;.",
+        "loc_text": "คุณยังสามารถขนกระเป๋าได้มาอีกทั้งหมด $bag_amount; ใบเป็นมูลค่า $bag_cash;",
         "string_id": "victory_stage_cash_summary_name_bags"
     },
     "victory_stage_cash_summary_name_bags_day": {
         "base_text": "You also made it out with $bonus_bags; bag(s).",
-        "loc_text": "You also made it out with $bonus_bags; bag(s).",
+        "loc_text": "คุณยังสามารถขนกระเป๋าโบนัสได้มาอีกทั้งหมด $bonus_bags; ใบ",
         "string_id": "victory_stage_cash_summary_name_bags_day"
     },
     "victory_stage_cash_summary_name_crew": {
@@ -20391,12 +20391,12 @@
     },
     "victory_stage_cash_summary_name_job": {
         "base_text": "You earned $job_cash; for completing the contract.",
-        "loc_text": "You earned $job_cash; for completing the contract.",
+        "loc_text": "คุณได้รับรายได้เป็นจำนวนเงิน $job_cash; สำหรับการเสร็จสิ้นงานจ้าง",
         "string_id": "victory_stage_cash_summary_name_job"
     },
     "victory_stage_cash_summary_name_loose": {
         "base_text": "You stole an additional $loose_cash; in loose items and cash.",
-        "loc_text": "You stole an additional $loose_cash; in loose items and cash.",
+        "loc_text": "คุณสามารถขโมยเพิ่มเติมได้มาอีก $loose_cash; ในรูปแบบไอเทมต่างๆ และเงินสด",
         "string_id": "victory_stage_cash_summary_name_loose"
     },
     "victory_stage_cash_summary_name_offshore": {
@@ -20411,12 +20411,12 @@
     },
     "victory_stage_cash_summary_name_spending": {
         "base_text": "Change in available spending cash: $cash;.",
-        "loc_text": "Change in available spending cash: $cash;.",
+        "loc_text": "สามารถแปลงเป็นเงินสดได้อยู่ที่: $cash;",
         "string_id": "victory_stage_cash_summary_name_spending"
     },
     "victory_stage_cash_summary_name_vehicles": {
         "base_text": "You also made it out with $vehicle_amount; vehicle(s) with a total value of $vehicle_cash;.",
-        "loc_text": "You also made it out with $vehicle_amount; vehicle(s) with a total value of $vehicle_cash;.",
+        "loc_text": "และคุณยังสามารถขโมยยานพาหนะได้มาอีก $vehicle_amount; คันเป็นจำนวนเงินมูลค่า $vehicle_cash;",
         "string_id": "victory_stage_cash_summary_name_vehicles"
     },
     "victory_stage_safehouse_summary": {

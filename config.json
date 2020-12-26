@@ -11,6 +11,9 @@
          "system_text.xml",
          "systemmenu.xml"
       ],
+      "debug": [
+         "debug.xml"
+      ],
       "blackmarket": [
          "blackmarket.xml"
       ],
