@@ -536,7 +536,7 @@
     },
     "hold_interact_charge_gun": {
         "base_text": "Hold $BTN_INTERACT; to start charging the laser",
-        "loc_text": "Hold $BTN_INTERACT; to start charging the laser",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ start charging the laser",
         "string_id": "hold_interact_charge_gun"
     },
     "hud_access_camera_feed_lost": {
@@ -2481,7 +2481,7 @@
     },
     "hud_born_plug_in_powercord": {
         "base_text": "Hold $BTN_INTERACT; to plug in the power",
-        "loc_text": "Hold $BTN_INTERACT; to plug in the power",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ plug in the power",
         "string_id": "hud_born_plug_in_powercord"
     },
     "hud_briefcase": {
@@ -3226,42 +3226,42 @@
     },
     "hud_cas_ignite_fireworks": {
         "base_text": "Hold $BTN_INTERACT; to ignite the fireworks",
-        "loc_text": "Hold $BTN_INTERACT; to ignite the fireworks",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ ignite the fireworks",
         "string_id": "hud_cas_ignite_fireworks"
     },
     "hud_cas_open_compartment": {
         "base_text": "Press $BTN_INTERACT; to open the compartment",
-        "loc_text": "Press $BTN_INTERACT; to open the compartment",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ open the compartment",
         "string_id": "hud_cas_open_compartment"
     },
     "hud_cas_open_door": {
         "base_text": "Press $BTN_INTERACT; to open the door",
-        "loc_text": "Press $BTN_INTERACT; to open the door",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ open the door",
         "string_id": "hud_cas_open_door"
     },
     "hud_cas_open_guitar_case": {
         "base_text": "Hold $BTN_INTERACT; to open the guitar case",
-        "loc_text": "Hold $BTN_INTERACT; to open the guitar case",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open the guitar case",
         "string_id": "hud_cas_open_guitar_case"
     },
     "hud_cas_open_powerbox": {
         "base_text": "Hold $BTN_INTERACT; to pick the powerbox lock",
-        "loc_text": "Hold $BTN_INTERACT; to pick the powerbox lock",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pick the powerbox lock",
         "string_id": "hud_cas_open_powerbox"
     },
     "hud_cas_security_door": {
         "base_text": "Hold $BTN_INTERACT; to pick the lock",
-        "loc_text": "Hold $BTN_INTERACT; to pick the lock",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pick the lock",
         "string_id": "hud_cas_security_door"
     },
     "hud_cas_take_fireworks_bag": {
         "base_text": "Hold $BTN_INTERACT; to take the fireworks",
-        "loc_text": "Hold $BTN_INTERACT; to take the fireworks",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the fireworks",
         "string_id": "hud_cas_take_fireworks_bag"
     },
     "hud_cas_take_gear": {
         "base_text": "Hold $BTN_INTERACT; to take your gear",
-        "loc_text": "Hold $BTN_INTERACT; to take your gear",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take your gear",
         "string_id": "hud_cas_take_gear"
     },
     "hud_casing_mode_ticker": {
@@ -3281,22 +3281,22 @@
     },
     "hud_chill_access_bankinvader": {
         "base_text": "Press $BTN_INTERACT; to play",
-        "loc_text": "Press $BTN_INTERACT; to play",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ play",
         "string_id": "hud_chill_access_bankinvader"
     },
     "hud_chill_access_fbi": {
         "base_text": "Press $BTN_INTERACT; to access the FBI Files",
-        "loc_text": "Press $BTN_INTERACT; to access the FBI Files",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ access the FBI Files",
         "string_id": "hud_chill_access_fbi"
     },
     "hud_chill_access_pd2stash": {
         "base_text": "Press $BTN_INTERACT; to access PD2 Stash",
-        "loc_text": "Press $BTN_INTERACT; to access PD2 Stash",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ access PD2 Stash",
         "string_id": "hud_chill_access_pd2stash"
     },
     "hud_chill_access_sidejobs": {
         "base_text": "Press $BTN_INTERACT; to access Side Jobs",
-        "loc_text": "Press $BTN_INTERACT; to access Side Jobs",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ access Side Jobs",
         "string_id": "hud_chill_access_sidejobs"
     },
     "hud_civilian_killed_message": {
@@ -3316,22 +3316,22 @@
     },
     "hud_close_cas_elevator": {
         "base_text": "Press $BTN_INTERACT; to close the elevator door",
-        "loc_text": "Press $BTN_INTERACT; to close the elevator door",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ close the elevator door",
         "string_id": "hud_close_cas_elevator"
     },
     "hud_connect_cable": {
         "base_text": "Hold $BTN_INTERACT; to connect the cable to the power socket",
-        "loc_text": "Hold $BTN_INTERACT; to connect the cable to the power socket",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ connect the cable to the power socket",
         "string_id": "hud_connect_cable"
     },
     "hud_connect_which_hook": {
         "base_text": "Hold $BTN_INTERACT; to connect the winch to the BFD",
-        "loc_text": "Hold $BTN_INTERACT; to connect the winch to the BFD",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ connect the winch to the BFD",
         "string_id": "hud_connect_which_hook"
     },
     "hud_connect_which_hook_brb": {
         "base_text": "Hold $BTN_INTERACT; to connect the winch to the vault",
-        "loc_text": "Hold $BTN_INTERACT; to connect the winch to the vault",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ connect the winch to the vault",
         "string_id": "hud_connect_which_hook_brb"
     },
     "hud_custody_in": {
@@ -3341,7 +3341,7 @@
     },
     "hud_day_payout": {
         "base_text": "PAYDAY: $MONEY;",
-        "loc_text": "PAYDAY: $MONEY;",
+        "loc_text": "เพย์เดย์: $MONEY;",
         "string_id": "hud_day_payout"
     },
     "hud_days_title": {
@@ -3351,22 +3351,22 @@
     },
     "hud_deploy_valid_help": {
         "base_text": "Aim at a valid surface",
-        "loc_text": "Aim at a valid surface",
+        "loc_text": "มองไปที่พื้นอย่างถูกต้อง",
         "string_id": "hud_deploy_valid_help"
     },
     "hud_deploying_equipment": {
         "base_text": "Deploying $EQUIPMENT;",
-        "loc_text": "Deploying $EQUIPMENT;",
+        "loc_text": "กำลังวาง $EQUIPMENT;",
         "string_id": "hud_deploying_equipment"
     },
     "hud_detected": {
         "base_text": "Detected",
-        "loc_text": "Detected",
+        "loc_text": "ถูกพบเห็น",
         "string_id": "hud_detected"
     },
     "hud_disable_lasers": {
         "base_text": "Hold $BTN_INTERACT; to disable the lasers",
-        "loc_text": "Hold $BTN_INTERACT; to disable the lasers",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ disable the lasers",
         "string_id": "hud_disable_lasers"
     },
     "hud_e_election_day_stage1new_mission1": {
@@ -4391,7 +4391,7 @@
     },
     "hud_fix_bfd_drill": {
         "base_text": "Hold $BTN_INTERACT; to fix the BFD",
-        "loc_text": "Hold $BTN_INTERACT; to fix the BFD",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ fix the BFD",
         "string_id": "hud_fix_bfd_drill"
     },
     "hud_gage_assignment_progress": {
@@ -4401,7 +4401,7 @@
     },
     "hud_generator_start": {
         "base_text": "Hold $BTN_INTERACT; to start the generator",
-        "loc_text": "Hold $BTN_INTERACT; to start the generator",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ start the generator",
         "string_id": "hud_generator_start"
     },
     "hud_h_alex_stage1_mission1": {
@@ -4846,12 +4846,12 @@
     },
     "hud_hack_ship_control": {
         "base_text": "Hold $BTN_INTERACT; to hack the ship control terminal",
-        "loc_text": "Hold $BTN_INTERACT; to hack the ship control terminal",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ hack the ship control terminal",
         "string_id": "hud_hack_ship_control"
     },
     "hud_hack_skylight_barrier": {
         "base_text": "Hold $BTN_INTERACT; to hack the skylight barrier",
-        "loc_text": "Hold $BTN_INTERACT; to hack the skylight barrier",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ hack the skylight barrier",
         "string_id": "hud_hack_skylight_barrier"
     },
     "hud_hacking_ship_control": {
@@ -5881,7 +5881,7 @@
     },
     "hud_heist_bph_13_hl": {
         "base_text": "Wait for Bain's cell to open",
-        "loc_text": "Wait for Bain's cell to open",
+        "loc_text": "Wait for Bain's cell เพื่อเปิด",
         "string_id": "hud_heist_bph_13_hl"
     },
     "hud_heist_bph_14": {
@@ -11971,7 +11971,7 @@
     },
     "hud_heist_nmh_8_hl": {
         "base_text": "Pick the right door to open",
-        "loc_text": "Pick the right door to open",
+        "loc_text": "Pick the right door เพื่อเปิด",
         "string_id": "hud_heist_nmh_8_hl"
     },
     "hud_heist_nmh_9": {
@@ -15431,122 +15431,122 @@
     },
     "hud_hold_assemble_bomb": {
         "base_text": "Hold $BTN_INTERACT; to assemble explosives",
-        "loc_text": "Hold $BTN_INTERACT; to assemble explosives",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ assemble explosives",
         "string_id": "hud_hold_assemble_bomb"
     },
     "hud_hold_bet_slotmachine_chl": {
         "base_text": "Hold $BTN_INTERACT; to play the slots ($10,000)",
-        "loc_text": "Hold $BTN_INTERACT; to play the slots ($10,000)",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ play the slots ($10,000)",
         "string_id": "hud_hold_bet_slotmachine_chl"
     },
     "hud_hold_burn_offshore_money": {
         "base_text": "Hold $BTN_INTERACT; to burn all your offshore money",
-        "loc_text": "Hold $BTN_INTERACT; to burn all your offshore money",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ burn all your offshore money",
         "string_id": "hud_hold_burn_offshore_money"
     },
     "hud_hold_center_button": {
         "base_text": "Hold $BTN_INTERACT; to push in the center symbol",
-        "loc_text": "Hold $BTN_INTERACT; to push in the center symbol",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ push in the center symbol",
         "string_id": "hud_hold_center_button"
     },
     "hud_hold_hook_car": {
         "base_text": "Hold $BTN_INTERACT; to attach cable to car",
-        "loc_text": "Hold $BTN_INTERACT; to attach cable to car",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ attach cable to car",
         "string_id": "hud_hold_hook_car"
     },
     "hud_hold_inspect_bookshelf": {
         "base_text": "Hold $BTN_INTERACT; to inspect the bookshelf",
-        "loc_text": "Hold $BTN_INTERACT; to inspect the bookshelf",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ inspect the bookshelf",
         "string_id": "hud_hold_inspect_bookshelf"
     },
     "hud_hold_interact_view_mask_list": {
         "base_text": "Hold $BTN_INTERACT; to display the mask purchase list",
-        "loc_text": "Hold $BTN_INTERACT; to display the mask purchase list",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ display the mask purchase list",
         "string_id": "hud_hold_interact_view_mask_list"
     },
     "hud_hold_open_bomb_hatch": {
         "base_text": "Hold $BTN_INTERACT; to open bomb hatch",
-        "loc_text": "Hold $BTN_INTERACT; to open bomb hatch",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open bomb hatch",
         "string_id": "hud_hold_open_bomb_hatch"
     },
     "hud_hold_pex_burn": {
         "base_text": "Press $BTN_INTERACT; to Burn Evidence",
-        "loc_text": "Press $BTN_INTERACT; to Burn Evidence",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ Burn Evidence",
         "string_id": "hud_hold_pex_burn"
     },
     "hud_hold_pick_up_breaching_device": {
         "base_text": "Hold $BTN_INTERACT; to pick up door breaker",
-        "loc_text": "Hold $BTN_INTERACT; to pick up door breaker",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pick up door breaker",
         "string_id": "hud_hold_pick_up_breaching_device"
     },
     "hud_hold_place_gas_can": {
         "base_text": "Hold $BTN_INTERACT; to place gas can",
-        "loc_text": "Hold $BTN_INTERACT; to place gas can",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place gas can",
         "string_id": "hud_hold_place_gas_can"
     },
     "hud_hold_placing_the_breacher": {
         "base_text": "Hold $BTN_INTERACT; to use door breaker",
-        "loc_text": "Hold $BTN_INTERACT; to use door breaker",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ use door breaker",
         "string_id": "hud_hold_placing_the_breacher"
     },
     "hud_hold_prop_wall_lamp": {
         "base_text": "Hold $BTN_INTERACT; to inspect the lamp",
-        "loc_text": "Hold $BTN_INTERACT; to inspect the lamp",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ inspect the lamp",
         "string_id": "hud_hold_prop_wall_lamp"
     },
     "hud_hold_remove_screw": {
         "base_text": "Hold $BTN_INTERACT; to remove the screw",
-        "loc_text": "Hold $BTN_INTERACT; to remove the screw",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ remove the screw",
         "string_id": "hud_hold_remove_screw"
     },
     "hud_hold_removing_hand": {
         "base_text": "Hold $BTN_INTERACT; to remove hand",
-        "loc_text": "Hold $BTN_INTERACT; to remove hand",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ remove hand",
         "string_id": "hud_hold_removing_hand"
     },
     "hud_hold_scan_hand": {
         "base_text": "Hold $BTN_INTERACT; to scan hand",
-        "loc_text": "Hold $BTN_INTERACT; to scan hand",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ scan hand",
         "string_id": "hud_hold_scan_hand"
     },
     "hud_hold_search_for_clue": {
         "base_text": "Hold $BTN_INTERACT; to search for clue",
-        "loc_text": "Hold $BTN_INTERACT; to search for clue",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search for clue",
         "string_id": "hud_hold_search_for_clue"
     },
     "hud_hold_set_burnable_liquid": {
         "base_text": "Hold $BTN_INTERACT; to pour Flammable liquid",
-        "loc_text": "Hold $BTN_INTERACT; to pour Flammable liquid",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pour Flammable liquid",
         "string_id": "hud_hold_set_burnable_liquid"
     },
     "hud_hold_start_bomb_charge": {
         "base_text": "Hold $BTN_INTERACT; to start charging bomb",
-        "loc_text": "Hold $BTN_INTERACT; to start charging bomb",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ start charging bomb",
         "string_id": "hud_hold_start_bomb_charge"
     },
     "hud_hold_start_scanning": {
         "base_text": "Hold $BTN_INTERACT; to activate the scanner",
-        "loc_text": "Hold $BTN_INTERACT; to activate the scanner",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ activate the scanner",
         "string_id": "hud_hold_start_scanning"
     },
     "hud_hold_take_loaded_card": {
         "base_text": "Press $BTN_INTERACT; to code RFID tag for access",
-        "loc_text": "Press $BTN_INTERACT; to code RFID tag for access",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ code RFID tag for access",
         "string_id": "hud_hold_take_loaded_card"
     },
     "hud_hold_take_unloaded_card": {
         "base_text": "Press $BTN_INTERACT; to pick up RFID tag",
-        "loc_text": "Press $BTN_INTERACT; to pick up RFID tag",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบ RFID tag",
         "string_id": "hud_hold_take_unloaded_card"
     },
     "hud_hold_turn_of_gas": {
         "base_text": "Hold $BTN_INTERACT; to turn off gas",
-        "loc_text": "Hold $BTN_INTERACT; to turn off gas",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ turn off gas",
         "string_id": "hud_hold_turn_of_gas"
     },
     "hud_hold_use_evidance_tag": {
         "base_text": "Hold $BTN_INTERACT; to use RFID tag",
-        "loc_text": "Hold $BTN_INTERACT; to use RFID tag",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ use RFID tag",
         "string_id": "hud_hold_use_evidance_tag"
     },
     "hud_ind_new_1": {
@@ -15741,12 +15741,12 @@
     },
     "hud_insert_hotel_room_key": {
         "base_text": "Press $BTN_INTERACT; to insert keycard",
-        "loc_text": "Press $BTN_INTERACT; to insert keycard",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ insert keycard",
         "string_id": "hud_insert_hotel_room_key"
     },
     "hud_insert_usb": {
         "base_text": "Press $BTN_INTERACT; to copy data from the USB stick",
-        "loc_text": "Press $BTN_INTERACT; to copy data from the USB stick",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ copy data from the USB stick",
         "string_id": "hud_insert_usb"
     },
     "hud_instant_cash": {
@@ -15771,12 +15771,12 @@
     },
     "hud_int_access_camera": {
         "base_text": "Press $BTN_INTERACT; to view the cameras",
-        "loc_text": "Press $BTN_INTERACT; to view the cameras",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ view the cameras",
         "string_id": "hud_int_access_camera"
     },
     "hud_int_activate_flare": {
         "base_text": "Hold $BTN_INTERACT; to activate smoke signal",
-        "loc_text": "Hold $BTN_INTERACT; to activate smoke signal",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ activate smoke signal",
         "string_id": "hud_int_activate_flare"
     },
     "hud_int_activating_flare": {
@@ -15786,52 +15786,52 @@
     },
     "hud_int_answer_phone": {
         "base_text": "Press $BTN_INTERACT; to answer the phone",
-        "loc_text": "Press $BTN_INTERACT; to answer the phone",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ answer the phone",
         "string_id": "hud_int_answer_phone"
     },
     "hud_int_are_turn_on_tv": {
         "base_text": "Press $BTN_INTERACT; to turn on the TV",
-        "loc_text": "Press $BTN_INTERACT; to turn on the TV",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ turn on the TV",
         "string_id": "hud_int_are_turn_on_tv"
     },
     "hud_int_armory_hack": {
         "base_text": "Hold $BTN_INTERACT; to place hacking device",
-        "loc_text": "Hold $BTN_INTERACT; to place hacking device",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place hacking device",
         "string_id": "hud_int_armory_hack"
     },
     "hud_int_assemble_device": {
         "base_text": "Hold $BTN_INTERACT; to assemble",
-        "loc_text": "Hold $BTN_INTERACT; to assemble",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ assemble",
         "string_id": "hud_int_assemble_device"
     },
     "hud_int_bag_zipline": {
         "base_text": "Press $BTN_INTERACT; to attach bag",
-        "loc_text": "Press $BTN_INTERACT; to attach bag",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ attach bag",
         "string_id": "hud_int_bag_zipline"
     },
     "hud_int_bank_note": {
         "base_text": "press $BTN_INTERACT; to search for code",
-        "loc_text": "press $BTN_INTERACT; to search for code",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ search for code",
         "string_id": "hud_int_bank_note"
     },
     "hud_int_barrier_numpad": {
         "base_text": "Press $BTN_INTERACT; to open bandit barrier",
-        "loc_text": "Press $BTN_INTERACT; to open bandit barrier",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ open bandit barrier",
         "string_id": "hud_int_barrier_numpad"
     },
     "hud_int_bex_open_window": {
         "base_text": "Hold $BTN_INTERACT; to pick the lock",
-        "loc_text": "Hold $BTN_INTERACT; to pick the lock",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pick the lock",
         "string_id": "hud_int_bex_open_window"
     },
     "hud_int_big_computer_hackable": {
         "base_text": "Hold $BTN_INTERACT; to hack computer",
-        "loc_text": "Hold $BTN_INTERACT; to hack computer",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ hack computer",
         "string_id": "hud_int_big_computer_hackable"
     },
     "hud_int_big_computer_server": {
         "base_text": "Hold $BTN_INTERACT; to remotely access computer",
-        "loc_text": "Hold $BTN_INTERACT; to remotely access computer",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ remotely access computer",
         "string_id": "hud_int_big_computer_server"
     },
     "hud_int_big_computer_unhackable": {
@@ -15841,27 +15841,27 @@
     },
     "hud_int_break_open": {
         "base_text": "Press $BTN_INTERACT; to break open",
-        "loc_text": "Press $BTN_INTERACT; to break open",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ break open",
         "string_id": "hud_int_break_open"
     },
     "hud_int_break_planks": {
         "base_text": "Hold $BTN_INTERACT; to break the planks",
-        "loc_text": "Hold $BTN_INTERACT; to break the planks",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ break the planks",
         "string_id": "hud_int_break_planks"
     },
     "hud_int_call_elevator": {
         "base_text": "Press $BTN_INTERACT; to call the elevator",
-        "loc_text": "Press $BTN_INTERACT; to call the elevator",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ call the elevator",
         "string_id": "hud_int_call_elevator"
     },
     "hud_int_close_cargo_door": {
         "base_text": "Press $BTN_INTERACT; to close cargo door",
-        "loc_text": "Press $BTN_INTERACT; to close cargo door",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ close cargo door",
         "string_id": "hud_int_close_cargo_door"
     },
     "hud_int_close_window": {
         "base_text": "Hold $BTN_INTERACT; to close window",
-        "loc_text": "Hold $BTN_INTERACT; to close window",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ close window",
         "string_id": "hud_int_close_window"
     },
     "hud_int_copy_data_usb": {
@@ -15871,52 +15871,52 @@
     },
     "hud_int_crane_left": {
         "base_text": "Press $BTN_INTERACT; to turn crane to the left",
-        "loc_text": "Press $BTN_INTERACT; to turn crane to the left",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ turn crane to the left",
         "string_id": "hud_int_crane_left"
     },
     "hud_int_crane_lift": {
         "base_text": "Press $BTN_INTERACT; to lift crane",
-        "loc_text": "Press $BTN_INTERACT; to lift crane",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ lift crane",
         "string_id": "hud_int_crane_lift"
     },
     "hud_int_crane_release": {
         "base_text": "Press $BTN_INTERACT; to release crane",
-        "loc_text": "Press $BTN_INTERACT; to release crane",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ release crane",
         "string_id": "hud_int_crane_release"
     },
     "hud_int_crane_right": {
         "base_text": "Press $BTN_INTERACT; to turn crane to the right",
-        "loc_text": "Press $BTN_INTERACT; to turn crane to the right",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ turn crane to the right",
         "string_id": "hud_int_crane_right"
     },
     "hud_int_cut_glass": {
         "base_text": "Hold $BTN_INTERACT; to cut glass",
-        "loc_text": "Hold $BTN_INTERACT; to cut glass",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ cut glass",
         "string_id": "hud_int_cut_glass"
     },
     "hud_int_cut_wire": {
         "base_text": "Press $BTN_INTERACT; to cut the wire",
-        "loc_text": "Press $BTN_INTERACT; to cut the wire",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ cut the wire",
         "string_id": "hud_int_cut_wire"
     },
     "hud_int_disable_alarm_pager": {
         "base_text": "Hold $BTN_INTERACT; to answer the pager",
-        "loc_text": "Hold $BTN_INTERACT; to answer the pager",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ answer the pager",
         "string_id": "hud_int_disable_alarm_pager"
     },
     "hud_int_dispose_corpse": {
         "base_text": "Hold $BTN_INTERACT; to bag the corpse",
-        "loc_text": "Hold $BTN_INTERACT; to bag the corpse",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ bag the corpse",
         "string_id": "hud_int_dispose_corpse"
     },
     "hud_int_driving_drive": {
         "base_text": "Hold $BTN_INTERACT; to enter vehicle",
-        "loc_text": "Hold $BTN_INTERACT; to enter vehicle",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ enter vehicle",
         "string_id": "hud_int_driving_drive"
     },
     "hud_int_enter_code": {
         "base_text": "Hold $BTN_INTERACT; to enter the code",
-        "loc_text": "Hold $BTN_INTERACT; to enter the code",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ enter the code",
         "string_id": "hud_int_enter_code"
     },
     "hud_int_equipment_acid": {
@@ -16011,7 +16011,7 @@
     },
     "hud_int_equipment_drill": {
         "base_text": "Hold $BTN_INTERACT; to use the drill",
-        "loc_text": "Hold $BTN_INTERACT; to use the drill",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ use the drill",
         "string_id": "hud_int_equipment_drill"
     },
     "hud_int_equipment_drill_desc": {
@@ -16021,17 +16021,17 @@
     },
     "hud_int_equipment_drill_jammed": {
         "base_text": "Hold $BTN_INTERACT; to restart the drill",
-        "loc_text": "Hold $BTN_INTERACT; to restart the drill",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ restart the drill",
         "string_id": "hud_int_equipment_drill_jammed"
     },
     "hud_int_equipment_drill_upgrade": {
         "base_text": "Hold $BTN_INTERACT; to upgrade the drill",
-        "loc_text": "Hold $BTN_INTERACT; to upgrade the drill",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ upgrade the drill",
         "string_id": "hud_int_equipment_drill_upgrade"
     },
     "hud_int_equipment_ecm_feedback": {
         "base_text": "Press $BTN_INTERACT; to turn on ECM feedback",
-        "loc_text": "Press $BTN_INTERACT; to turn on ECM feedback",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ turn on ECM feedback",
         "string_id": "hud_int_equipment_ecm_feedback"
     },
     "hud_int_equipment_fire_extinguisher": {
@@ -16046,7 +16046,7 @@
     },
     "hud_int_equipment_huge_lance": {
         "base_text": "Hold $BTN_INTERACT; to use the Beast",
-        "loc_text": "Hold $BTN_INTERACT; to use the Beast",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ use the Beast",
         "string_id": "hud_int_equipment_huge_lance"
     },
     "hud_int_equipment_huge_lance_desc": {
@@ -16056,7 +16056,7 @@
     },
     "hud_int_equipment_huge_lance_jammed": {
         "base_text": "Hold $BTN_INTERACT; to fix the Beast",
-        "loc_text": "Hold $BTN_INTERACT; to fix the Beast",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ fix the Beast",
         "string_id": "hud_int_equipment_huge_lance_jammed"
     },
     "hud_int_equipment_hydrogen_chloride": {
@@ -16066,12 +16066,12 @@
     },
     "hud_int_equipment_keycard": {
         "base_text": "Press $BTN_INTERACT; to use the keycard",
-        "loc_text": "Press $BTN_INTERACT; to use the keycard",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ use the keycard",
         "string_id": "hud_int_equipment_keycard"
     },
     "hud_int_equipment_lance": {
         "base_text": "Hold $BTN_INTERACT; to use the thermal drill",
-        "loc_text": "Hold $BTN_INTERACT; to use the thermal drill",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ use the thermal drill",
         "string_id": "hud_int_equipment_lance"
     },
     "hud_int_equipment_lance_desc": {
@@ -16081,12 +16081,12 @@
     },
     "hud_int_equipment_lance_jammed": {
         "base_text": "Hold $BTN_INTERACT; to reignite the thermal drill",
-        "loc_text": "Hold $BTN_INTERACT; to reignite the thermal drill",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ reignite the thermal drill",
         "string_id": "hud_int_equipment_lance_jammed"
     },
     "hud_int_equipment_lance_upgrade": {
         "base_text": "Hold $BTN_INTERACT; to upgrade the thermal drill",
-        "loc_text": "Hold $BTN_INTERACT; to upgrade the thermal drill",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ upgrade the thermal drill",
         "string_id": "hud_int_equipment_lance_upgrade"
     },
     "hud_int_equipment_liquid_nitrogen": {
@@ -16126,7 +16126,7 @@
     },
     "hud_int_equipment_normal_mode_trip_mine": {
         "base_text": "Press $BTN_INTERACT; to Switch Trip Mine to Explosive Mode",
-        "loc_text": "Press $BTN_INTERACT; to Switch Trip Mine to Explosive Mode",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ Switch Trip Mine to Explosive Mode",
         "string_id": "hud_int_equipment_normal_mode_trip_mine"
     },
     "hud_int_equipment_paper_roll": {
@@ -16161,22 +16161,22 @@
     },
     "hud_int_equipment_saw_upgrade": {
         "base_text": "Hold $BTN_INTERACT; to upgrade the saw",
-        "loc_text": "Hold $BTN_INTERACT; to upgrade the saw",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ upgrade the saw",
         "string_id": "hud_int_equipment_saw_upgrade"
     },
     "hud_int_equipment_sensor_mode_trip_mine": {
         "base_text": "Press $BTN_INTERACT; to Switch Trip Mine to Sensor Mode",
-        "loc_text": "Press $BTN_INTERACT; to Switch Trip Mine to Sensor Mode",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ Switch Trip Mine to Sensor Mode",
         "string_id": "hud_int_equipment_sensor_mode_trip_mine"
     },
     "hud_int_equipment_sensor_trip_mine": {
         "base_text": "Press $BTN_INTERACT; to toggle between explosive and sensor mode",
-        "loc_text": "Press $BTN_INTERACT; to toggle between explosive and sensor mode",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ toggle between explosive and sensor mode",
         "string_id": "hud_int_equipment_sensor_trip_mine"
     },
     "hud_int_equipment_shaped_charge": {
         "base_text": "Hold $BTN_INTERACT; to use a shaped charge",
-        "loc_text": "Hold $BTN_INTERACT; to use a shaped charge",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ use a shaped charge",
         "string_id": "hud_int_equipment_shaped_charge"
     },
     "hud_int_equipment_stapler": {
@@ -16186,62 +16186,62 @@
     },
     "hud_int_escape_taser": {
         "base_text": "Press $BTN_INTERACT; to free yourself from the taser",
-        "loc_text": "Press $BTN_INTERACT; to free yourself from the taser",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ free yourself from the taser",
         "string_id": "hud_int_escape_taser"
     },
     "hud_int_exit_to_crimenet": {
         "base_text": "Hold $BTN_INTERACT; to exit to Crime.net",
-        "loc_text": "Hold $BTN_INTERACT; to exit to Crime.net",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ exit to Crime.net",
         "string_id": "hud_int_exit_to_crimenet"
     },
     "hud_int_fire_missiles": {
         "base_text": "Hold $BTN_INTERACT; to fire missiles",
-        "loc_text": "Hold $BTN_INTERACT; to fire missiles",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ fire missiles",
         "string_id": "hud_int_fire_missiles"
     },
     "hud_int_fork_lift_sound": {
         "base_text": "Hold $BTN_INTERACT; to start the fork lifter",
-        "loc_text": "Hold $BTN_INTERACT; to start the fork lifter",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ start the fork lifter",
         "string_id": "hud_int_fork_lift_sound"
     },
     "hud_int_german_folder": {
         "base_text": "Press $BTN_INTERACT; to take old document",
-        "loc_text": "Press $BTN_INTERACT; to take old document",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take old document",
         "string_id": "hud_int_german_folder"
     },
     "hud_int_grab_code": {
         "base_text": "Hold $BTN_INTERACT; to grab the code",
-        "loc_text": "Hold $BTN_INTERACT; to grab the code",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ grab the code",
         "string_id": "hud_int_grab_code"
     },
     "hud_int_grab_server": {
         "base_text": "Hold $BTN_INTERACT; to take the server",
-        "loc_text": "Hold $BTN_INTERACT; to take the server",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the server",
         "string_id": "hud_int_grab_server"
     },
     "hud_int_hack_box": {
         "base_text": "Hold $BTN_INTERACT; to hack electrical box",
-        "loc_text": "Hold $BTN_INTERACT; to hack electrical box",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ hack electrical box",
         "string_id": "hud_int_hack_box"
     },
     "hud_int_hack_laptop": {
         "base_text": "Hold $BTN_INTERACT; to hack the laptop",
-        "loc_text": "Hold $BTN_INTERACT; to hack the laptop",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ hack the laptop",
         "string_id": "hud_int_hack_laptop"
     },
     "hud_int_hack_server_room": {
         "base_text": "Hold $BTN_INTERACT; to hack laptop",
-        "loc_text": "Hold $BTN_INTERACT; to hack laptop",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ hack laptop",
         "string_id": "hud_int_hack_server_room"
     },
     "hud_int_hack_timelock": {
         "base_text": "Hold $BTN_INTERACT; to force time lock",
-        "loc_text": "Hold $BTN_INTERACT; to force time lock",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ force time lock",
         "string_id": "hud_int_hack_timelock"
     },
     "hud_int_hand_over_uniform": {
         "base_text": "Press $BTN_INTERACT; to give uniform",
-        "loc_text": "Press $BTN_INTERACT; to give uniform",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ give uniform",
         "string_id": "hud_int_hand_over_uniform"
     },
     "hud_int_hint_alarm_clock": {
@@ -16321,297 +16321,297 @@
     },
     "hud_int_hold_activate_camera": {
         "base_text": "Hold $BTN_INTERACT; to place the camera",
-        "loc_text": "Hold $BTN_INTERACT; to place the camera",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place the camera",
         "string_id": "hud_int_hold_activate_camera"
     },
     "hud_int_hold_activate_reader": {
         "base_text": "Hold $BTN_INTERACT; to activate the barcode reader",
-        "loc_text": "Hold $BTN_INTERACT; to activate the barcode reader",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ activate the barcode reader",
         "string_id": "hud_int_hold_activate_reader"
     },
     "hud_int_hold_activate_sprinklers": {
         "base_text": "Hold $BTN_INTERACT; to activate sprinklers",
-        "loc_text": "Hold $BTN_INTERACT; to activate sprinklers",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ activate sprinklers",
         "string_id": "hud_int_hold_activate_sprinklers"
     },
     "hud_int_hold_add_blade": {
         "base_text": "Hold $BTN_INTERACT; to add the saw blade",
-        "loc_text": "Hold $BTN_INTERACT; to add the saw blade",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ add the saw blade",
         "string_id": "hud_int_hold_add_blade"
     },
     "hud_int_hold_add_compound_a": {
         "base_text": "Hold $BTN_INTERACT; to add compound a",
-        "loc_text": "Hold $BTN_INTERACT; to add compound a",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ add compound a",
         "string_id": "hud_int_hold_add_compound_a"
     },
     "hud_int_hold_add_compound_b": {
         "base_text": "Hold $BTN_INTERACT; to add compound b",
-        "loc_text": "Hold $BTN_INTERACT; to add compound b",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ add compound b",
         "string_id": "hud_int_hold_add_compound_b"
     },
     "hud_int_hold_add_compound_c": {
         "base_text": "Hold $BTN_INTERACT; to add compound c",
-        "loc_text": "Hold $BTN_INTERACT; to add compound c",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ add compound c",
         "string_id": "hud_int_hold_add_compound_c"
     },
     "hud_int_hold_add_compound_d": {
         "base_text": "Hold $BTN_INTERACT; to add compound d",
-        "loc_text": "Hold $BTN_INTERACT; to add compound d",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ add compound d",
         "string_id": "hud_int_hold_add_compound_d"
     },
     "hud_int_hold_aim_laser": {
         "base_text": "Hold $BTN_INTERACT; to aim laser",
-        "loc_text": "Hold $BTN_INTERACT; to aim laser",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ aim laser",
         "string_id": "hud_int_hold_aim_laser"
     },
     "hud_int_hold_analyze_evidence": {
         "base_text": "Hold $BTN_INTERACT; to analyze evidence",
-        "loc_text": "Hold $BTN_INTERACT; to analyze evidence",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ analyze evidence",
         "string_id": "hud_int_hold_analyze_evidence"
     },
     "hud_int_hold_answer_call": {
         "base_text": "Hold $BTN_INTERACT; to answer call",
-        "loc_text": "Hold $BTN_INTERACT; to answer call",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ answer call",
         "string_id": "hud_int_hold_answer_call"
     },
     "hud_int_hold_approve_request": {
         "base_text": "Hold $BTN_INTERACT; to approve request",
-        "loc_text": "Hold $BTN_INTERACT; to approve request",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ approve request",
         "string_id": "hud_int_hold_approve_request"
     },
     "hud_int_hold_assemble_thermite": {
         "base_text": "Hold $BTN_INTERACT; to assemble thermite rig",
-        "loc_text": "Hold $BTN_INTERACT; to assemble thermite rig",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ assemble thermite rig",
         "string_id": "hud_int_hold_assemble_thermite"
     },
     "hud_int_hold_attach_magnet": {
         "base_text": "Hold $BTN_INTERACT; to attach magnet",
-        "loc_text": "Hold $BTN_INTERACT; to attach magnet",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ attach magnet",
         "string_id": "hud_int_hold_attach_magnet"
     },
     "hud_int_hold_bag_present": {
         "base_text": "Hold $BTN_INTERACT; to bag the present",
-        "loc_text": "Hold $BTN_INTERACT; to bag the present",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ bag the present",
         "string_id": "hud_int_hold_bag_present"
     },
     "hud_int_hold_bag_ro_armor": {
         "base_text": "Hold $BTN_INTERACT; to bag a piece of Roman armor",
-        "loc_text": "Hold $BTN_INTERACT; to bag a piece of Roman armor",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ bag a piece of Roman armor",
         "string_id": "hud_int_hold_bag_ro_armor"
     },
     "hud_int_hold_bag_sa_armor": {
         "base_text": "Hold $BTN_INTERACT; to bag a piece of samurai armor",
-        "loc_text": "Hold $BTN_INTERACT; to bag a piece of samurai armor",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ bag a piece of samurai armor",
         "string_id": "hud_int_hold_bag_sa_armor"
     },
     "hud_int_hold_barcode": {
         "base_text": "Hold $BTN_INTERACT; to take the barcode",
-        "loc_text": "Hold $BTN_INTERACT; to take the barcode",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the barcode",
         "string_id": "hud_int_hold_barcode"
     },
     "hud_int_hold_born_receive_item_blow_torch": {
         "base_text": "Hold $BTN_INTERACT; to take the blowtorch",
-        "loc_text": "Hold $BTN_INTERACT; to take the blowtorch",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the blowtorch",
         "string_id": "hud_int_hold_born_receive_item_blow_torch"
     },
     "hud_int_hold_born_ride_the_bike": {
         "base_text": "Hold $BTN_INTERACT; to ride the bike",
-        "loc_text": "Hold $BTN_INTERACT; to ride the bike",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ ride the bike",
         "string_id": "hud_int_hold_born_ride_the_bike"
     },
     "hud_int_hold_born_search_tools": {
         "base_text": "Hold $BTN_INTERACT; to search for tools",
-        "loc_text": "Hold $BTN_INTERACT; to search for tools",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search for tools",
         "string_id": "hud_int_hold_born_search_tools"
     },
     "hud_int_hold_born_soda": {
         "base_text": "Hold $BTN_INTERACT; to take the soda",
-        "loc_text": "Hold $BTN_INTERACT; to take the soda",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the soda",
         "string_id": "hud_int_hold_born_soda"
     },
     "hud_int_hold_born_take_bike_part": {
         "base_text": "Hold $BTN_INTERACT; to take the bike part",
-        "loc_text": "Hold $BTN_INTERACT; to take the bike part",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the bike part",
         "string_id": "hud_int_hold_born_take_bike_part"
     },
     "hud_int_hold_born_untie": {
         "base_text": "Hold $BTN_INTERACT; to untie",
-        "loc_text": "Hold $BTN_INTERACT; to untie",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ untie",
         "string_id": "hud_int_hold_born_untie"
     },
     "hud_int_hold_breach": {
         "base_text": "Hold $BTN_INTERACT; to breach",
-        "loc_text": "Hold $BTN_INTERACT; to breach",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ breach",
         "string_id": "hud_int_hold_breach"
     },
     "hud_int_hold_bypass_firewall": {
         "base_text": "Hold $BTN_INTERACT; to bypass firewall",
-        "loc_text": "Hold $BTN_INTERACT; to bypass firewall",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ bypass firewall",
         "string_id": "hud_int_hold_bypass_firewall"
     },
     "hud_int_hold_call_captain": {
         "base_text": "Hold $BTN_INTERACT; to call the captain",
-        "loc_text": "Hold $BTN_INTERACT; to call the captain",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ call the captain",
         "string_id": "hud_int_hold_call_captain"
     },
     "hud_int_hold_check_evidence": {
         "base_text": "Hold $BTN_INTERACT; to check the evidence",
-        "loc_text": "Hold $BTN_INTERACT; to check the evidence",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ check the evidence",
         "string_id": "hud_int_hold_check_evidence"
     },
     "hud_int_hold_check_file": {
         "base_text": "Hold $BTN_INTERACT; to check file",
-        "loc_text": "Hold $BTN_INTERACT; to check file",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ check file",
         "string_id": "hud_int_hold_check_file"
     },
     "hud_int_hold_close_crate": {
         "base_text": "Hold $BTN_INTERACT; to close shipping crate",
-        "loc_text": "Hold $BTN_INTERACT; to close shipping crate",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ close shipping crate",
         "string_id": "hud_int_hold_close_crate"
     },
     "hud_int_hold_close_shutters": {
         "base_text": "Press $BTN_INTERACT; to close the shutters",
-        "loc_text": "Press $BTN_INTERACT; to close the shutters",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ close the shutters",
         "string_id": "hud_int_hold_close_shutters"
     },
     "hud_int_hold_connect_equip": {
         "base_text": "Hold $BTN_INTERACT; to connect the equipment",
-        "loc_text": "Hold $BTN_INTERACT; to connect the equipment",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ connect the equipment",
         "string_id": "hud_int_hold_connect_equip"
     },
     "hud_int_hold_connect_hose": {
         "base_text": "Hold $BTN_INTERACT; to connect the hose",
-        "loc_text": "Hold $BTN_INTERACT; to connect the hose",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ connect the hose",
         "string_id": "hud_int_hold_connect_hose"
     },
     "hud_int_hold_crack_crate": {
         "base_text": "Hold $BTN_INTERACT; to open shipping crate",
-        "loc_text": "Hold $BTN_INTERACT; to open shipping crate",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open shipping crate",
         "string_id": "hud_int_hold_crack_crate"
     },
     "hud_int_hold_cut": {
         "base_text": "Hold $BTN_INTERACT; to cut",
-        "loc_text": "Hold $BTN_INTERACT; to cut",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ cut",
         "string_id": "hud_int_hold_cut"
     },
     "hud_int_hold_cut_cable": {
         "base_text": "Hold $BTN_INTERACT; to cut the cable",
-        "loc_text": "Hold $BTN_INTERACT; to cut the cable",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ cut the cable",
         "string_id": "hud_int_hold_cut_cable"
     },
     "hud_int_hold_cut_chains": {
         "base_text": "Hold $BTN_INTERACT; to use Bolt Cutter",
-        "loc_text": "Hold $BTN_INTERACT; to use Bolt Cutter",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ use Bolt Cutter",
         "string_id": "hud_int_hold_cut_chains"
     },
     "hud_int_hold_cut_fence": {
         "base_text": "Hold $BTN_INTERACT; to cut the fence",
-        "loc_text": "Hold $BTN_INTERACT; to cut the fence",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ cut the fence",
         "string_id": "hud_int_hold_cut_fence"
     },
     "hud_int_hold_cut_tarp": {
         "base_text": "Hold $BTN_INTERACT; to cut open the tarp",
-        "loc_text": "Hold $BTN_INTERACT; to cut open the tarp",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ cut open the tarp",
         "string_id": "hud_int_hold_cut_tarp"
     },
     "hud_int_hold_cut_tree": {
         "base_text": "Hold $BTN_INTERACT; to cut the tree",
-        "loc_text": "Hold $BTN_INTERACT; to cut the tree",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ cut the tree",
         "string_id": "hud_int_hold_cut_tree"
     },
     "hud_int_hold_cut_wire_blue": {
         "base_text": "Hold $BTN_INTERACT; to cut the blue wire",
-        "loc_text": "Hold $BTN_INTERACT; to cut the blue wire",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ cut the blue wire",
         "string_id": "hud_int_hold_cut_wire_blue"
     },
     "hud_int_hold_cut_wire_green": {
         "base_text": "Hold $BTN_INTERACT; to cut the green wire",
-        "loc_text": "Hold $BTN_INTERACT; to cut the green wire",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ cut the green wire",
         "string_id": "hud_int_hold_cut_wire_green"
     },
     "hud_int_hold_cut_wire_grey": {
         "base_text": "Hold $BTN_INTERACT; to cut the wire",
-        "loc_text": "Hold $BTN_INTERACT; to cut the wire",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ cut the wire",
         "string_id": "hud_int_hold_cut_wire_grey"
     },
     "hud_int_hold_cut_wire_red": {
         "base_text": "Hold $BTN_INTERACT; to cut the red wire",
-        "loc_text": "Hold $BTN_INTERACT; to cut the red wire",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ cut the red wire",
         "string_id": "hud_int_hold_cut_wire_red"
     },
     "hud_int_hold_cut_wire_yellow": {
         "base_text": "Hold $BTN_INTERACT; to cut the yellow wire",
-        "loc_text": "Hold $BTN_INTERACT; to cut the yellow wire",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ cut the yellow wire",
         "string_id": "hud_int_hold_cut_wire_yellow"
     },
     "hud_int_hold_cut_wires": {
         "base_text": "Hold $BTN_INTERACT; to cut wires",
-        "loc_text": "Hold $BTN_INTERACT; to cut wires",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ cut wires",
         "string_id": "hud_int_hold_cut_wires"
     },
     "hud_int_hold_destroy_evidence": {
         "base_text": "Hold $BTN_INTERACT; to destroy evidence",
-        "loc_text": "Hold $BTN_INTERACT; to destroy evidence",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ destroy evidence",
         "string_id": "hud_int_hold_destroy_evidence"
     },
     "hud_int_hold_detach_hose": {
         "base_text": "Hold $BTN_INTERACT; to detach hose",
-        "loc_text": "Hold $BTN_INTERACT; to detach hose",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ detach hose",
         "string_id": "hud_int_hold_detach_hose"
     },
     "hud_int_hold_disable_alarm": {
         "base_text": "Hold $BTN_INTERACT; to disable the alarm",
-        "loc_text": "Hold $BTN_INTERACT; to disable the alarm",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ disable the alarm",
         "string_id": "hud_int_hold_disable_alarm"
     },
     "hud_int_hold_disarm_bomb": {
         "base_text": "Hold $BTN_INTERACT; to disarm the bomb",
-        "loc_text": "Hold $BTN_INTERACT; to disarm the bomb",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ disarm the bomb",
         "string_id": "hud_int_hold_disarm_bomb"
     },
     "hud_int_hold_disassemble_cro_loot": {
         "base_text": "Hold $BTN_INTERACT; to take the bomb part",
-        "loc_text": "Hold $BTN_INTERACT; to take the bomb part",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the bomb part",
         "string_id": "hud_int_hold_disassemble_cro_loot"
     },
     "hud_int_hold_disassemble_turret": {
         "base_text": "Hold $BTN_INTERACT; to disassemble turret",
-        "loc_text": "Hold $BTN_INTERACT; to disassemble turret",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ disassemble turret",
         "string_id": "hud_int_hold_disassemble_turret"
     },
     "hud_int_hold_download_keys": {
         "base_text": "Hold $BTN_INTERACT; to download encryption keys",
-        "loc_text": "Hold $BTN_INTERACT; to download encryption keys",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ download encryption keys",
         "string_id": "hud_int_hold_download_keys"
     },
     "hud_int_hold_extinguish_fire": {
         "base_text": "Hold $BTN_INTERACT; to extinguish fire",
-        "loc_text": "Hold $BTN_INTERACT; to extinguish fire",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ extinguish fire",
         "string_id": "hud_int_hold_extinguish_fire"
     },
     "hud_int_hold_fasten_strap": {
         "base_text": "Hold $BTN_INTERACT; to fasten the strap",
-        "loc_text": "Hold $BTN_INTERACT; to fasten the strap",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ fasten the strap",
         "string_id": "hud_int_hold_fasten_strap"
     },
     "hud_int_hold_gather_evidence": {
         "base_text": "Hold $BTN_INTERACT; to gather evidence",
-        "loc_text": "Hold $BTN_INTERACT; to gather evidence",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ gather evidence",
         "string_id": "hud_int_hold_gather_evidence"
     },
     "hud_int_hold_grab_body": {
         "base_text": "Hold $BTN_INTERACT; to grab the body",
-        "loc_text": "Hold $BTN_INTERACT; to grab the body",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ grab the body",
         "string_id": "hud_int_hold_grab_body"
     },
     "hud_int_hold_grab_goat": {
         "base_text": "Hold $BTN_INTERACT; to grab the goat",
-        "loc_text": "Hold $BTN_INTERACT; to grab the goat",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ grab the goat",
         "string_id": "hud_int_hold_grab_goat"
     },
     "hud_int_hold_grab_parachute": {
         "base_text": "Hold $BTN_INTERACT; to grab the parachute",
-        "loc_text": "Hold $BTN_INTERACT; to grab the parachute",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ grab the parachute",
         "string_id": "hud_int_hold_grab_parachute"
     },
     "hud_int_hold_grab_the_bag": {
@@ -16621,222 +16621,222 @@
     },
     "hud_int_hold_grab_the_painting": {
         "base_text": "Hold $BTN_INTERACT; to grab the painting",
-        "loc_text": "Hold $BTN_INTERACT; to grab the painting",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ grab the painting",
         "string_id": "hud_int_hold_grab_the_painting"
     },
     "hud_int_hold_hack_barrier": {
         "base_text": "Hold $BTN_INTERACT; to hack the security barrier",
-        "loc_text": "Hold $BTN_INTERACT; to hack the security barrier",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ hack the security barrier",
         "string_id": "hud_int_hold_hack_barrier"
     },
     "hud_int_hold_hack_computer": {
         "base_text": "Hold $BTN_INTERACT; to hack the computer",
-        "loc_text": "Hold $BTN_INTERACT; to hack the computer",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ hack the computer",
         "string_id": "hud_int_hold_hack_computer"
     },
     "hud_int_hold_hack_numpad": {
         "base_text": "Hold $BTN_INTERACT; to hack the numpad",
-        "loc_text": "Hold $BTN_INTERACT; to hack the numpad",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ hack the numpad",
         "string_id": "hud_int_hold_hack_numpad"
     },
     "hud_int_hold_hand_over_chrome_skull": {
         "base_text": "Hold $BTN_INTERACT; to hand over the chrome skull",
-        "loc_text": "Hold $BTN_INTERACT; to hand over the chrome skull",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ hand over the chrome skull",
         "string_id": "hud_int_hold_hand_over_chrome_skull"
     },
     "hud_int_hold_hand_over_soda": {
         "base_text": "Press $BTN_INTERACT; to hand over the soda",
-        "loc_text": "Press $BTN_INTERACT; to hand over the soda",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ hand over the soda",
         "string_id": "hud_int_hold_hand_over_soda"
     },
     "hud_int_hold_hand_over_tool": {
         "base_text": "Press $BTN_INTERACT; to hand over the tool",
-        "loc_text": "Press $BTN_INTERACT; to hand over the tool",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ hand over the tool",
         "string_id": "hud_int_hold_hand_over_tool"
     },
     "hud_int_hold_ignite_concoction": {
         "base_text": "Hold $BTN_INTERACT; to ignite the concoction",
-        "loc_text": "Hold $BTN_INTERACT; to ignite the concoction",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ ignite the concoction",
         "string_id": "hud_int_hold_ignite_concoction"
     },
     "hud_int_hold_ignite_money": {
         "base_text": "Hold $BTN_INTERACT; to ignite the money",
-        "loc_text": "Hold $BTN_INTERACT; to ignite the money",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ ignite the money",
         "string_id": "hud_int_hold_ignite_money"
     },
     "hud_int_hold_ignite_thermite_paste": {
         "base_text": "Hold $BTN_INTERACT; to ignite the thermite paste",
-        "loc_text": "Hold $BTN_INTERACT; to ignite the thermite paste",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ ignite the thermite paste",
         "string_id": "hud_int_hold_ignite_thermite_paste"
     },
     "hud_int_hold_ignite_trap": {
         "base_text": "Hold $BTN_INTERACT; to ignite the trap",
-        "loc_text": "Hold $BTN_INTERACT; to ignite the trap",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ ignite the trap",
         "string_id": "hud_int_hold_ignite_trap"
     },
     "hud_int_hold_insert_paper_roll": {
         "base_text": "Hold $BTN_INTERACT; to insert the paper roll",
-        "loc_text": "Hold $BTN_INTERACT; to insert the paper roll",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ insert the paper roll",
         "string_id": "hud_int_hold_insert_paper_roll"
     },
     "hud_int_hold_insert_plates": {
         "base_text": "Hold $BTN_INTERACT; to insert printing plates",
-        "loc_text": "Hold $BTN_INTERACT; to insert printing plates",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ insert printing plates",
         "string_id": "hud_int_hold_insert_plates"
     },
     "hud_int_hold_insert_printer_ink": {
         "base_text": "Hold $BTN_INTERACT; to insert printer ink",
-        "loc_text": "Hold $BTN_INTERACT; to insert printer ink",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ insert printer ink",
         "string_id": "hud_int_hold_insert_printer_ink"
     },
     "hud_int_hold_insert_usb": {
         "base_text": "Hold $BTN_INTERACT; to insert the usb",
-        "loc_text": "Hold $BTN_INTERACT; to insert the usb",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ insert the usb",
         "string_id": "hud_int_hold_insert_usb"
     },
     "hud_int_hold_jam_vent": {
         "base_text": "Hold $BTN_INTERACT; to jam the vent",
-        "loc_text": "Hold $BTN_INTERACT; to jam the vent",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ jam the vent",
         "string_id": "hud_int_hold_jam_vent"
     },
     "hud_int_hold_mix_concoction": {
         "base_text": "Hold $BTN_INTERACT; to mix compounds",
-        "loc_text": "Hold $BTN_INTERACT; to mix compounds",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ mix compounds",
         "string_id": "hud_int_hold_mix_concoction"
     },
     "hud_int_hold_moon_attach_winch": {
         "base_text": "Hold $BTN_INTERACT; to attach the winch",
-        "loc_text": "Hold $BTN_INTERACT; to attach the winch",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ attach the winch",
         "string_id": "hud_int_hold_moon_attach_winch"
     },
     "hud_int_hold_move_car": {
         "base_text": "Hold $BTN_INTERACT; to move the car",
-        "loc_text": "Hold $BTN_INTERACT; to move the car",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ move the car",
         "string_id": "hud_int_hold_move_car"
     },
     "hud_int_hold_move_crane": {
         "base_text": "Hold $BTN_INTERACT; to move the crane",
-        "loc_text": "Hold $BTN_INTERACT; to move the crane",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ move the crane",
         "string_id": "hud_int_hold_move_crane"
     },
     "hud_int_hold_open_case": {
         "base_text": "Hold $BTN_INTERACT; to open the case",
-        "loc_text": "Hold $BTN_INTERACT; to open the case",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open the case",
         "string_id": "hud_int_hold_open_case"
     },
     "hud_int_hold_open_circuitbreaker": {
         "base_text": "Hold $BTN_INTERACT; to open the circuit breaker box",
-        "loc_text": "Hold $BTN_INTERACT; to open the circuit breaker box",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open the circuit breaker box",
         "string_id": "hud_int_hold_open_circuitbreaker"
     },
     "hud_int_hold_open_coke": {
         "base_text": "Hold $BTN_INTERACT; to open yayo",
-        "loc_text": "Hold $BTN_INTERACT; to open yayo",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open yayo",
         "string_id": "hud_int_hold_open_coke"
     },
     "hud_int_hold_open_display": {
         "base_text": "Hold $BTN_INTERACT; to open display",
-        "loc_text": "Hold $BTN_INTERACT; to open display",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open display",
         "string_id": "hud_int_hold_open_display"
     },
     "hud_int_hold_open_door": {
         "base_text": "Hold $BTN_INTERACT; to open the door",
-        "loc_text": "Hold $BTN_INTERACT; to open the door",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open the door",
         "string_id": "hud_int_hold_open_door"
     },
     "hud_int_hold_open_hatch": {
         "base_text": "Hold $BTN_INTERACT; to open hatch",
-        "loc_text": "Hold $BTN_INTERACT; to open hatch",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open hatch",
         "string_id": "hud_int_hold_open_hatch"
     },
     "hud_int_hold_open_lid": {
         "base_text": "Hold $BTN_INTERACT; to open lid",
-        "loc_text": "Hold $BTN_INTERACT; to open lid",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open lid",
         "string_id": "hud_int_hold_open_lid"
     },
     "hud_int_hold_open_safe": {
         "base_text": "Hold $BTN_INTERACT; to open the safe",
-        "loc_text": "Hold $BTN_INTERACT; to open the safe",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open the safe",
         "string_id": "hud_int_hold_open_safe"
     },
     "hud_int_hold_open_shopping_bag": {
         "base_text": "Hold $BTN_INTERACT; to open shopping bag",
-        "loc_text": "Hold $BTN_INTERACT; to open shopping bag",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open shopping bag",
         "string_id": "hud_int_hold_open_shopping_bag"
     },
     "hud_int_hold_open_shutters": {
         "base_text": "Press $BTN_INTERACT; to open the shutters",
-        "loc_text": "Press $BTN_INTERACT; to open the shutters",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ open the shutters",
         "string_id": "hud_int_hold_open_shutters"
     },
     "hud_int_hold_open_slash_close_sec_box": {
         "base_text": "Hold $BTN_INTERACT; to open/close security box",
-        "loc_text": "Hold $BTN_INTERACT; to open/close security box",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open/close security box",
         "string_id": "hud_int_hold_open_slash_close_sec_box"
     },
     "hud_int_hold_open_vault": {
         "base_text": "Hold $BTN_INTERACT; to open the vault",
-        "loc_text": "Hold $BTN_INTERACT; to open the vault",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open the vault",
         "string_id": "hud_int_hold_open_vault"
     },
     "hud_int_hold_open_vent": {
         "base_text": "Hold $BTN_INTERACT; to open the vent",
-        "loc_text": "Hold $BTN_INTERACT; to open the vent",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open the vent",
         "string_id": "hud_int_hold_open_vent"
     },
     "hud_int_hold_open_xmas_present": {
         "base_text": "Hold $BTN_INTERACT; to open Xmas present",
-        "loc_text": "Hold $BTN_INTERACT; to open Xmas present",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open Xmas present",
         "string_id": "hud_int_hold_open_xmas_present"
     },
     "hud_int_hold_pack_shells": {
         "base_text": "Hold $BTN_INTERACT; to pack Shells",
-        "loc_text": "Hold $BTN_INTERACT; to pack Shells",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pack Shells",
         "string_id": "hud_int_hold_pack_shells"
     },
     "hud_int_hold_phone_office": {
         "base_text": "Hold $BTN_INTERACT; to call the office",
-        "loc_text": "Hold $BTN_INTERACT; to call the office",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ call the office",
         "string_id": "hud_int_hold_phone_office"
     },
     "hud_int_hold_pick_up": {
         "base_text": "hold $BTN_INTERACT; to pick up",
-        "loc_text": "hold $BTN_INTERACT; to pick up",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pick up",
         "string_id": "hud_int_hold_pick_up"
     },
     "hud_int_hold_pick_up_turtle": {
         "base_text": "Hold $BTN_INTERACT; to pick the turtle up",
-        "loc_text": "Hold $BTN_INTERACT; to pick the turtle up",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pick the turtle up",
         "string_id": "hud_int_hold_pick_up_turtle"
     },
     "hud_int_hold_pickup_boards": {
         "base_text": "Hold $BTN_INTERACT; to pick up boards",
-        "loc_text": "Hold $BTN_INTERACT; to pick up boards",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pick up boards",
         "string_id": "hud_int_hold_pickup_boards"
     },
     "hud_int_hold_pickup_lance": {
         "base_text": "Hold $BTN_INTERACT; to grab the thermal drill",
-        "loc_text": "Hold $BTN_INTERACT; to grab the thermal drill",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ grab the thermal drill",
         "string_id": "hud_int_hold_pickup_lance"
     },
     "hud_int_hold_pku_breaching_charges": {
         "base_text": "Hold $BTN_INTERACT; to pickup breaching charges",
-        "loc_text": "Hold $BTN_INTERACT; to pickup breaching charges",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pickup breaching charges",
         "string_id": "hud_int_hold_pku_breaching_charges"
     },
     "hud_int_hold_pku_briefcase": {
         "base_text": "Hold $BTN_INTERACT; to pick up the briefcase",
-        "loc_text": "Hold $BTN_INTERACT; to pick up the briefcase",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pick up the briefcase",
         "string_id": "hud_int_hold_pku_briefcase"
     },
     "hud_int_hold_pku_equipment": {
         "base_text": "Hold $BTN_INTERACT; to grab the equipment",
-        "loc_text": "Hold $BTN_INTERACT; to grab the equipment",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ grab the equipment",
         "string_id": "hud_int_hold_pku_equipment"
     },
     "hud_int_hold_pku_knife": {
         "base_text": "Hold $BTN_INTERACT; to Pick up the Knife",
-        "loc_text": "Hold $BTN_INTERACT; to Pick up the Knife",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ Pick up the Knife",
         "string_id": "hud_int_hold_pku_knife"
     },
     "hud_int_hold_pku_uno_gold": {
@@ -16851,382 +16851,382 @@
     },
     "hud_int_hold_place_breaching_detonator": {
         "base_text": "Hold $BTN_INTERACT; to place breaching detonator",
-        "loc_text": "Hold $BTN_INTERACT; to place breaching detonator",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place breaching detonator",
         "string_id": "hud_int_hold_place_breaching_detonator"
     },
     "hud_int_hold_place_breaching_detonator_rearm": {
         "base_text": "Hold $BTN_INTERACT; to re-arm breaching detonator",
-        "loc_text": "Hold $BTN_INTERACT; to re-arm breaching detonator",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ re-arm breaching detonator",
         "string_id": "hud_int_hold_place_breaching_detonator_rearm"
     },
     "hud_int_hold_place_evidance": {
         "base_text": "Hold $BTN_INTERACT; to place evidence on the floor",
-        "loc_text": "Hold $BTN_INTERACT; to place evidence on the floor",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place evidence on the floor",
         "string_id": "hud_int_hold_place_evidance"
     },
     "hud_int_hold_place_gps_tracker": {
         "base_text": "Hold $BTN_INTERACT; to place the gps tracker",
-        "loc_text": "Hold $BTN_INTERACT; to place the gps tracker",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place the gps tracker",
         "string_id": "hud_int_hold_place_gps_tracker"
     },
     "hud_int_hold_place_laptop": {
         "base_text": "Hold $BTN_INTERACT; to place the laptop",
-        "loc_text": "Hold $BTN_INTERACT; to place the laptop",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place the laptop",
         "string_id": "hud_int_hold_place_laptop"
     },
     "hud_int_hold_place_liquid_nitrogen": {
         "base_text": "Hold $BTN_INTERACT; to place liquid nitrogen",
-        "loc_text": "Hold $BTN_INTERACT; to place liquid nitrogen",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place liquid nitrogen",
         "string_id": "hud_int_hold_place_liquid_nitrogen"
     },
     "hud_int_hold_plant_breaching_charge": {
         "base_text": "Hold $BTN_INTERACT; to plant breaching charge",
-        "loc_text": "Hold $BTN_INTERACT; to plant breaching charge",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ plant breaching charge",
         "string_id": "hud_int_hold_plant_breaching_charge"
     },
     "hud_int_hold_play_slots": {
         "base_text": "Hold $BTN_INTERACT; to play the slots",
-        "loc_text": "Hold $BTN_INTERACT; to play the slots",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ play the slots",
         "string_id": "hud_int_hold_play_slots"
     },
     "hud_int_hold_poison_bottle": {
         "base_text": "Hold $BTN_INTERACT; to spike the bottle",
-        "loc_text": "Hold $BTN_INTERACT; to spike the bottle",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ spike the bottle",
         "string_id": "hud_int_hold_poison_bottle"
     },
     "hud_int_hold_postpone_update": {
         "base_text": "Hold $BTN_INTERACT; to postpone the update",
-        "loc_text": "Hold $BTN_INTERACT; to postpone the update",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ postpone the update",
         "string_id": "hud_int_hold_postpone_update"
     },
     "hud_int_hold_pull_lever": {
         "base_text": "Hold $BTN_INTERACT; to pull the lever",
-        "loc_text": "Hold $BTN_INTERACT; to pull the lever",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pull the lever",
         "string_id": "hud_int_hold_pull_lever"
     },
     "hud_int_hold_pull_switch": {
         "base_text": "Hold $BTN_INTERACT; to pull switch",
-        "loc_text": "Hold $BTN_INTERACT; to pull switch",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pull switch",
         "string_id": "hud_int_hold_pull_switch"
     },
     "hud_int_hold_raise_balloon": {
         "base_text": "Hold $BTN_INTERACT; to raise balloon",
-        "loc_text": "Hold $BTN_INTERACT; to raise balloon",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ raise balloon",
         "string_id": "hud_int_hold_raise_balloon"
     },
     "hud_int_hold_read_barcode": {
         "base_text": "Hold $BTN_INTERACT; to read the barcode",
-        "loc_text": "Hold $BTN_INTERACT; to read the barcode",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ read the barcode",
         "string_id": "hud_int_hold_read_barcode"
     },
     "hud_int_hold_reboot": {
         "base_text": "Hold $BTN_INTERACT; to reboot the computer",
-        "loc_text": "Hold $BTN_INTERACT; to reboot the computer",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ reboot the computer",
         "string_id": "hud_int_hold_reboot"
     },
     "hud_int_hold_relay_locke": {
         "base_text": "Hold $BTN_INTERACT; to relay Locke",
-        "loc_text": "Hold $BTN_INTERACT; to relay Locke",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ relay Locke",
         "string_id": "hud_int_hold_relay_locke"
     },
     "hud_int_hold_release_hatch": {
         "base_text": "Hold $BTN_INTERACT; to release hatch",
-        "loc_text": "Hold $BTN_INTERACT; to release hatch",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ release hatch",
         "string_id": "hud_int_hold_release_hatch"
     },
     "hud_int_hold_remove_armor_plating": {
         "base_text": "Hold $BTN_INTERACT; to remove armor plating",
-        "loc_text": "Hold $BTN_INTERACT; to remove armor plating",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ remove armor plating",
         "string_id": "hud_int_hold_remove_armor_plating"
     },
     "hud_int_hold_remove_battery": {
         "base_text": "Hold $BTN_INTERACT; to remove battery",
-        "loc_text": "Hold $BTN_INTERACT; to remove battery",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ remove battery",
         "string_id": "hud_int_hold_remove_battery"
     },
     "hud_int_hold_remove_cover": {
         "base_text": "Hold $BTN_INTERACT; to remove the cover",
-        "loc_text": "Hold $BTN_INTERACT; to remove the cover",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ remove the cover",
         "string_id": "hud_int_hold_remove_cover"
     },
     "hud_int_hold_remove_debris": {
         "base_text": "Hold $BTN_INTERACT; to remove debris",
-        "loc_text": "Hold $BTN_INTERACT; to remove debris",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ remove debris",
         "string_id": "hud_int_hold_remove_debris"
     },
     "hud_int_hold_remove_ladder": {
         "base_text": "Hold $BTN_INTERACT; to remove the ladder",
-        "loc_text": "Hold $BTN_INTERACT; to remove the ladder",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ remove the ladder",
         "string_id": "hud_int_hold_remove_ladder"
     },
     "hud_int_hold_remove_liquid_nitrogen": {
         "base_text": "Hold $BTN_INTERACT; to remove liquid nitrogen",
-        "loc_text": "Hold $BTN_INTERACT; to remove liquid nitrogen",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ remove liquid nitrogen",
         "string_id": "hud_int_hold_remove_liquid_nitrogen"
     },
     "hud_int_hold_remove_painting": {
         "base_text": "Hold $BTN_INTERACT; to remove painting",
-        "loc_text": "Hold $BTN_INTERACT; to remove painting",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ remove painting",
         "string_id": "hud_int_hold_remove_painting"
     },
     "hud_int_hold_remove_parts": {
         "base_text": "Hold $BTN_INTERACT; to move the parts",
-        "loc_text": "Hold $BTN_INTERACT; to move the parts",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ move the parts",
         "string_id": "hud_int_hold_remove_parts"
     },
     "hud_int_hold_repair_wheel": {
         "base_text": "Hold $BTN_INTERACT; to repair the wheel",
-        "loc_text": "Hold $BTN_INTERACT; to repair the wheel",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ repair the wheel",
         "string_id": "hud_int_hold_repair_wheel"
     },
     "hud_int_hold_resume_upload": {
         "base_text": "Hold $BTN_INTERACT; to resume upload",
-        "loc_text": "Hold $BTN_INTERACT; to resume upload",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ resume upload",
         "string_id": "hud_int_hold_resume_upload"
     },
     "hud_int_hold_rewire_fuse_box": {
         "base_text": "Hold $BTN_INTERACT; to rewire the security barrier",
-        "loc_text": "Hold $BTN_INTERACT; to rewire the security barrier",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ rewire the security barrier",
         "string_id": "hud_int_hold_rewire_fuse_box"
     },
     "hud_int_hold_roll_carpet": {
         "base_text": "Hold $BTN_INTERACT; to roll the carpet",
-        "loc_text": "Hold $BTN_INTERACT; to roll the carpet",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ roll the carpet",
         "string_id": "hud_int_hold_roll_carpet"
     },
     "hud_int_hold_scan_blueprints": {
         "base_text": "Hold $BTN_INTERACT; to scan the blueprints",
-        "loc_text": "Hold $BTN_INTERACT; to scan the blueprints",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ scan the blueprints",
         "string_id": "hud_int_hold_scan_blueprints"
     },
     "hud_int_hold_search_books": {
         "base_text": "Hold $BTN_INTERACT; to search",
-        "loc_text": "Hold $BTN_INTERACT; to search",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search",
         "string_id": "hud_int_hold_search_books"
     },
     "hud_int_hold_search_c4": {
         "base_text": "Hold $BTN_INTERACT; to search for C4",
-        "loc_text": "Hold $BTN_INTERACT; to search for C4",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search for C4",
         "string_id": "hud_int_hold_search_c4"
     },
     "hud_int_hold_search_clues": {
         "base_text": "Hold $BTN_INTERACT; to search for clues",
-        "loc_text": "Hold $BTN_INTERACT; to search for clues",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search for clues",
         "string_id": "hud_int_hold_search_clues"
     },
     "hud_int_hold_search_computer": {
         "base_text": "Hold $BTN_INTERACT; to search the database",
-        "loc_text": "Hold $BTN_INTERACT; to search the database",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search the database",
         "string_id": "hud_int_hold_search_computer"
     },
     "hud_int_hold_search_documents": {
         "base_text": "Hold $BTN_INTERACT; to search documents",
-        "loc_text": "Hold $BTN_INTERACT; to search documents",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search documents",
         "string_id": "hud_int_hold_search_documents"
     },
     "hud_int_hold_search_dumpster": {
         "base_text": "Hold $BTN_INTERACT; to search the dumpster",
-        "loc_text": "Hold $BTN_INTERACT; to search the dumpster",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search the dumpster",
         "string_id": "hud_int_hold_search_dumpster"
     },
     "hud_int_hold_search_toilet": {
         "base_text": "Hold $BTN_INTERACT; to search the portable toilet",
-        "loc_text": "Hold $BTN_INTERACT; to search the portable toilet",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search the portable toilet",
         "string_id": "hud_int_hold_search_toilet"
     },
     "hud_int_hold_search_usb_key": {
         "base_text": "Hold $BTN_INTERACT; to search for usb stick",
-        "loc_text": "Hold $BTN_INTERACT; to search for usb stick",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search for usb stick",
         "string_id": "hud_int_hold_search_usb_key"
     },
     "hud_int_hold_signal_mr_blonde": {
         "base_text": "Hold $BTN_INTERACT; to signal Mr. Blonde",
-        "loc_text": "Hold $BTN_INTERACT; to signal Mr. Blonde",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ signal Mr. Blonde",
         "string_id": "hud_int_hold_signal_mr_blonde"
     },
     "hud_int_hold_start_crane": {
         "base_text": "Hold $BTN_INTERACT; to start the crane",
-        "loc_text": "Hold $BTN_INTERACT; to start the crane",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ start the crane",
         "string_id": "hud_int_hold_start_crane"
     },
     "hud_int_hold_start_hack": {
         "base_text": "Hold $BTN_INTERACT; to start hacking",
-        "loc_text": "Hold $BTN_INTERACT; to start hacking",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ start hacking",
         "string_id": "hud_int_hold_start_hack"
     },
     "hud_int_hold_start_motor": {
         "base_text": "Hold $BTN_INTERACT; to start the engine",
-        "loc_text": "Hold $BTN_INTERACT; to start the engine",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ start the engine",
         "string_id": "hud_int_hold_start_motor"
     },
     "hud_int_hold_start_new_hack": {
         "base_text": "Hold $BTN_INTERACT; to start a new hack",
-        "loc_text": "Hold $BTN_INTERACT; to start a new hack",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ start a new hack",
         "string_id": "hud_int_hold_start_new_hack"
     },
     "hud_int_hold_start_printer": {
         "base_text": "Hold $BTN_INTERACT; to start the printer",
-        "loc_text": "Hold $BTN_INTERACT; to start the printer",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ start the printer",
         "string_id": "hud_int_hold_start_printer"
     },
     "hud_int_hold_stash_vial": {
         "base_text": "Hold $BTN_INTERACT; to stash the vial",
-        "loc_text": "Hold $BTN_INTERACT; to stash the vial",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ stash the vial",
         "string_id": "hud_int_hold_stash_vial"
     },
     "hud_int_hold_steal_meth": {
         "base_text": "Hold $BTN_INTERACT; to steal back the meth",
-        "loc_text": "Hold $BTN_INTERACT; to steal back the meth",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ steal back the meth",
         "string_id": "hud_int_hold_steal_meth"
     },
     "hud_int_hold_take_alarm_clock": {
         "base_text": "Hold $BTN_INTERACT; to take the alarm clock",
-        "loc_text": "Hold $BTN_INTERACT; to take the alarm clock",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the alarm clock",
         "string_id": "hud_int_hold_take_alarm_clock"
     },
     "hud_int_hold_take_artifact": {
         "base_text": "Hold $BTN_INTERACT; to take the artifact",
-        "loc_text": "Hold $BTN_INTERACT; to take the artifact",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the artifact",
         "string_id": "hud_int_hold_take_artifact"
     },
     "hud_int_hold_take_battery": {
         "base_text": "Hold $BTN_INTERACT; to take battery",
-        "loc_text": "Hold $BTN_INTERACT; to take battery",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take battery",
         "string_id": "hud_int_hold_take_battery"
     },
     "hud_int_hold_take_blade": {
         "base_text": "Hold $BTN_INTERACT; to take the saw blade",
-        "loc_text": "Hold $BTN_INTERACT; to take the saw blade",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the saw blade",
         "string_id": "hud_int_hold_take_blade"
     },
     "hud_int_hold_take_blood_sample": {
         "base_text": "Hold $BTN_INTERACT; to take the blood sample",
-        "loc_text": "Hold $BTN_INTERACT; to take the blood sample",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the blood sample",
         "string_id": "hud_int_hold_take_blood_sample"
     },
     "hud_int_hold_take_blood_valid_sample": {
         "base_text": "Hold $BTN_INTERACT; to take the valid blood sample",
-        "loc_text": "Hold $BTN_INTERACT; to take the valid blood sample",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the valid blood sample",
         "string_id": "hud_int_hold_take_blood_valid_sample"
     },
     "hud_int_hold_take_blow_torch": {
         "base_text": "Hold $BTN_INTERACT; to take the blow torch",
-        "loc_text": "Hold $BTN_INTERACT; to take the blow torch",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the blow torch",
         "string_id": "hud_int_hold_take_blow_torch"
     },
     "hud_int_hold_take_blueprints": {
         "base_text": "Hold $BTN_INTERACT; to take the blueprints",
-        "loc_text": "Hold $BTN_INTERACT; to take the blueprints",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the blueprints",
         "string_id": "hud_int_hold_take_blueprints"
     },
     "hud_int_hold_take_box": {
         "base_text": "Hold $BTN_INTERACT; to take the box",
-        "loc_text": "Hold $BTN_INTERACT; to take the box",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the box",
         "string_id": "hud_int_hold_take_box"
     },
     "hud_int_hold_take_churros": {
         "base_text": "Hold $BTN_INTERACT; to take the churros",
-        "loc_text": "Hold $BTN_INTERACT; to take the churros",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the churros",
         "string_id": "hud_int_hold_take_churros"
     },
     "hud_int_hold_take_circle_cutter": {
         "base_text": "Hold $BTN_INTERACT; to take the circle cutter",
-        "loc_text": "Hold $BTN_INTERACT; to take the circle cutter",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the circle cutter",
         "string_id": "hud_int_hold_take_circle_cutter"
     },
     "hud_int_hold_take_cocaine": {
         "base_text": "Hold $BTN_INTERACT; to take the cocaine",
-        "loc_text": "Hold $BTN_INTERACT; to take the cocaine",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the cocaine",
         "string_id": "hud_int_hold_take_cocaine"
     },
     "hud_int_hold_take_compound_a": {
         "base_text": "Hold $BTN_INTERACT; to take compound a",
-        "loc_text": "Hold $BTN_INTERACT; to take compound a",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take compound a",
         "string_id": "hud_int_hold_take_compound_a"
     },
     "hud_int_hold_take_compound_b": {
         "base_text": "Hold $BTN_INTERACT; to take compound b",
-        "loc_text": "Hold $BTN_INTERACT; to take compound b",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take compound b",
         "string_id": "hud_int_hold_take_compound_b"
     },
     "hud_int_hold_take_compound_c": {
         "base_text": "Hold $BTN_INTERACT; to take compound c",
-        "loc_text": "Hold $BTN_INTERACT; to take compound c",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take compound c",
         "string_id": "hud_int_hold_take_compound_c"
     },
     "hud_int_hold_take_compound_d": {
         "base_text": "Hold $BTN_INTERACT; to take compound d",
-        "loc_text": "Hold $BTN_INTERACT; to take compound d",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take compound d",
         "string_id": "hud_int_hold_take_compound_d"
     },
     "hud_int_hold_take_concoction": {
         "base_text": "Hold $BTN_INTERACT; to take the concoction",
-        "loc_text": "Hold $BTN_INTERACT; to take the concoction",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the concoction",
         "string_id": "hud_int_hold_take_concoction"
     },
     "hud_int_hold_take_counterfeit_money": {
         "base_text": "Hold $BTN_INTERACT; to take the Counterfeit money",
-        "loc_text": "Hold $BTN_INTERACT; to take the Counterfeit money",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the Counterfeit money",
         "string_id": "hud_int_hold_take_counterfeit_money"
     },
     "hud_int_hold_take_diamond_briefcase": {
         "base_text": "Hold $BTN_INTERACT; to take the diamond briefcase",
-        "loc_text": "Hold $BTN_INTERACT; to take the diamond briefcase",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the diamond briefcase",
         "string_id": "hud_int_hold_take_diamond_briefcase"
     },
     "hud_int_hold_take_diesel": {
         "base_text": "Hold $BTN_INTERACT; to take the diesel",
-        "loc_text": "Hold $BTN_INTERACT; to take the diesel",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the diesel",
         "string_id": "hud_int_hold_take_diesel"
     },
     "hud_int_hold_take_evidence": {
         "base_text": "Hold $BTN_INTERACT; to bag the evidence",
-        "loc_text": "Hold $BTN_INTERACT; to bag the evidence",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ bag the evidence",
         "string_id": "hud_int_hold_take_evidence"
     },
     "hud_int_hold_take_expensive_wine": {
         "base_text": "Hold $BTN_INTERACT; to take expensive wine",
-        "loc_text": "Hold $BTN_INTERACT; to take expensive wine",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take expensive wine",
         "string_id": "hud_int_hold_take_expensive_wine"
     },
     "hud_int_hold_take_faberge_egg": {
         "base_text": "Hold $BTN_INTERACT; to take Fabergé egg",
-        "loc_text": "Hold $BTN_INTERACT; to take Fabergé egg",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take Fabergé egg",
         "string_id": "hud_int_hold_take_faberge_egg"
     },
     "hud_int_hold_take_fertilizer": {
         "base_text": "Hold $BTN_INTERACT; to take the fertilizer",
-        "loc_text": "Hold $BTN_INTERACT; to take the fertilizer",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the fertilizer",
         "string_id": "hud_int_hold_take_fertilizer"
     },
     "hud_int_hold_take_fire_extinguisher": {
         "base_text": "Hold $BTN_INTERACT; to take the fire extinguisher",
-        "loc_text": "Hold $BTN_INTERACT; to take the fire extinguisher",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the fire extinguisher",
         "string_id": "hud_int_hold_take_fire_extinguisher"
     },
     "hud_int_hold_take_gas": {
         "base_text": "Hold $BTN_INTERACT; to take the gasoline",
-        "loc_text": "Hold $BTN_INTERACT; to take the gasoline",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the gasoline",
         "string_id": "hud_int_hold_take_gas"
     },
     "hud_int_hold_take_globe": {
         "base_text": "Hold $BTN_INTERACT; to take the globe",
-        "loc_text": "Hold $BTN_INTERACT; to take the globe",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the globe",
         "string_id": "hud_int_hold_take_globe"
     },
     "hud_int_hold_take_handcuffs": {
         "base_text": "Hold $BTN_INTERACT; to take handcuffs",
-        "loc_text": "Hold $BTN_INTERACT; to take handcuffs",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take handcuffs",
         "string_id": "hud_int_hold_take_handcuffs"
     },
     "hud_int_hold_take_hdd": {
         "base_text": "Hold $BTN_INTERACT; to take the Hard Drive",
-        "loc_text": "Hold $BTN_INTERACT; to take the Hard Drive",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the Hard Drive",
         "string_id": "hud_int_hold_take_hdd"
     },
     "hud_int_hold_take_helmet": {
         "base_text": "Hold $BTN_INTERACT; to take BCI Helmet",
-        "loc_text": "Hold $BTN_INTERACT; to take BCI Helmet",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take BCI Helmet",
         "string_id": "hud_int_hold_take_helmet"
     },
     "hud_int_hold_take_jewelry": {
@@ -17236,262 +17236,262 @@
     },
     "hud_int_hold_take_mask": {
         "base_text": "Hold $BTN_INTERACT; to take the mask",
-        "loc_text": "Hold $BTN_INTERACT; to take the mask",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the mask",
         "string_id": "hud_int_hold_take_mask"
     },
     "hud_int_hold_take_medallion": {
         "base_text": "Hold $BTN_INTERACT; to take the medallion",
-        "loc_text": "Hold $BTN_INTERACT; to take the medallion",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the medallion",
         "string_id": "hud_int_hold_take_medallion"
     },
     "hud_int_hold_take_meth": {
         "base_text": "Hold $BTN_INTERACT; to take the meth",
-        "loc_text": "Hold $BTN_INTERACT; to take the meth",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the meth",
         "string_id": "hud_int_hold_take_meth"
     },
     "hud_int_hold_take_necklace": {
         "base_text": "Hold $BTN_INTERACT; to take diamond necklace",
-        "loc_text": "Hold $BTN_INTERACT; to take diamond necklace",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take diamond necklace",
         "string_id": "hud_int_hold_take_necklace"
     },
     "hud_int_hold_take_painting": {
         "base_text": "Hold $BTN_INTERACT; to take the painting",
-        "loc_text": "Hold $BTN_INTERACT; to take the painting",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the painting",
         "string_id": "hud_int_hold_take_painting"
     },
     "hud_int_hold_take_paper_roll": {
         "base_text": "Hold $BTN_INTERACT; to take the paper roll",
-        "loc_text": "Hold $BTN_INTERACT; to take the paper roll",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the paper roll",
         "string_id": "hud_int_hold_take_paper_roll"
     },
     "hud_int_hold_take_pardons": {
         "base_text": "Hold $BTN_INTERACT; to take the pardon",
-        "loc_text": "Hold $BTN_INTERACT; to take the pardon",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the pardon",
         "string_id": "hud_int_hold_take_pardons"
     },
     "hud_int_hold_take_pig": {
         "base_text": "Hold $BTN_INTERACT; to take a Pig",
-        "loc_text": "Hold $BTN_INTERACT; to take a Pig",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take a Pig",
         "string_id": "hud_int_hold_take_pig"
     },
     "hud_int_hold_take_pills": {
         "base_text": "Hold $BTN_INTERACT; to take the Pills",
-        "loc_text": "Hold $BTN_INTERACT; to take the Pills",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the Pills",
         "string_id": "hud_int_hold_take_pills"
     },
     "hud_int_hold_take_police_uniform": {
         "base_text": "Hold $BTN_INTERACT; to pick up Police Uniform",
-        "loc_text": "Hold $BTN_INTERACT; to pick up Police Uniform",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pick up Police Uniform",
         "string_id": "hud_int_hold_take_police_uniform"
     },
     "hud_int_hold_take_prototype": {
         "base_text": "Hold $BTN_INTERACT; to take prototype",
-        "loc_text": "Hold $BTN_INTERACT; to take prototype",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take prototype",
         "string_id": "hud_int_hold_take_prototype"
     },
     "hud_int_hold_take_pure_cocaine": {
         "base_text": "Hold $BTN_INTERACT; to take pure Colombian cocaine",
-        "loc_text": "Hold $BTN_INTERACT; to take pure Colombian cocaine",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take pure Colombian cocaine",
         "string_id": "hud_int_hold_take_pure_cocaine"
     },
     "hud_int_hold_take_reaktor": {
         "base_text": "Hold $BTN_INTERACT; to take the fusion reactor prototype",
-        "loc_text": "Hold $BTN_INTERACT; to take the fusion reactor prototype",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the fusion reactor prototype",
         "string_id": "hud_int_hold_take_reaktor"
     },
     "hud_int_hold_take_safe": {
         "base_text": "Hold $BTN_INTERACT; to take the safe",
-        "loc_text": "Hold $BTN_INTERACT; to take the safe",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the safe",
         "string_id": "hud_int_hold_take_safe"
     },
     "hud_int_hold_take_sandwich": {
         "base_text": "Hold $BTN_INTERACT; to take Almir's toast",
-        "loc_text": "Hold $BTN_INTERACT; to take Almir's toast",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take Almir's toast",
         "string_id": "hud_int_hold_take_sandwich"
     },
     "hud_int_hold_take_saw": {
         "base_text": "Hold $BTN_INTERACT; to take the saw",
-        "loc_text": "Hold $BTN_INTERACT; to take the saw",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the saw",
         "string_id": "hud_int_hold_take_saw"
     },
     "hud_int_hold_take_scythe": {
         "base_text": "Hold $BTN_INTERACT; to take the scythe",
-        "loc_text": "Hold $BTN_INTERACT; to take the scythe",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the scythe",
         "string_id": "hud_int_hold_take_scythe"
     },
     "hud_int_hold_take_server": {
         "base_text": "Hold $BTN_INTERACT; to take the server",
-        "loc_text": "Hold $BTN_INTERACT; to take the server",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the server",
         "string_id": "hud_int_hold_take_server"
     },
     "hud_int_hold_take_shoes": {
         "base_text": "Hold $BTN_INTERACT; to take high heels",
-        "loc_text": "Hold $BTN_INTERACT; to take high heels",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take high heels",
         "string_id": "hud_int_hold_take_shoes"
     },
     "hud_int_hold_take_toothbrush": {
         "base_text": "Hold $BTN_INTERACT; to take the toothbrush",
-        "loc_text": "Hold $BTN_INTERACT; to take the toothbrush",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the toothbrush",
         "string_id": "hud_int_hold_take_toothbrush"
     },
     "hud_int_hold_take_toy": {
         "base_text": "Hold $BTN_INTERACT; to take the Tin Boy toy",
-        "loc_text": "Hold $BTN_INTERACT; to take the Tin Boy toy",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the Tin Boy toy",
         "string_id": "hud_int_hold_take_toy"
     },
     "hud_int_hold_take_treasure": {
         "base_text": "Hold $BTN_INTERACT; to take the Romanov treasure",
-        "loc_text": "Hold $BTN_INTERACT; to take the Romanov treasure",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the Romanov treasure",
         "string_id": "hud_int_hold_take_treasure"
     },
     "hud_int_hold_take_vr_headset": {
         "base_text": "Hold $BTN_INTERACT; to take vr headset",
-        "loc_text": "Hold $BTN_INTERACT; to take vr headset",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take vr headset",
         "string_id": "hud_int_hold_take_vr_headset"
     },
     "hud_int_hold_take_warhead": {
         "base_text": "Hold $BTN_INTERACT; to take the warhead",
-        "loc_text": "Hold $BTN_INTERACT; to take the warhead",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the warhead",
         "string_id": "hud_int_hold_take_warhead"
     },
     "hud_int_hold_take_wine": {
         "base_text": "Hold $BTN_INTERACT; to take the wine",
-        "loc_text": "Hold $BTN_INTERACT; to take the wine",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the wine",
         "string_id": "hud_int_hold_take_wine"
     },
     "hud_int_hold_take_wire": {
         "base_text": "Hold $BTN_INTERACT; to take the wires",
-        "loc_text": "Hold $BTN_INTERACT; to take the wires",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the wires",
         "string_id": "hud_int_hold_take_wire"
     },
     "hud_int_hold_take_wrench": {
         "base_text": "Hold $BTN_INTERACT; to take wrench",
-        "loc_text": "Hold $BTN_INTERACT; to take wrench",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take wrench",
         "string_id": "hud_int_hold_take_wrench"
     },
     "hud_int_hold_take_yayo": {
         "base_text": "Hold $BTN_INTERACT; to take the yayo",
-        "loc_text": "Hold $BTN_INTERACT; to take the yayo",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the yayo",
         "string_id": "hud_int_hold_take_yayo"
     },
     "hud_int_hold_to_choose_mask": {
         "base_text": "Hold $BTN_INTERACT; to choose mask",
-        "loc_text": "Hold $BTN_INTERACT; to choose mask",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ choose mask",
         "string_id": "hud_int_hold_to_choose_mask"
     },
     "hud_int_hold_to_help_turtle": {
         "base_text": "Hold $BTN_INTERACT; to help the turtle get back up",
-        "loc_text": "Hold $BTN_INTERACT; to help the turtle get back up",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ help the turtle get back up",
         "string_id": "hud_int_hold_to_help_turtle"
     },
     "hud_int_hold_to_place_alarm_clock": {
         "base_text": "Hold $BTN_INTERACT; to place the alarm clock",
-        "loc_text": "Hold $BTN_INTERACT; to place the alarm clock",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place the alarm clock",
         "string_id": "hud_int_hold_to_place_alarm_clock"
     },
     "hud_int_hold_to_place_device": {
         "base_text": "Hold $BTN_INTERACT; to place the device",
-        "loc_text": "Hold $BTN_INTERACT; to place the device",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place the device",
         "string_id": "hud_int_hold_to_place_device"
     },
     "hud_int_hold_to_place_diesel": {
         "base_text": "Hold $BTN_INTERACT; to place the diesel",
-        "loc_text": "Hold $BTN_INTERACT; to place the diesel",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place the diesel",
         "string_id": "hud_int_hold_to_place_diesel"
     },
     "hud_int_hold_to_place_fertilizer": {
         "base_text": "Hold $BTN_INTERACT; to place the fertilizer",
-        "loc_text": "Hold $BTN_INTERACT; to place the fertilizer",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place the fertilizer",
         "string_id": "hud_int_hold_to_place_fertilizer"
     },
     "hud_int_hold_to_place_globe": {
         "base_text": "Hold $BTN_INTERACT; to place the globe",
-        "loc_text": "Hold $BTN_INTERACT; to place the globe",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place the globe",
         "string_id": "hud_int_hold_to_place_globe"
     },
     "hud_int_hold_to_place_scythe": {
         "base_text": "Hold $BTN_INTERACT; to place the scythe",
-        "loc_text": "Hold $BTN_INTERACT; to place the scythe",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place the scythe",
         "string_id": "hud_int_hold_to_place_scythe"
     },
     "hud_int_hold_to_place_wire": {
         "base_text": "Hold $BTN_INTERACT; to place the wires",
-        "loc_text": "Hold $BTN_INTERACT; to place the wires",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place the wires",
         "string_id": "hud_int_hold_to_place_wire"
     },
     "hud_int_hold_to_take_tablet": {
         "base_text": "Hold $BTN_INTERACT; to take the tablet",
-        "loc_text": "Hold $BTN_INTERACT; to take the tablet",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the tablet",
         "string_id": "hud_int_hold_to_take_tablet"
     },
     "hud_int_hold_turn_off_light": {
         "base_text": "Hold $BTN_INTERACT; to turn off the lights",
-        "loc_text": "Hold $BTN_INTERACT; to turn off the lights",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ turn off the lights",
         "string_id": "hud_int_hold_turn_off_light"
     },
     "hud_int_hold_turn_off_power": {
         "base_text": "Press $BTN_INTERACT; to turn off the power",
-        "loc_text": "Press $BTN_INTERACT; to turn off the power",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ turn off the power",
         "string_id": "hud_int_hold_turn_off_power"
     },
     "hud_int_hold_turn_off_sprinklers": {
         "base_text": "Hold $BTN_INTERACT; to turn off sprinklers",
-        "loc_text": "Hold $BTN_INTERACT; to turn off sprinklers",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ turn off sprinklers",
         "string_id": "hud_int_hold_turn_off_sprinklers"
     },
     "hud_int_hold_turn_on_power": {
         "base_text": "Hold $BTN_INTERACT; to Turn on the Power",
-        "loc_text": "Hold $BTN_INTERACT; to Turn on the Power",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ Turn on the Power",
         "string_id": "hud_int_hold_turn_on_power"
     },
     "hud_int_hold_unfold_ladder": {
         "base_text": "Hold $BTN_INTERACT; to unfold ladder",
-        "loc_text": "Hold $BTN_INTERACT; to unfold ladder",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ unfold ladder",
         "string_id": "hud_int_hold_unfold_ladder"
     },
     "hud_int_hold_unlock_car": {
         "base_text": "Hold $BTN_INTERACT; to unlock the car",
-        "loc_text": "Hold $BTN_INTERACT; to unlock the car",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ unlock the car",
         "string_id": "hud_int_hold_unlock_car"
     },
     "hud_int_hold_unlock_display_ares": {
         "base_text": "Hold $BTN_INTERACT; to unlock ares",
-        "loc_text": "Hold $BTN_INTERACT; to unlock ares",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ unlock ares",
         "string_id": "hud_int_hold_unlock_display_ares"
     },
     "hud_int_hold_unlock_display_chronos": {
         "base_text": "Hold $BTN_INTERACT; to unlock chronos",
-        "loc_text": "Hold $BTN_INTERACT; to unlock chronos",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ unlock chronos",
         "string_id": "hud_int_hold_unlock_display_chronos"
     },
     "hud_int_hold_unlock_display_demeter": {
         "base_text": "Hold $BTN_INTERACT; to unlock demeter",
-        "loc_text": "Hold $BTN_INTERACT; to unlock demeter",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ unlock demeter",
         "string_id": "hud_int_hold_unlock_display_demeter"
     },
     "hud_int_hold_unlock_display_hades": {
         "base_text": "Hold $BTN_INTERACT; to unlock hades",
-        "loc_text": "Hold $BTN_INTERACT; to unlock hades",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ unlock hades",
         "string_id": "hud_int_hold_unlock_display_hades"
     },
     "hud_int_hold_unlock_display_poseidon": {
         "base_text": "Hold $BTN_INTERACT; to unlock poseidon",
-        "loc_text": "Hold $BTN_INTERACT; to unlock poseidon",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ unlock poseidon",
         "string_id": "hud_int_hold_unlock_display_poseidon"
     },
     "hud_int_hold_unlock_display_zeus": {
         "base_text": "Hold $BTN_INTERACT; to unlock zeus",
-        "loc_text": "Hold $BTN_INTERACT; to unlock zeus",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ unlock zeus",
         "string_id": "hud_int_hold_unlock_display_zeus"
     },
     "hud_int_hold_use_computer": {
         "base_text": "Hold $BTN_INTERACT; to use the computer",
-        "loc_text": "Hold $BTN_INTERACT; to use the computer",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ use the computer",
         "string_id": "hud_int_hold_use_computer"
     },
     "hud_int_hold_use_device": {
         "base_text": "Hold $BTN_INTERACT; to place device",
-        "loc_text": "Hold $BTN_INTERACT; to place device",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place device",
         "string_id": "hud_int_hold_use_device"
     },
     "hud_int_hostage_convert": {
@@ -17501,67 +17501,67 @@
     },
     "hud_int_ignite_flare": {
         "base_text": "Press $BTN_INTERACT; to ignite flare",
-        "loc_text": "Press $BTN_INTERACT; to ignite flare",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ ignite flare",
         "string_id": "hud_int_ignite_flare"
     },
     "hud_int_insert_blood_sample": {
         "base_text": "Press $BTN_INTERACT; to insert the blood sample",
-        "loc_text": "Press $BTN_INTERACT; to insert the blood sample",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ insert the blood sample",
         "string_id": "hud_int_insert_blood_sample"
     },
     "hud_int_insert_flash_dive": {
         "base_text": "Press $BTN_INTERACT; to Insert flash drive",
-        "loc_text": "Press $BTN_INTERACT; to Insert flash drive",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ Insert flash drive",
         "string_id": "hud_int_insert_flash_dive"
     },
     "hud_int_invisible_interaction_close": {
         "base_text": "Hold $BTN_INTERACT; to close",
-        "loc_text": "Hold $BTN_INTERACT; to close",
+        "loc_text": "Hold $BTN_INTERACT; เพื่อปิด",
         "string_id": "hud_int_invisible_interaction_close"
     },
     "hud_int_invisible_interaction_open": {
         "base_text": "Hold $BTN_INTERACT; to open",
-        "loc_text": "Hold $BTN_INTERACT; to open",
+        "loc_text": "Hold $BTN_INTERACT; เพื่อเปิด",
         "string_id": "hud_int_invisible_interaction_open"
     },
     "hud_int_keyboard_hox_1": {
         "base_text": "Hold $BTN_INTERACT; to lower bollards",
-        "loc_text": "Hold $BTN_INTERACT; to lower bollards",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ lower bollards",
         "string_id": "hud_int_keyboard_hox_1"
     },
     "hud_int_ladyjustice_statue": {
         "base_text": "Press $BTN_INTERACT; to place the money clips",
-        "loc_text": "Press $BTN_INTERACT; to place the money clips",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ place the money clips",
         "string_id": "hud_int_ladyjustice_statue"
     },
     "hud_int_methlab_bubbling": {
         "base_text": "Hold $BTN_INTERACT; to add the muriatic acid",
-        "loc_text": "Hold $BTN_INTERACT; to add the muriatic acid",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ add the muriatic acid",
         "string_id": "hud_int_methlab_bubbling"
     },
     "hud_int_methlab_caustic_cooler": {
         "base_text": "Hold $BTN_INTERACT; to add the caustic soda",
-        "loc_text": "Hold $BTN_INTERACT; to add the caustic soda",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ add the caustic soda",
         "string_id": "hud_int_methlab_caustic_cooler"
     },
     "hud_int_methlab_drying_meth": {
         "base_text": "Hold $BTN_INTERACT; to add the liquid meth",
-        "loc_text": "Hold $BTN_INTERACT; to add the liquid meth",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ add the liquid meth",
         "string_id": "hud_int_methlab_drying_meth"
     },
     "hud_int_methlab_gas_to_salt": {
         "base_text": "Hold $BTN_INTERACT; to add the hydrogen chloride",
-        "loc_text": "Hold $BTN_INTERACT; to add the hydrogen chloride",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ add the hydrogen chloride",
         "string_id": "hud_int_methlab_gas_to_salt"
     },
     "hud_int_mex_pickup_murky_uniforms": {
         "base_text": "Hold $BTN_INTERACT; to pick up uniforms",
-        "loc_text": "Hold $BTN_INTERACT; to pick up uniforms",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pick up uniforms",
         "string_id": "hud_int_mex_pickup_murky_uniforms"
     },
     "hud_int_move_gangplank": {
         "base_text": "Hold $BTN_INTERACT; to move gangplank",
-        "loc_text": "Hold $BTN_INTERACT; to move gangplank",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ move gangplank",
         "string_id": "hud_int_move_gangplank"
     },
     "hud_int_need_chimichanga": {
@@ -17601,7 +17601,7 @@
     },
     "hud_int_numpad_keycard": {
         "base_text": "Press $BTN_INTERACT; to disable the display case alarm",
-        "loc_text": "Press $BTN_INTERACT; to disable the display case alarm",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ disable the display case alarm",
         "string_id": "hud_int_numpad_keycard"
     },
     "hud_int_numpad_no_keycard": {
@@ -17611,172 +17611,172 @@
     },
     "hud_int_old_wine": {
         "base_text": "Hold $BTN_INTERACT; to take old wine",
-        "loc_text": "Hold $BTN_INTERACT; to take old wine",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take old wine",
         "string_id": "hud_int_old_wine"
     },
     "hud_int_open_cargo_door": {
         "base_text": "Hold $BTN_INTERACT; to open cargo door",
-        "loc_text": "Hold $BTN_INTERACT; to open cargo door",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open cargo door",
         "string_id": "hud_int_open_cargo_door"
     },
     "hud_int_open_panicroom": {
         "base_text": "Hold $BTN_INTERACT; to swipe the keycard",
-        "loc_text": "Hold $BTN_INTERACT; to swipe the keycard",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ swipe the keycard",
         "string_id": "hud_int_open_panicroom"
     },
     "hud_int_open_slash_close": {
         "base_text": "Hold $BTN_INTERACT; to open",
-        "loc_text": "Hold $BTN_INTERACT; to open",
+        "loc_text": "Hold $BTN_INTERACT; เพื่อเปิด",
         "string_id": "hud_int_open_slash_close"
     },
     "hud_int_open_window": {
         "base_text": "Hold $BTN_INTERACT; to open window",
-        "loc_text": "Hold $BTN_INTERACT; to open window",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open window",
         "string_id": "hud_int_open_window"
     },
     "hud_int_pick_lock": {
         "base_text": "Hold $BTN_INTERACT; to pick the lock",
-        "loc_text": "Hold $BTN_INTERACT; to pick the lock",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pick the lock",
         "string_id": "hud_int_pick_lock"
     },
     "hud_int_pickup_asset": {
         "base_text": "Press $BTN_INTERACT; to pick up the keychain",
-        "loc_text": "Press $BTN_INTERACT; to pick up the keychain",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบ the keychain",
         "string_id": "hud_int_pickup_asset"
     },
     "hud_int_pickup_cutter": {
         "base_text": "Hold $BTN_INTERACT; to pick up Bolt Cutter",
-        "loc_text": "Hold $BTN_INTERACT; to pick up Bolt Cutter",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pick up Bolt Cutter",
         "string_id": "hud_int_pickup_cutter"
     },
     "hud_int_pickup_keycard": {
         "base_text": "Press $BTN_INTERACT; to pick up the keycard",
-        "loc_text": "Press $BTN_INTERACT; to pick up the keycard",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบ the keycard",
         "string_id": "hud_int_pickup_keycard"
     },
     "hud_int_pickup_phone": {
         "base_text": "Press $BTN_INTERACT; to take the phone",
-        "loc_text": "Press $BTN_INTERACT; to take the phone",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the phone",
         "string_id": "hud_int_pickup_phone"
     },
     "hud_int_pickup_tablet": {
         "base_text": "Press $BTN_INTERACT; to take the tablet",
-        "loc_text": "Press $BTN_INTERACT; to take the tablet",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the tablet",
         "string_id": "hud_int_pickup_tablet"
     },
     "hud_int_pickup_tiara": {
         "base_text": "Press $BTN_INTERACT; to take the tiara",
-        "loc_text": "Press $BTN_INTERACT; to take the tiara",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the tiara",
         "string_id": "hud_int_pickup_tiara"
     },
     "hud_int_pku_flammable_liquid": {
         "base_text": "Hold $BTN_INTERACT; to pick up Flammable liquid",
-        "loc_text": "Hold $BTN_INTERACT; to pick up Flammable liquid",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pick up Flammable liquid",
         "string_id": "hud_int_pku_flammable_liquid"
     },
     "hud_int_pku_medal": {
         "base_text": "Press $BTN_INTERACT; to pick up medal",
-        "loc_text": "Press $BTN_INTERACT; to pick up medal",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบ medal",
         "string_id": "hud_int_pku_medal"
     },
     "hud_int_place_camera": {
         "base_text": "Press $BTN_INTERACT; to place the camera",
-        "loc_text": "Press $BTN_INTERACT; to place the camera",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ place the camera",
         "string_id": "hud_int_place_camera"
     },
     "hud_int_place_flare": {
         "base_text": "Press $BTN_INTERACT; to place flare",
-        "loc_text": "Press $BTN_INTERACT; to place flare",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ place flare",
         "string_id": "hud_int_place_flare"
     },
     "hud_int_place_harddrive": {
         "base_text": "Hold $BTN_INTERACT; to place the hard drive",
-        "loc_text": "Hold $BTN_INTERACT; to place the hard drive",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place the hard drive",
         "string_id": "hud_int_place_harddrive"
     },
     "hud_int_place_mayan_gold_bar": {
         "base_text": "Press $BTN_INTERACT; to place mayan gold bar",
-        "loc_text": "Press $BTN_INTERACT; to place mayan gold bar",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ place mayan gold bar",
         "string_id": "hud_int_place_mayan_gold_bar"
     },
     "hud_int_play_tape": {
         "base_text": "Hold $BTN_INTERACT; to play the tape",
-        "loc_text": "Hold $BTN_INTERACT; to play the tape",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ play the tape",
         "string_id": "hud_int_play_tape"
     },
     "hud_int_pour_drink": {
         "base_text": "Press $BTN_INTERACT; to pour the spiked drink",
-        "loc_text": "Press $BTN_INTERACT; to pour the spiked drink",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ pour the spiked drink",
         "string_id": "hud_int_pour_drink"
     },
     "hud_int_press_0": {
         "base_text": "Press $BTN_INTERACT; to enter 0",
-        "loc_text": "Press $BTN_INTERACT; to enter 0",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ enter 0",
         "string_id": "hud_int_press_0"
     },
     "hud_int_press_01": {
         "base_text": "Press $BTN_INTERACT; to enter 1",
-        "loc_text": "Press $BTN_INTERACT; to enter 1",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ enter 1",
         "string_id": "hud_int_press_01"
     },
     "hud_int_press_02": {
         "base_text": "Press $BTN_INTERACT; to enter 2",
-        "loc_text": "Press $BTN_INTERACT; to enter 2",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ enter 2",
         "string_id": "hud_int_press_02"
     },
     "hud_int_press_03": {
         "base_text": "Press $BTN_INTERACT; to enter 3",
-        "loc_text": "Press $BTN_INTERACT; to enter 3",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ enter 3",
         "string_id": "hud_int_press_03"
     },
     "hud_int_press_04": {
         "base_text": "Press $BTN_INTERACT; to enter 4",
-        "loc_text": "Press $BTN_INTERACT; to enter 4",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ enter 4",
         "string_id": "hud_int_press_04"
     },
     "hud_int_press_05": {
         "base_text": "Press $BTN_INTERACT; to enter 5",
-        "loc_text": "Press $BTN_INTERACT; to enter 5",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ enter 5",
         "string_id": "hud_int_press_05"
     },
     "hud_int_press_06": {
         "base_text": "Press $BTN_INTERACT; to enter 6",
-        "loc_text": "Press $BTN_INTERACT; to enter 6",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ enter 6",
         "string_id": "hud_int_press_06"
     },
     "hud_int_press_07": {
         "base_text": "Press $BTN_INTERACT; to enter 7",
-        "loc_text": "Press $BTN_INTERACT; to enter 7",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ enter 7",
         "string_id": "hud_int_press_07"
     },
     "hud_int_press_08": {
         "base_text": "Press $BTN_INTERACT; to enter 8",
-        "loc_text": "Press $BTN_INTERACT; to enter 8",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ enter 8",
         "string_id": "hud_int_press_08"
     },
     "hud_int_press_09": {
         "base_text": "Press $BTN_INTERACT; to enter 9",
-        "loc_text": "Press $BTN_INTERACT; to enter 9",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ enter 9",
         "string_id": "hud_int_press_09"
     },
     "hud_int_press_activate": {
         "base_text": "Press $BTN_INTERACT; to activate",
-        "loc_text": "Press $BTN_INTERACT; to activate",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ activate",
         "string_id": "hud_int_press_activate"
     },
     "hud_int_press_clear": {
         "base_text": "Press $BTN_INTERACT; to clear the code",
-        "loc_text": "Press $BTN_INTERACT; to clear the code",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ clear the code",
         "string_id": "hud_int_press_clear"
     },
     "hud_int_press_enter": {
         "base_text": "Press $BTN_INTERACT; to enter the code",
-        "loc_text": "Press $BTN_INTERACT; to enter the code",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ enter the code",
         "string_id": "hud_int_press_enter"
     },
     "hud_int_press_fire_laser": {
         "base_text": "Press $BTN_INTERACT; to fire laser",
-        "loc_text": "Press $BTN_INTERACT; to fire laser",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ fire laser",
         "string_id": "hud_int_press_fire_laser"
     },
     "hud_int_press_for_info": {
@@ -17786,102 +17786,102 @@
     },
     "hud_int_press_hand_over_breifcase": {
         "base_text": "Press $BTN_INTERACT; to hand over diamond briefcase",
-        "loc_text": "Press $BTN_INTERACT; to hand over diamond briefcase",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ hand over diamond briefcase",
         "string_id": "hud_int_press_hand_over_breifcase"
     },
     "hud_int_press_interaction_close": {
         "base_text": "Press $BTN_INTERACT; to close",
-        "loc_text": "Press $BTN_INTERACT; to close",
+        "loc_text": "Press $BTN_INTERACT; เพื่อปิด",
         "string_id": "hud_int_press_interaction_close"
     },
     "hud_int_press_interaction_open": {
         "base_text": "Press $BTN_INTERACT; to open",
-        "loc_text": "Press $BTN_INTERACT; to open",
+        "loc_text": "Press $BTN_INTERACT; เพื่อเปิด",
         "string_id": "hud_int_press_interaction_open"
     },
     "hud_int_press_knock_on_door": {
         "base_text": "Press $BTN_INTERACT; to knock on the door",
-        "loc_text": "Press $BTN_INTERACT; to knock on the door",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ knock on the door",
         "string_id": "hud_int_press_knock_on_door"
     },
     "hud_int_press_pay_respects": {
         "base_text": "Press $BTN_INTERACT; to pay respects",
-        "loc_text": "Press $BTN_INTERACT; to pay respects",
+        "loc_text": "กด $BTN_INTERACT; เพื่อแสดงความเคารพ",
         "string_id": "hud_int_press_pay_respects"
     },
     "hud_int_press_pick_up": {
         "base_text": "Press $BTN_INTERACT; to pick up",
-        "loc_text": "Press $BTN_INTERACT; to pick up",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบ",
         "string_id": "hud_int_press_pick_up"
     },
     "hud_int_press_place_chimichanga": {
         "base_text": "Hold $BTN_INTERACT; to place the chimichanga",
-        "loc_text": "Hold $BTN_INTERACT; to place the chimichanga",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place the chimichanga",
         "string_id": "hud_int_press_place_chimichanga"
     },
     "hud_int_press_place_stapler": {
         "base_text": "Press $BTN_INTERACT; to place stapler",
-        "loc_text": "Press $BTN_INTERACT; to place stapler",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ place stapler",
         "string_id": "hud_int_press_place_stapler"
     },
     "hud_int_press_pour_liquid_nitrogen": {
         "base_text": "Press $BTN_INTERACT; to pour liquid nitrogen",
-        "loc_text": "Press $BTN_INTERACT; to pour liquid nitrogen",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ pour liquid nitrogen",
         "string_id": "hud_int_press_pour_liquid_nitrogen"
     },
     "hud_int_press_respawn": {
         "base_text": "Press $BTN_INTERACT; to respawn the vehicle",
-        "loc_text": "Press $BTN_INTERACT; to respawn the vehicle",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ respawn the vehicle",
         "string_id": "hud_int_press_respawn"
     },
     "hud_int_press_shoot_puck": {
         "base_text": "Press $BTN_INTERACT; to shoot the puck",
-        "loc_text": "Press $BTN_INTERACT; to shoot the puck",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ shoot the puck",
         "string_id": "hud_int_press_shoot_puck"
     },
     "hud_int_press_take_chimichanga": {
         "base_text": "Hold $BTN_INTERACT; to take the chimichanga",
-        "loc_text": "Hold $BTN_INTERACT; to take the chimichanga",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the chimichanga",
         "string_id": "hud_int_press_take_chimichanga"
     },
     "hud_int_press_take_elevator": {
         "base_text": "Press $BTN_INTERACT; to take the elevator",
-        "loc_text": "Press $BTN_INTERACT; to take the elevator",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the elevator",
         "string_id": "hud_int_press_take_elevator"
     },
     "hud_int_press_use_medallion": {
         "base_text": "Press $BTN_INTERACT; to use medallion",
-        "loc_text": "Press $BTN_INTERACT; to use medallion",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ use medallion",
         "string_id": "hud_int_press_use_medallion"
     },
     "hud_int_printing_plates": {
         "base_text": "Press $BTN_INTERACT; to take the Printing Plate",
-        "loc_text": "Press $BTN_INTERACT; to take the Printing Plate",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the Printing Plate",
         "string_id": "hud_int_printing_plates"
     },
     "hud_int_pry_open_elevator_door": {
         "base_text": "Hold $BTN_INTERACT; to pry open elevator door",
-        "loc_text": "Hold $BTN_INTERACT; to pry open elevator door",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pry open elevator door",
         "string_id": "hud_int_pry_open_elevator_door"
     },
     "hud_int_push_button": {
         "base_text": "Press $BTN_INTERACT; to push the button",
-        "loc_text": "Press $BTN_INTERACT; to push the button",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push the button",
         "string_id": "hud_int_push_button"
     },
     "hud_int_remove_rope": {
         "base_text": "Hold $BTN_INTERACT; to remove rope",
-        "loc_text": "Hold $BTN_INTERACT; to remove rope",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ remove rope",
         "string_id": "hud_int_remove_rope"
     },
     "hud_int_remove_stinger": {
         "base_text": "Hold $BTN_INTERACT; to remove police stinger",
-        "loc_text": "Hold $BTN_INTERACT; to remove police stinger",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ remove police stinger",
         "string_id": "hud_int_remove_stinger"
     },
     "hud_int_remove_tarp": {
         "base_text": "Hold $BTN_INTERACT; to remove the tarp",
-        "loc_text": "Hold $BTN_INTERACT; to remove the tarp",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ remove the tarp",
         "string_id": "hud_int_remove_tarp"
     },
     "hud_int_requires_chrome_skull": {
@@ -17901,132 +17901,132 @@
     },
     "hud_int_restore_power": {
         "base_text": "Press $BTN_INTERACT; to restore the power",
-        "loc_text": "Press $BTN_INTERACT; to restore the power",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ restore the power",
         "string_id": "hud_int_restore_power"
     },
     "hud_int_rewire_box": {
         "base_text": "Hold $BTN_INTERACT; to rewire",
-        "loc_text": "Hold $BTN_INTERACT; to rewire",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ rewire",
         "string_id": "hud_int_rewire_box"
     },
     "hud_int_rewire_timelock": {
         "base_text": "Hold $BTN_INTERACT; to re-wire the time lock",
-        "loc_text": "Hold $BTN_INTERACT; to re-wire the time lock",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ re-wire the time lock",
         "string_id": "hud_int_rewire_timelock"
     },
     "hud_int_search_blueprints": {
         "base_text": "Hold $BTN_INTERACT; to search for the blueprints",
-        "loc_text": "Hold $BTN_INTERACT; to search for the blueprints",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search for the blueprints",
         "string_id": "hud_int_search_blueprints"
     },
     "hud_int_search_bookshelf": {
         "base_text": "Hold $BTN_INTERACT; to search bookshelf",
-        "loc_text": "Hold $BTN_INTERACT; to search bookshelf",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search bookshelf",
         "string_id": "hud_int_search_bookshelf"
     },
     "hud_int_search_cabinet": {
         "base_text": "Hold $BTN_INTERACT; to search cabinet",
-        "loc_text": "Hold $BTN_INTERACT; to search cabinet",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search cabinet",
         "string_id": "hud_int_search_cabinet"
     },
     "hud_int_search_capsule": {
         "base_text": "Hold $BTN_INTERACT; to search capsule",
-        "loc_text": "Hold $BTN_INTERACT; to search capsule",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search capsule",
         "string_id": "hud_int_search_capsule"
     },
     "hud_int_search_cart": {
         "base_text": "Hold $BTN_INTERACT; to search cart",
-        "loc_text": "Hold $BTN_INTERACT; to search cart",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search cart",
         "string_id": "hud_int_search_cart"
     },
     "hud_int_search_case": {
         "base_text": "Hold $BTN_INTERACT; to search case",
-        "loc_text": "Hold $BTN_INTERACT; to search case",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search case",
         "string_id": "hud_int_search_case"
     },
     "hud_int_search_cigar_boxes": {
         "base_text": "Hold $BTN_INTERACT; to search the cigar boxes",
-        "loc_text": "Hold $BTN_INTERACT; to search the cigar boxes",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search the cigar boxes",
         "string_id": "hud_int_search_cigar_boxes"
     },
     "hud_int_search_display_case": {
         "base_text": "Hold $BTN_INTERACT; to search display case",
-        "loc_text": "Hold $BTN_INTERACT; to search display case",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search display case",
         "string_id": "hud_int_search_display_case"
     },
     "hud_int_search_drawer": {
         "base_text": "Hold $BTN_INTERACT; to search drawer",
-        "loc_text": "Hold $BTN_INTERACT; to search drawer",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search drawer",
         "string_id": "hud_int_search_drawer"
     },
     "hud_int_search_drawers": {
         "base_text": "Hold $BTN_INTERACT; to search drawers",
-        "loc_text": "Hold $BTN_INTERACT; to search drawers",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search drawers",
         "string_id": "hud_int_search_drawers"
     },
     "hud_int_search_files": {
         "base_text": "Hold $BTN_INTERACT; to search for the files",
-        "loc_text": "Hold $BTN_INTERACT; to search for the files",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search for the files",
         "string_id": "hud_int_search_files"
     },
     "hud_int_search_fridge": {
         "base_text": "Hold $BTN_INTERACT; to search fridge",
-        "loc_text": "Hold $BTN_INTERACT; to search fridge",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search fridge",
         "string_id": "hud_int_search_fridge"
     },
     "hud_int_search_luggage": {
         "base_text": "Hold $BTN_INTERACT; to search luggage",
-        "loc_text": "Hold $BTN_INTERACT; to search luggage",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search luggage",
         "string_id": "hud_int_search_luggage"
     },
     "hud_int_search_shower": {
         "base_text": "Hold $BTN_INTERACT; to search shower",
-        "loc_text": "Hold $BTN_INTERACT; to search shower",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search shower",
         "string_id": "hud_int_search_shower"
     },
     "hud_int_search_steel_cabinet": {
         "base_text": "Hold $BTN_INTERACT; to search steel cabinet",
-        "loc_text": "Hold $BTN_INTERACT; to search steel cabinet",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search steel cabinet",
         "string_id": "hud_int_search_steel_cabinet"
     },
     "hud_int_search_washer": {
         "base_text": "Hold $BTN_INTERACT; to search washer",
-        "loc_text": "Hold $BTN_INTERACT; to search washer",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ search washer",
         "string_id": "hud_int_search_washer"
     },
     "hud_int_send_blueprints": {
         "base_text": "Press $BTN_INTERACT; to fax scanned documents to Bain",
-        "loc_text": "Press $BTN_INTERACT; to fax scanned documents to Bain",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ fax scanned documents to Bain",
         "string_id": "hud_int_send_blueprints"
     },
     "hud_int_set_off_alarm": {
         "base_text": "Hold $BTN_INTERACT; to set off the alarm",
-        "loc_text": "Hold $BTN_INTERACT; to set off the alarm",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ set off the alarm",
         "string_id": "hud_int_set_off_alarm"
     },
     "hud_int_set_up_sentry": {
         "base_text": "Hold $BTN_INTERACT; to set up the sentry gun",
-        "loc_text": "Hold $BTN_INTERACT; to set up the sentry gun",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ set up the sentry gun",
         "string_id": "hud_int_set_up_sentry"
     },
     "hud_int_setup_zipline": {
         "base_text": "Hold $BTN_INTERACT; to set up the zip-line",
-        "loc_text": "Hold $BTN_INTERACT; to set up the zip-line",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ set up the zip-line",
         "string_id": "hud_int_setup_zipline"
     },
     "hud_int_shaped_sharge": {
         "base_text": "Hold $BTN_INTERACT; to place shaped charge",
-        "loc_text": "Hold $BTN_INTERACT; to place shaped charge",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ place shaped charge",
         "string_id": "hud_int_shaped_sharge"
     },
     "hud_int_signal_driver": {
         "base_text": "Hold $BTN_INTERACT; to signal the driver",
-        "loc_text": "Hold $BTN_INTERACT; to signal the driver",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ signal the driver",
         "string_id": "hud_int_signal_driver"
     },
     "hud_int_spin_wheel": {
         "base_text": "Press $BTN_INTERACT; to spin wheel",
-        "loc_text": "Press $BTN_INTERACT; to spin wheel",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ spin wheel",
         "string_id": "hud_int_spin_wheel"
     },
     "hud_int_take": {
@@ -18036,67 +18036,67 @@
     },
     "hud_int_take_acid": {
         "base_text": "Press $BTN_INTERACT; to take the muriatic acid",
-        "loc_text": "Press $BTN_INTERACT; to take the muriatic acid",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the muriatic acid",
         "string_id": "hud_int_take_acid"
     },
     "hud_int_take_artifact": {
         "base_text": "Press $BTN_INTERACT; to take the artifact",
-        "loc_text": "Press $BTN_INTERACT; to take the artifact",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the artifact",
         "string_id": "hud_int_take_artifact"
     },
     "hud_int_take_blood_sample": {
         "base_text": "Press $BTN_INTERACT; to take the blood sample",
-        "loc_text": "Press $BTN_INTERACT; to take the blood sample",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the blood sample",
         "string_id": "hud_int_take_blood_sample"
     },
     "hud_int_take_bottle": {
         "base_text": "Hold $BTN_INTERACT; to spike and pick up the bottle",
-        "loc_text": "Hold $BTN_INTERACT; to spike and pick up the bottle",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ spike and pick up the bottle",
         "string_id": "hud_int_take_bottle"
     },
     "hud_int_take_bridge": {
         "base_text": "Hold $BTN_INTERACT; to pick up the metal sheet",
-        "loc_text": "Hold $BTN_INTERACT; to pick up the metal sheet",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pick up the metal sheet",
         "string_id": "hud_int_take_bridge"
     },
     "hud_int_take_c4": {
         "base_text": "Press $BTN_INTERACT; to take the C4",
-        "loc_text": "Press $BTN_INTERACT; to take the C4",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the C4",
         "string_id": "hud_int_take_c4"
     },
     "hud_int_take_camera": {
         "base_text": "Press $BTN_INTERACT; to take the camera",
-        "loc_text": "Press $BTN_INTERACT; to take the camera",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the camera",
         "string_id": "hud_int_take_camera"
     },
     "hud_int_take_caustic_soda": {
         "base_text": "Press $BTN_INTERACT; to take the caustic soda",
-        "loc_text": "Press $BTN_INTERACT; to take the caustic soda",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the caustic soda",
         "string_id": "hud_int_take_caustic_soda"
     },
     "hud_int_take_chainsaw": {
         "base_text": "Press $BTN_INTERACT; to take the chainsaw",
-        "loc_text": "Press $BTN_INTERACT; to take the chainsaw",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the chainsaw",
         "string_id": "hud_int_take_chainsaw"
     },
     "hud_int_take_chavez_keys": {
         "base_text": "Press $BTN_INTERACT; to pick up Chavez' keys",
-        "loc_text": "Press $BTN_INTERACT; to pick up Chavez' keys",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบ Chavez' keys",
         "string_id": "hud_int_take_chavez_keys"
     },
     "hud_int_take_confidential_folder": {
         "base_text": "Press $BTN_INTERACT; to take the intel",
-        "loc_text": "Press $BTN_INTERACT; to take the intel",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the intel",
         "string_id": "hud_int_take_confidential_folder"
     },
     "hud_int_take_confidential_folder_event": {
         "base_text": "Hold $BTN_INTERACT; to take the address",
-        "loc_text": "Hold $BTN_INTERACT; to take the address",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the address",
         "string_id": "hud_int_take_confidential_folder_event"
     },
     "hud_int_take_confidential_folder_icc": {
         "base_text": "Hold $BTN_INTERACT; to take the folder",
-        "loc_text": "Hold $BTN_INTERACT; to take the folder",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the folder",
         "string_id": "hud_int_take_confidential_folder_icc"
     },
     "hud_int_take_crowbar": {
@@ -18106,37 +18106,37 @@
     },
     "hud_int_take_diamonds_dah": {
         "base_text": "Hold $BTN_INTERACT; to take diamonds",
-        "loc_text": "Hold $BTN_INTERACT; to take diamonds",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take diamonds",
         "string_id": "hud_int_take_diamonds_dah"
     },
     "hud_int_take_envelope": {
         "base_text": "Press $BTN_INTERACT; to take the Envelope",
-        "loc_text": "Press $BTN_INTERACT; to take the Envelope",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the Envelope",
         "string_id": "hud_int_take_envelope"
     },
     "hud_int_take_fex_harddrive": {
         "base_text": "Hold $BTN_INTERACT; to take contact list",
-        "loc_text": "Hold $BTN_INTERACT; to take contact list",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take contact list",
         "string_id": "hud_int_take_fex_harddrive"
     },
     "hud_int_take_fingerprint": {
         "base_text": "Hold $BTN_INTERACT; to take fingerprint",
-        "loc_text": "Hold $BTN_INTERACT; to take fingerprint",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take fingerprint",
         "string_id": "hud_int_take_fingerprint"
     },
     "hud_int_take_harddrive": {
         "base_text": "Hold $BTN_INTERACT; to take the hard drive",
-        "loc_text": "Hold $BTN_INTERACT; to take the hard drive",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the hard drive",
         "string_id": "hud_int_take_harddrive"
     },
     "hud_int_take_hotel_keycard": {
         "base_text": "Press $BTN_INTERACT; to take the hotel room keycard",
-        "loc_text": "Press $BTN_INTERACT; to take the hotel room keycard",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the hotel room keycard",
         "string_id": "hud_int_take_hotel_keycard"
     },
     "hud_int_take_hydrogen_chloride": {
         "base_text": "Press $BTN_INTERACT; to take the hydrogen chloride",
-        "loc_text": "Press $BTN_INTERACT; to take the hydrogen chloride",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the hydrogen chloride",
         "string_id": "hud_int_take_hydrogen_chloride"
     },
     "hud_int_take_jewelry": {
@@ -18146,67 +18146,67 @@
     },
     "hud_int_take_keys": {
         "base_text": "Press $BTN_INTERACT; to take keys",
-        "loc_text": "Press $BTN_INTERACT; to take keys",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take keys",
         "string_id": "hud_int_take_keys"
     },
     "hud_int_take_lance_part": {
         "base_text": "Press $BTN_INTERACT; to take Beast spare parts",
-        "loc_text": "Press $BTN_INTERACT; to take Beast spare parts",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take Beast spare parts",
         "string_id": "hud_int_take_lance_part"
     },
     "hud_int_take_liquid_nitrogen": {
         "base_text": "Press $BTN_INTERACT; to take liquid nitrogen",
-        "loc_text": "Press $BTN_INTERACT; to take liquid nitrogen",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take liquid nitrogen",
         "string_id": "hud_int_take_liquid_nitrogen"
     },
     "hud_int_take_mask": {
         "base_text": "Press $BTN_INTERACT; to take the mask",
-        "loc_text": "Press $BTN_INTERACT; to take the mask",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the mask",
         "string_id": "hud_int_take_mask"
     },
     "hud_int_take_missing_animal_poster": {
         "base_text": "Hold $BTN_INTERACT; to take missing animal poster",
-        "loc_text": "Hold $BTN_INTERACT; to take missing animal poster",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take missing animal poster",
         "string_id": "hud_int_take_missing_animal_poster"
     },
     "hud_int_take_paper_roll": {
         "base_text": "Press $BTN_INTERACT; to pickup paper roll",
-        "loc_text": "Press $BTN_INTERACT; to pickup paper roll",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ pickup paper roll",
         "string_id": "hud_int_take_paper_roll"
     },
     "hud_int_take_plates": {
         "base_text": "Hold $BTN_INTERACT; to pickup printing plates",
-        "loc_text": "Hold $BTN_INTERACT; to pickup printing plates",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pickup printing plates",
         "string_id": "hud_int_take_plates"
     },
     "hud_int_take_printer_ink": {
         "base_text": "Press $BTN_INTERACT; to take the printer ink",
-        "loc_text": "Press $BTN_INTERACT; to take the printer ink",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the printer ink",
         "string_id": "hud_int_take_printer_ink"
     },
     "hud_int_take_record_tape": {
         "base_text": "Hold $BTN_INTERACT; to take the cassette tape",
-        "loc_text": "Hold $BTN_INTERACT; to take the cassette tape",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the cassette tape",
         "string_id": "hud_int_take_record_tape"
     },
     "hud_int_take_red_diamond": {
         "base_text": "Hold $BTN_INTERACT; to take red diamond",
-        "loc_text": "Hold $BTN_INTERACT; to take red diamond",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take red diamond",
         "string_id": "hud_int_take_red_diamond"
     },
     "hud_int_take_supplies": {
         "base_text": "Press $BTN_INTERACT; to take medical supplies",
-        "loc_text": "Press $BTN_INTERACT; to take medical supplies",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take medical supplies",
         "string_id": "hud_int_take_supplies"
     },
     "hud_int_take_tape": {
         "base_text": "Hold $BTN_INTERACT; to take tape",
-        "loc_text": "Hold $BTN_INTERACT; to take tape",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take tape",
         "string_id": "hud_int_take_tape"
     },
     "hud_int_take_thermite": {
         "base_text": "Hold $BTN_INTERACT; to take the thermite",
-        "loc_text": "Hold $BTN_INTERACT; to take the thermite",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the thermite",
         "string_id": "hud_int_take_thermite"
     },
     "hud_int_take_thermite_paste": {
@@ -18216,17 +18216,17 @@
     },
     "hud_int_take_ticket": {
         "base_text": "Hold $BTN_INTERACT; to take ticket",
-        "loc_text": "Hold $BTN_INTERACT; to take ticket",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take ticket",
         "string_id": "hud_int_take_ticket"
     },
     "hud_int_take_weapons": {
         "base_text": "Hold $BTN_INTERACT; to take the weapons",
-        "loc_text": "Hold $BTN_INTERACT; to take the weapons",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the weapons",
         "string_id": "hud_int_take_weapons"
     },
     "hud_int_take_win_slip": {
         "base_text": "Press $BTN_INTERACT; to take the winning slip",
-        "loc_text": "Press $BTN_INTERACT; to take the winning slip",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ take the winning slip",
         "string_id": "hud_int_take_win_slip"
     },
     "hud_int_taking_supplies": {
@@ -18236,137 +18236,137 @@
     },
     "hud_int_talk_bodhi": {
         "base_text": "Press $BTN_INTERACT; to talk to Bodhi",
-        "loc_text": "Press $BTN_INTERACT; to talk to Bodhi",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Bodhi",
         "string_id": "hud_int_talk_bodhi"
     },
     "hud_int_talk_bonnie": {
         "base_text": "Press $BTN_INTERACT; to talk to Bonnie",
-        "loc_text": "Press $BTN_INTERACT; to talk to Bonnie",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Bonnie",
         "string_id": "hud_int_talk_bonnie"
     },
     "hud_int_talk_butler": {
         "base_text": "Press $BTN_INTERACT; to talk to the Butler",
-        "loc_text": "Press $BTN_INTERACT; to talk to the Butler",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to the Butler",
         "string_id": "hud_int_talk_butler"
     },
     "hud_int_talk_chains": {
         "base_text": "Press $BTN_INTERACT; to talk to Chains",
-        "loc_text": "Press $BTN_INTERACT; to talk to Chains",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Chains",
         "string_id": "hud_int_talk_chains"
     },
     "hud_int_talk_clover": {
         "base_text": "Press $BTN_INTERACT; to talk to Clover",
-        "loc_text": "Press $BTN_INTERACT; to talk to Clover",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Clover",
         "string_id": "hud_int_talk_clover"
     },
     "hud_int_talk_dallas": {
         "base_text": "Press $BTN_INTERACT; to talk to Dallas",
-        "loc_text": "Press $BTN_INTERACT; to talk to Dallas",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Dallas",
         "string_id": "hud_int_talk_dallas"
     },
     "hud_int_talk_dragan": {
         "base_text": "Press $BTN_INTERACT; to talk to Dragan",
-        "loc_text": "Press $BTN_INTERACT; to talk to Dragan",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Dragan",
         "string_id": "hud_int_talk_dragan"
     },
     "hud_int_talk_dragon": {
         "base_text": "Press $BTN_INTERACT; to talk to Jiro",
-        "loc_text": "Press $BTN_INTERACT; to talk to Jiro",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Jiro",
         "string_id": "hud_int_talk_dragon"
     },
     "hud_int_talk_ecp_female": {
         "base_text": "Press $BTN_INTERACT; to talk to Hila",
-        "loc_text": "Press $BTN_INTERACT; to talk to Hila",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Hila",
         "string_id": "hud_int_talk_ecp_female"
     },
     "hud_int_talk_ecp_male": {
         "base_text": "Press $BTN_INTERACT; to talk to Ethan",
-        "loc_text": "Press $BTN_INTERACT; to talk to Ethan",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Ethan",
         "string_id": "hud_int_talk_ecp_male"
     },
     "hud_int_talk_hoxton": {
         "base_text": "Press $BTN_INTERACT; to talk to Houston",
-        "loc_text": "Press $BTN_INTERACT; to talk to Houston",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Houston",
         "string_id": "hud_int_talk_hoxton"
     },
     "hud_int_talk_jacket": {
         "base_text": "Press $BTN_INTERACT; to talk to Jacket",
-        "loc_text": "Press $BTN_INTERACT; to talk to Jacket",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Jacket",
         "string_id": "hud_int_talk_jacket"
     },
     "hud_int_talk_jimmy": {
         "base_text": "Press $BTN_INTERACT; to talk to Jimmy",
-        "loc_text": "Press $BTN_INTERACT; to talk to Jimmy",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Jimmy",
         "string_id": "hud_int_talk_jimmy"
     },
     "hud_int_talk_jowi": {
         "base_text": "Press $BTN_INTERACT; to talk to John Wick",
-        "loc_text": "Press $BTN_INTERACT; to talk to John Wick",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to John Wick",
         "string_id": "hud_int_talk_jowi"
     },
     "hud_int_talk_joy": {
         "base_text": "Press $BTN_INTERACT; to talk to Joy",
-        "loc_text": "Press $BTN_INTERACT; to talk to Joy",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Joy",
         "string_id": "hud_int_talk_joy"
     },
     "hud_int_talk_max": {
         "base_text": "Press $BTN_INTERACT; to talk to Sangres",
-        "loc_text": "Press $BTN_INTERACT; to talk to Sangres",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Sangres",
         "string_id": "hud_int_talk_max"
     },
     "hud_int_talk_myh": {
         "base_text": "Press $BTN_INTERACT; to talk to Duke",
-        "loc_text": "Press $BTN_INTERACT; to talk to Duke",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Duke",
         "string_id": "hud_int_talk_myh"
     },
     "hud_int_talk_old_hoxton": {
         "base_text": "Press $BTN_INTERACT; to talk to Hoxton",
-        "loc_text": "Press $BTN_INTERACT; to talk to Hoxton",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Hoxton",
         "string_id": "hud_int_talk_old_hoxton"
     },
     "hud_int_talk_sokol": {
         "base_text": "Press $BTN_INTERACT; to talk to Sokol",
-        "loc_text": "Press $BTN_INTERACT; to talk to Sokol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Sokol",
         "string_id": "hud_int_talk_sokol"
     },
     "hud_int_talk_sydney": {
         "base_text": "Press $BTN_INTERACT; to talk to Sydney",
-        "loc_text": "Press $BTN_INTERACT; to talk to Sydney",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Sydney",
         "string_id": "hud_int_talk_sydney"
     },
     "hud_int_talk_terry": {
         "base_text": "Press $BTN_INTERACT; to talk to Scarface",
-        "loc_text": "Press $BTN_INTERACT; to talk to Scarface",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Scarface",
         "string_id": "hud_int_talk_terry"
     },
     "hud_int_talk_vlad": {
         "base_text": "Press $BTN_INTERACT; to talk to Vlad",
-        "loc_text": "Press $BTN_INTERACT; to talk to Vlad",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Vlad",
         "string_id": "hud_int_talk_vlad"
     },
     "hud_int_talk_wild": {
         "base_text": "Press $BTN_INTERACT; to talk to Rust",
-        "loc_text": "Press $BTN_INTERACT; to talk to Rust",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Rust",
         "string_id": "hud_int_talk_wild"
     },
     "hud_int_talk_wolf": {
         "base_text": "Press $BTN_INTERACT; to talk to Wolf",
-        "loc_text": "Press $BTN_INTERACT; to talk to Wolf",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ talk to Wolf",
         "string_id": "hud_int_talk_wolf"
     },
     "hud_int_tape_loop": {
         "base_text": "Hold $BTN_INTERACT; to apply camera loop",
-        "loc_text": "Hold $BTN_INTERACT; to apply camera loop",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ apply camera loop",
         "string_id": "hud_int_tape_loop"
     },
     "hud_int_timelock_numpad": {
         "base_text": "Press $BTN_INTERACT; to start timelock",
-        "loc_text": "Press $BTN_INTERACT; to start timelock",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ start timelock",
         "string_id": "hud_int_timelock_numpad"
     },
     "hud_int_timelock_panel": {
         "base_text": "Press $BTN_INTERACT; to use keycard",
-        "loc_text": "Press $BTN_INTERACT; to use keycard",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ use keycard",
         "string_id": "hud_int_timelock_panel"
     },
     "hud_int_timelock_panel_no_keycard": {
@@ -18376,7 +18376,7 @@
     },
     "hud_int_touch_book": {
         "base_text": "Press $BTN_INTERACT; to touch book",
-        "loc_text": "Press $BTN_INTERACT; to touch book",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ touch book",
         "string_id": "hud_int_touch_book"
     },
     "hud_int_trick_treat": {
@@ -18386,117 +18386,117 @@
     },
     "hud_int_try_keys": {
         "base_text": "Hold $BTN_INTERACT; to try a key",
-        "loc_text": "Hold $BTN_INTERACT; to try a key",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ try a key",
         "string_id": "hud_int_try_keys"
     },
     "hud_int_turn_off": {
         "base_text": "Hold $BTN_INTERACT; to turn off",
-        "loc_text": "Hold $BTN_INTERACT; to turn off",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ turn off",
         "string_id": "hud_int_turn_off"
     },
     "hud_int_type_in_password": {
         "base_text": "Hold $BTN_INTERACT; to type in password",
-        "loc_text": "Hold $BTN_INTERACT; to type in password",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ type in password",
         "string_id": "hud_int_type_in_password"
     },
     "hud_int_unlock_gate": {
         "base_text": "Hold $BTN_INTERACT; to unlock the gate",
-        "loc_text": "Hold $BTN_INTERACT; to unlock the gate",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ unlock the gate",
         "string_id": "hud_int_unlock_gate"
     },
     "hud_int_use_bridge": {
         "base_text": "Hold $BTN_INTERACT; to bridge the gap",
-        "loc_text": "Hold $BTN_INTERACT; to bridge the gap",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ bridge the gap",
         "string_id": "hud_int_use_bridge"
     },
     "hud_int_use_chute": {
         "base_text": "Press $BTN_INTERACT; to Use Chute",
-        "loc_text": "Press $BTN_INTERACT; to Use Chute",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ Use Chute",
         "string_id": "hud_int_use_chute"
     },
     "hud_int_use_computer": {
         "base_text": "Hold $BTN_INTERACT; to take the computer",
-        "loc_text": "Hold $BTN_INTERACT; to take the computer",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the computer",
         "string_id": "hud_int_use_computer"
     },
     "hud_int_use_device": {
         "base_text": "Press $BTN_INTERACT; to use device",
-        "loc_text": "Press $BTN_INTERACT; to use device",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ use device",
         "string_id": "hud_int_use_device"
     },
     "hud_int_use_ecm_jammer": {
         "base_text": "Hold $BTN_INTERACT; to use the ECM jammer",
-        "loc_text": "Hold $BTN_INTERACT; to use the ECM jammer",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ use the ECM jammer",
         "string_id": "hud_int_use_ecm_jammer"
     },
     "hud_int_use_files": {
         "base_text": "Hold $BTN_INTERACT; to pass the files under the door",
-        "loc_text": "Hold $BTN_INTERACT; to pass the files under the door",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pass the files under the door",
         "string_id": "hud_int_use_files"
     },
     "hud_int_use_flare": {
         "base_text": "Press $BTN_INTERACT; to use the flare",
-        "loc_text": "Press $BTN_INTERACT; to use the flare",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ use the flare",
         "string_id": "hud_int_use_flare"
     },
     "hud_int_use_phone_signal_bus": {
         "base_text": "Press $BTN_INTERACT; to use the phone and signal the bus",
-        "loc_text": "Press $BTN_INTERACT; to use the phone and signal the bus",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ use the phone and signal the bus",
         "string_id": "hud_int_use_phone_signal_bus"
     },
     "hud_int_use_scanner": {
         "base_text": "Press $BTN_INTERACT; to use scanner",
-        "loc_text": "Press $BTN_INTERACT; to use scanner",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ use scanner",
         "string_id": "hud_int_use_scanner"
     },
     "hud_int_use_ticket": {
         "base_text": "Hold $BTN_INTERACT; to use ticket",
-        "loc_text": "Hold $BTN_INTERACT; to use ticket",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ use ticket",
         "string_id": "hud_int_use_ticket"
     },
     "hud_int_use_zipline": {
         "base_text": "Press $BTN_INTERACT; to use the zipline",
-        "loc_text": "Press $BTN_INTERACT; to use the zipline",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ use the zipline",
         "string_id": "hud_int_use_zipline"
     },
     "hud_int_vehicle_close_trunk": {
         "base_text": "Hold $BTN_INTERACT; to close the trunk",
-        "loc_text": "Hold $BTN_INTERACT; to close the trunk",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ close the trunk",
         "string_id": "hud_int_vehicle_close_trunk"
     },
     "hud_int_vehicle_drive": {
         "base_text": "Hold $BTN_INTERACT; to drive the vehicle",
-        "loc_text": "Hold $BTN_INTERACT; to drive the vehicle",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ drive the vehicle",
         "string_id": "hud_int_vehicle_drive"
     },
     "hud_int_vehicle_enter": {
         "base_text": "Hold $BTN_INTERACT; to enter the vehicle",
-        "loc_text": "Hold $BTN_INTERACT; to enter the vehicle",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ enter the vehicle",
         "string_id": "hud_int_vehicle_enter"
     },
     "hud_int_vehicle_loot": {
         "base_text": "Hold $BTN_INTERACT; to take loot from the vehicle",
-        "loc_text": "Hold $BTN_INTERACT; to take loot from the vehicle",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take loot from the vehicle",
         "string_id": "hud_int_vehicle_loot"
     },
     "hud_int_vehicle_open_trunk": {
         "base_text": "Hold $BTN_INTERACT; to open the trunk",
-        "loc_text": "Hold $BTN_INTERACT; to open the trunk",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open the trunk",
         "string_id": "hud_int_vehicle_open_trunk"
     },
     "hud_int_vehicle_repair": {
         "base_text": "Hold $BTN_INTERACT; to repair the vehicle",
-        "loc_text": "Hold $BTN_INTERACT; to repair the vehicle",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ repair the vehicle",
         "string_id": "hud_int_vehicle_repair"
     },
     "hud_interact_pickup_sentry_gun": {
         "base_text": "Hold $BTN_INTERACT; to pick up.$NL; $AMMO_LEFT;% ammo left.",
-        "loc_text": "Hold $BTN_INTERACT; to pick up.$NL; $AMMO_LEFT;% ammo left.",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pick up.$NL; $AMMO_LEFT;% ammo left.",
         "string_id": "hud_interact_pickup_sentry_gun"
     },
     "hud_interact_sentry_gun_switch_fire_mode": {
         "base_text": "Press $BTN_INTERACT; to switch fire mode.$NL; $AMMO_LEFT;% ammo left.",
-        "loc_text": "Press $BTN_INTERACT; to switch fire mode.$NL; $AMMO_LEFT;% ammo left.",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ switch fire mode.$NL; $AMMO_LEFT;% ammo left.",
         "string_id": "hud_interact_sentry_gun_switch_fire_mode"
     },
     "hud_interact_take_fingerprint": {
@@ -18516,12 +18516,12 @@
     },
     "hud_man_apply_tape": {
         "base_text": "Hold $BTN_INTERACT; to apply tape",
-        "loc_text": "Hold $BTN_INTERACT; to apply tape",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ apply tape",
         "string_id": "hud_man_apply_tape"
     },
     "hud_mil_hold_remove_bug": {
         "base_text": "Hold $BTN_INTERACT; to pick up recording device",
-        "loc_text": "Hold $BTN_INTERACT; to pick up recording device",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pick up recording device",
         "string_id": "hud_mil_hold_remove_bug"
     },
     "hud_next_camera": {
@@ -18541,17 +18541,17 @@
     },
     "hud_open_cas_briefcase": {
         "base_text": "Hold $BTN_INTERACT; to open the briefcase",
-        "loc_text": "Hold $BTN_INTERACT; to open the briefcase",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open the briefcase",
         "string_id": "hud_open_cas_briefcase"
     },
     "hud_open_cas_elevator": {
         "base_text": "Press $BTN_INTERACT; to open the elevator door",
-        "loc_text": "Press $BTN_INTERACT; to open the elevator door",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ open the elevator door",
         "string_id": "hud_open_cas_elevator"
     },
     "hud_open_cas_securityroom_door": {
         "base_text": "Hold $BTN_INTERACT; to open the Security Center door",
-        "loc_text": "Hold $BTN_INTERACT; to open the Security Center door",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open the Security Center door",
         "string_id": "hud_open_cas_securityroom_door"
     },
     "hud_opening_cas_briefcase": {
@@ -18611,7 +18611,7 @@
     },
     "hud_place_sleeping_gass": {
         "base_text": "Hold $BTN_INTERACT; to pump gas into the vent",
-        "loc_text": "Hold $BTN_INTERACT; to pump gas into the vent",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ pump gas into the vent",
         "string_id": "hud_place_sleeping_gass"
     },
     "hud_police_uniform": {
@@ -18621,152 +18621,152 @@
     },
     "hud_press_answering_play": {
         "base_text": "Press $BTN_INTERACT; to listen to messages",
-        "loc_text": "Press $BTN_INTERACT; to listen to messages",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ listen to messages",
         "string_id": "hud_press_answering_play"
     },
     "hud_press_ant_button": {
         "base_text": "Press $BTN_INTERACT; to push in the ant symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the ant symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the ant symbol",
         "string_id": "hud_press_ant_button"
     },
     "hud_press_bat_button": {
         "base_text": "Press $BTN_INTERACT; to push in the bat symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the bat symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the bat symbol",
         "string_id": "hud_press_bat_button"
     },
     "hud_press_bet_black": {
         "base_text": "Press $BTN_INTERACT; to bet $10,000 on Black",
-        "loc_text": "Press $BTN_INTERACT; to bet $10,000 on Black",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ bet $10,000 on Black",
         "string_id": "hud_press_bet_black"
     },
     "hud_press_bet_red": {
         "base_text": "Press $BTN_INTERACT; to bet $10,000 on Red",
-        "loc_text": "Press $BTN_INTERACT; to bet $10,000 on Red",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ bet $10,000 on Red",
         "string_id": "hud_press_bet_red"
     },
     "hud_press_boar_button": {
         "base_text": "Press $BTN_INTERACT; to push in the boar symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the boar symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the boar symbol",
         "string_id": "hud_press_boar_button"
     },
     "hud_press_bunny_button": {
         "base_text": "Press $BTN_INTERACT; to push in the rabbit symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the rabbit symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the rabbit symbol",
         "string_id": "hud_press_bunny_button"
     },
     "hud_press_butterfly_button": {
         "base_text": "Press $BTN_INTERACT; to push in the butterfly symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the butterfly symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the butterfly symbol",
         "string_id": "hud_press_butterfly_button"
     },
     "hud_press_crab_button": {
         "base_text": "Press $BTN_INTERACT; to push in the crab symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the crab symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the crab symbol",
         "string_id": "hud_press_crab_button"
     },
     "hud_press_crocodile_button": {
         "base_text": "Press $BTN_INTERACT; to push in the crocodile symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the crocodile symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the crocodile symbol",
         "string_id": "hud_press_crocodile_button"
     },
     "hud_press_dog_button": {
         "base_text": "Press $BTN_INTERACT; to push in the dog symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the dog symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the dog symbol",
         "string_id": "hud_press_dog_button"
     },
     "hud_press_fish_button": {
         "base_text": "Press $BTN_INTERACT; to push in the fish symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the fish symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the fish symbol",
         "string_id": "hud_press_fish_button"
     },
     "hud_press_frog_button": {
         "base_text": "Press $BTN_INTERACT; to push in the frog symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the frog symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the frog symbol",
         "string_id": "hud_press_frog_button"
     },
     "hud_press_jaguar_button": {
         "base_text": "Press $BTN_INTERACT; to push in the jaguar symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the jaguar symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the jaguar symbol",
         "string_id": "hud_press_jaguar_button"
     },
     "hud_press_lizard_button": {
         "base_text": "Press $BTN_INTERACT; to push in the lizard symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the lizard symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the lizard symbol",
         "string_id": "hud_press_lizard_button"
     },
     "hud_press_millipede_button": {
         "base_text": "Press $BTN_INTERACT; to push in the millipede symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the millipede symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the millipede symbol",
         "string_id": "hud_press_millipede_button"
     },
     "hud_press_monkey_button": {
         "base_text": "Press $BTN_INTERACT; to push in the monkey symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the monkey symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the monkey symbol",
         "string_id": "hud_press_monkey_button"
     },
     "hud_press_new_paintjob": {
         "base_text": "Press $BTN_INTERACT; to change paint job",
-        "loc_text": "Press $BTN_INTERACT; to change paint job",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ change paint job",
         "string_id": "hud_press_new_paintjob"
     },
     "hud_press_owl_button": {
         "base_text": "Press $BTN_INTERACT; to push in the owl symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the owl symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the owl symbol",
         "string_id": "hud_press_owl_button"
     },
     "hud_press_pex_give_keys": {
         "base_text": "Press $BTN_INTERACT; to Give Car Keys",
-        "loc_text": "Press $BTN_INTERACT; to Give Car Keys",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ Give Car Keys",
         "string_id": "hud_press_pex_give_keys"
     },
     "hud_press_play_jacket_sound": {
         "base_text": "Press $BTN_INTERACT; to play a tape",
-        "loc_text": "Press $BTN_INTERACT; to play a tape",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ play a tape",
         "string_id": "hud_press_play_jacket_sound"
     },
     "hud_press_play_music": {
         "base_text": "Press $BTN_INTERACT; to play music",
-        "loc_text": "Press $BTN_INTERACT; to play music",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ play music",
         "string_id": "hud_press_play_music"
     },
     "hud_press_reset_damage_counter": {
         "base_text": "Press $BTN_INTERACT; to reset damage counter",
-        "loc_text": "Press $BTN_INTERACT; to reset damage counter",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ reset damage counter",
         "string_id": "hud_press_reset_damage_counter"
     },
     "hud_press_snail_button": {
         "base_text": "Press $BTN_INTERACT; to push in the snail symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the snail symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the snail symbol",
         "string_id": "hud_press_snail_button"
     },
     "hud_press_snake_button": {
         "base_text": "Press $BTN_INTERACT; to push in the snake symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the snake symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the snake symbol",
         "string_id": "hud_press_snake_button"
     },
     "hud_press_spider_button": {
         "base_text": "Press $BTN_INTERACT; to push in the spider symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the spider symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the spider symbol",
         "string_id": "hud_press_spider_button"
     },
     "hud_press_squirrel_button": {
         "base_text": "Press $BTN_INTERACT; to push in the squirrel symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the squirrel symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the squirrel symbol",
         "string_id": "hud_press_squirrel_button"
     },
     "hud_press_start_weapon_course": {
         "base_text": "Press $BTN_INTERACT; to start the time trial",
-        "loc_text": "Press $BTN_INTERACT; to start the time trial",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ start the time trial",
         "string_id": "hud_press_start_weapon_course"
     },
     "hud_press_to_interact": {
         "base_text": "Press $BTN_INTERACT; to interact",
-        "loc_text": "Press $BTN_INTERACT; to interact",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ interact",
         "string_id": "hud_press_to_interact"
     },
     "hud_press_turtle_button": {
         "base_text": "Press $BTN_INTERACT; to push in the turtle symbol",
-        "loc_text": "Press $BTN_INTERACT; to push in the turtle symbol",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ push in the turtle symbol",
         "string_id": "hud_press_turtle_button"
     },
     "hud_prev_camera": {
@@ -19031,7 +19031,7 @@
     },
     "hud_screw_down": {
         "base_text": "Hold $BTN_INTERACT; to screw the winch down",
-        "loc_text": "Hold $BTN_INTERACT; to screw the winch down",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ screw the winch down",
         "string_id": "hud_screw_down"
     },
     "hud_skip_blackscreen": {
@@ -21306,7 +21306,7 @@
     },
     "press_insert_keycard": {
         "base_text": "Press $BTN_INTERACT; to insert keycard",
-        "loc_text": "Press $BTN_INTERACT; to insert keycard",
+        "loc_text": "กด $BTN_INTERACT; เพื่อ insert keycard",
         "string_id": "press_insert_keycard"
     },
     "prop_computer_gui_analyzing": {

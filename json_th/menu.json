@@ -1946,22 +1946,22 @@
     },
     "menu_asset_jungle_2_ammo": {
         "base_text": "Alex Ammo Drop",
-        "loc_text": "Alex Ammo Drop",
+        "loc_text": "ดรอปกระสุนอเล็กซ์",
         "string_id": "menu_asset_jungle_2_ammo"
     },
     "menu_asset_jungle_2_gas": {
         "base_text": "Extra Helicopter Fuel",
-        "loc_text": "Extra Helicopter Fuel",
+        "loc_text": "เชื้อเพลิงเฮลิคอปเตอร์เพิ่มเติม",
         "string_id": "menu_asset_jungle_2_gas"
     },
     "menu_asset_kosugi_room": {
         "base_text": "Thermite Paste",
-        "loc_text": "Thermite Paste",
+        "loc_text": "กรดเทอร์ไมต์",
         "string_id": "menu_asset_kosugi_room"
     },
     "menu_asset_kosugi_thermite": {
         "base_text": "Thermite paste",
-        "loc_text": "Thermite paste",
+        "loc_text": "กรดเทอร์ไมต์",
         "string_id": "menu_asset_kosugi_thermite"
     },
     "menu_asset_lights": {
@@ -1971,52 +1971,52 @@
     },
     "menu_asset_lights_desc": {
         "base_text": "Mounted floodlights that help you spot law enforcers",
-        "loc_text": "Mounted floodlights that help you spot law enforcers",
+        "loc_text": "ติดตั้งไฟสปอร์ตไลท์เพื่อช่วยให้มองเห็นศัตรู",
         "string_id": "menu_asset_lights_desc"
     },
     "menu_asset_location": {
         "base_text": "Asset Location",
-        "loc_text": "Asset Location",
+        "loc_text": "ตำแหน่งอุปกรณ์",
         "string_id": "menu_asset_location"
     },
     "menu_asset_lock_additional_assets": {
         "base_text": "Requires the Sixth Sense Aced skill to unlock",
-        "loc_text": "ต้องการสกิล Sixth Sense เอซเพื่อปลดล็อค",
+        "loc_text": "ต้องการสกิล ซิกซ์เซ้นส์ เอซเพื่อปลดล็อค",
         "string_id": "menu_asset_lock_additional_assets"
     },
     "menu_asset_lock_buy_bodybags_asset": {
         "base_text": "Requires the Sixth Sense Aced skill to unlock",
-        "loc_text": "ต้องการสกิล Sixth Sense เอซเพื่อปลดล็อค",
+        "loc_text": "ต้องการสกิล ซิกซ์เซ้นส์ เอซเพื่อปลดล็อค",
         "string_id": "menu_asset_lock_buy_bodybags_asset"
     },
     "menu_asset_lock_buy_spotter_asset": {
         "base_text": "Requires the Sixth Sense Aced skill to unlock",
-        "loc_text": "ต้องการสกิล Sixth Sense เอซเพื่อปลดล็อค",
+        "loc_text": "ต้องการสกิล ซิกซ์เซ้นส์ เอซเพื่อปลดล็อค",
         "string_id": "menu_asset_lock_buy_spotter_asset"
     },
     "menu_asset_lock_game_started": {
         "base_text": "The host has already started the game",
-        "loc_text": "The host has already started the game",
+        "loc_text": "เจ้าของห้องได้เริ่มเกมแล้ว",
         "string_id": "menu_asset_lock_game_started"
     },
     "menu_asset_mad_briefcase": {
         "base_text": "Briefcase",
-        "loc_text": "Briefcase",
+        "loc_text": "กระเป๋าเอกสาร",
         "string_id": "menu_asset_mad_briefcase"
     },
     "menu_asset_mad_russian_merc": {
         "base_text": "Russian Mercenaries",
-        "loc_text": "Russian Mercenaries",
+        "loc_text": "ทหารรับจ้างรัสเซีย",
         "string_id": "menu_asset_mad_russian_merc"
     },
     "menu_asset_mallcrasher_gascan_north": {
         "base_text": "Gas Can",
-        "loc_text": "Gas Can",
+        "loc_text": "ถังน้ำมัน",
         "string_id": "menu_asset_mallcrasher_gascan_north"
     },
     "menu_asset_mallcrasher_gascan_south": {
         "base_text": "Gas Can",
-        "loc_text": "Gas Can",
+        "loc_text": "ถังน้ำมัน",
         "string_id": "menu_asset_mallcrasher_gascan_south"
     },
     "menu_asset_moon_mall_pamflet": {
@@ -2106,27 +2106,27 @@
     },
     "menu_asset_risklevel_1": {
         "base_text": "Risk Level I",
-        "loc_text": "Risk Level I",
+        "loc_text": "ระดับความเสี่ยงที่ I",
         "string_id": "menu_asset_risklevel_1"
     },
     "menu_asset_risklevel_2": {
         "base_text": "Risk Level II",
-        "loc_text": "Risk Level II",
+        "loc_text": "ระดับความเสี่ยงที่ II",
         "string_id": "menu_asset_risklevel_2"
     },
     "menu_asset_risklevel_3": {
         "base_text": "Risk Level III",
-        "loc_text": "Risk Level III",
+        "loc_text": "ระดับความเสี่ยงที่ III",
         "string_id": "menu_asset_risklevel_3"
     },
     "menu_asset_risklevel_4": {
         "base_text": "Risk Level IV",
-        "loc_text": "Risk Level IV",
+        "loc_text": "ระดับความเสี่ยงที่ IV",
         "string_id": "menu_asset_risklevel_4"
     },
     "menu_asset_risklevel_5": {
         "base_text": "Risk Level V",
-        "loc_text": "Risk Level V",
+        "loc_text": "ระดับความเสี่ยงที่ 5",
         "string_id": "menu_asset_risklevel_5"
     },
     "menu_asset_risklevel_6": {
@@ -2141,17 +2141,17 @@
     },
     "menu_asset_roberts_plan_a": {
         "base_text": "Plan A",
-        "loc_text": "แผน A",
+        "loc_text": "แผนเอ",
         "string_id": "menu_asset_roberts_plan_a"
     },
     "menu_asset_roberts_plan_b": {
         "base_text": "Plan B",
-        "loc_text": "Plan B",
+        "loc_text": "แผนบี",
         "string_id": "menu_asset_roberts_plan_b"
     },
     "menu_asset_rope_ladder": {
         "base_text": "Rope Ladder",
-        "loc_text": "Rope Ladder",
+        "loc_text": "บันไดเชือก",
         "string_id": "menu_asset_rope_ladder"
     },
     "menu_asset_safe_escape": {
@@ -2166,7 +2166,7 @@
     },
     "menu_asset_sah_ladder": {
         "base_text": "Ladder",
-        "loc_text": "Ladder",
+        "loc_text": "บันได",
         "string_id": "menu_asset_sah_ladder"
     },
     "menu_asset_sniper": {
@@ -2176,7 +2176,7 @@
     },
     "menu_asset_sniper_desc": {
         "base_text": "Hire a sniper to provide cover fire",
-        "loc_text": "Hire a sniper to provide cover fire",
+        "loc_text": "จ้างสไนเปอร์เพื่อการยิงคุ้มกัน",
         "string_id": "menu_asset_sniper_desc"
     },
     "menu_asset_sniper_spot": {
@@ -2186,7 +2186,7 @@
     },
     "menu_asset_sniper_spot_born": {
         "base_text": "Vantage Point",
-        "loc_text": "Vantage Point",
+        "loc_text": "จุดสอดแนม",
         "string_id": "menu_asset_sniper_spot_born"
     },
     "menu_asset_sniper_spot_desc": {
@@ -2276,12 +2276,12 @@
     },
     "menu_awareness_beta": {
         "base_text": "Parkour",
-        "loc_text": "Parkour",
+        "loc_text": "ปาร์กัวร์",
         "string_id": "menu_awareness_beta"
     },
     "menu_awareness_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain ##$multibasic;## additional movement speed and ##$multibasic2;## increased speed while climbing ladders.$NL;$NL;ACE: ##$pro;##$NL;You gain the ability to sprint in any direction. $NL;$NL;Run and reload - you can reload your weapons while sprinting.",
-        "loc_text": "เบสิค: ##$basic;##$NL;You gain ##$multibasic;## additional movement speed and ##$multibasic2;## increased speed while climbing ladders.$NL;$NL;เอซ: ##$pro;##$NL;You gain the ability to sprint in any direction. $NL;$NL;Run and reload - you can reload your weapons while sprinting.",
+        "loc_text": "เบสิค: ##$basic;##$NL;คุณจะวิ่งเร็วขึ้น ##$multibasic;## และปีนบันไดไวขึ้นอีก ##$multibasic2;##$NL;$NL;เอซ: ##$pro;##$NL;คุณสามารถที่จะวิ่งไปทางก็ได้แล้ว $NL;$NL;วิ่งรีโหลด - คุณสามารถวิ่งไปรีโหลดไปได้แล้ว",
         "string_id": "menu_awareness_beta_desc"
     },
     "menu_back": {
@@ -2291,32 +2291,32 @@
     },
     "menu_backstab_beta": {
         "base_text": "Low Blow",
-        "loc_text": "Low Blow",
+        "loc_text": "โลว์โบลว์",
         "string_id": "menu_backstab_beta"
     },
     "menu_backstab_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You gain a ##$multibasic;## critical hit chance for every ##$multibasic2;## points of detection rate under ##$multibasic3;## up to ##$multibasic4;##.$NL;$NL;ACE: ##$pro;##$NL;You gain ##$multipro;## critical hit chance for every ##$multipro2;## point of detection rate under ##$multipro3;## up to ##$multipro4;##.$NL;$NL;Note: Does not apply to grenade launchers.",
-        "loc_text": "เบสิค: ##$basic;##$NL;You gain a ##$multibasic;## critical hit chance for every ##$multibasic2;## points of detection rate under ##$multibasic3;## up to ##$multibasic4;##.$NL;$NL;เอซ: ##$pro;##$NL;You gain ##$multipro;## critical hit chance for every ##$multipro2;## point of detection rate under ##$multipro3;## up to ##$multipro4;##.$NL;$NL;Note: Does not apply to grenade launchers.",
+        "loc_text": "เบสิค: ##$basic;##$NL;คุณจะได้รับโอกาสคริติคอล ##$multibasic;## จากค่าความเสี่ยงการมองเห็นทุกๆ ##$multibasic2;## ที่มีค่าต่ำกว่า ##$multibasic3;## จะได้รับโอกาสคริติคอลสูงสุดอยู่ที่ ##$multibasic4;##.$NL;$NL;เอซ: ##$pro;##$NL;คุณจะได้รับโอกาสคริติคอล ##$multipro;## จากค่าความเสี่ยงการมองเห็นทุกๆ ##$multipro2;## ที่มีค่าต่ำกว่า ##$multipro3;## จะได้รับโอกาสคริติคอลสูงสุดอยู่ที่ ##$multipro4;##$NL;$NL;โน็ต: ไม่มีผลกับปืนยิงระเบิด",
         "string_id": "menu_backstab_beta_desc"
     },
     "menu_ban_list": {
         "base_text": "Ban List",
-        "loc_text": "Ban List",
+        "loc_text": "รายชื่อที่โดนแบน",
         "string_id": "menu_ban_list"
     },
     "menu_ban_list_help": {
         "base_text": "Manage banned players",
-        "loc_text": "Manage banned players",
+        "loc_text": "จัดการผู้เล่นที่โดนแบน",
         "string_id": "menu_ban_list_help"
     },
     "menu_bandoliers_beta": {
         "base_text": "Fully Loaded",
-        "loc_text": "Fully Loaded",
+        "loc_text": "ฟูลลี่โหลด",
         "string_id": "menu_bandoliers_beta"
     },
     "menu_bandoliers_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your total ammo capacity is increased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Increases the amount of ammo you gain from ammo boxes by ##$multipro2;##. You also gain a ##$multipro3;## base chance to get a throwable from an ammo box. The base chance is increased by ##$multipro4;## for each ammo box you pick up that does not contain a throwable. When a throwable has been found, the chance is reset to its base value.$NL;$NL;Note: Does not stack with the perk deck skill \"Walk-in Closet\".",
-        "loc_text": "เบสิค: ##$basic;##$NL;Your total ammo capacity is increased by ##$multibasic;##.$NL;$NL;เอซ: ##$pro;##$NL;Increases the amount of ammo you gain from ammo boxes by ##$multipro2;##. You also gain a ##$multipro3;## base chance to get a throwable from an ammo box. The base chance is increased by ##$multipro4;## for each ammo box you pick up that does not contain a throwable. When a throwable has been found, the chance is reset to its base value.$NL;$NL;Note: Does not stack with the perk deck skill \"Walk-in Closet\".",
+        "loc_text": "เบสิค: ##$basic;##$NL;คุณสามารถพกกระสุนได้เพิ่มขึ้นอีก ##$multibasic;##$NL;$NL;เอซ: ##$pro;##$NL;เพิ่มจำนวนกระสุนที่คุณเก็บได้จากกล่องกระสุนอีก ##$multipro2;## และคุณจะได้รับโอกาส ##$multipro3;## ที่จะได้รับอาวุธขว้างจากกล่อง\nกระสุน โอกาสที่จะได้รับจะเพิ่มทุกๆ ##$multipro4;## สำหรับการที่เก็บ\nกระสุนแล้วไม่ได้รับอาวุธขว้าง\nเมื่อได้รับอาวุธขว้างจากกล่องกระสุนแล้วโอกาส\nจะถูกรีเซ็ตเป็น ##$multipro3;## อีกครั้ง$NL;$NL;โน็ต: ไม่ทำการซ้อนทับกันกับความสามารถเปิร์ค \"วอล์คอินโคลเซ็ท\".",
         "string_id": "menu_bandoliers_beta_desc"
     },
     "menu_banned": {
@@ -2736,7 +2736,7 @@
     },
     "menu_cash_balance": {
         "base_text": "Balance",
-        "loc_text": "Balance",
+        "loc_text": "จำนวนเงิน",
         "string_id": "menu_cash_balance"
     },
     "menu_cash_bonus_bags": {
@@ -5106,7 +5106,7 @@
     },
     "menu_chameleon_beta": {
         "base_text": "Sixth Sense",
-        "loc_text": "Sixth Sense",
+        "loc_text": "ซิกซ์เซ้นส์",
         "string_id": "menu_chameleon_beta"
     },
     "menu_chameleon_beta_desc": {
@@ -5436,7 +5436,7 @@
     },
     "menu_cn_legend_risk": {
         "base_text": "Risk level",
-        "loc_text": "Risk level",
+        "loc_text": "ระดับความเสี่ยงที่",
         "string_id": "menu_cn_legend_risk"
     },
     "menu_cn_legend_show": {
@@ -10446,12 +10446,12 @@
     },
     "menu_jukebox_playlist_all": {
         "base_text": "Random track",
-        "loc_text": "Random track",
+        "loc_text": "สุมซาวด์แทร็ก",
         "string_id": "menu_jukebox_playlist_all"
     },
     "menu_jukebox_playlist_heist": {
         "base_text": "Custom heist track",
-        "loc_text": "Custom heist track",
+        "loc_text": "ซาวด์แทร็กงานจ้างแบบกำหนดเอง",
         "string_id": "menu_jukebox_playlist_heist"
     },
     "menu_jukebox_random_heist_playlist": {
@@ -13576,7 +13576,7 @@
     },
     "menu_pp_asset_sniper_spot": {
         "base_text": "Vantage Point",
-        "loc_text": "Vantage Point",
+        "loc_text": "จุดสอดแนม",
         "string_id": "menu_pp_asset_sniper_spot"
     },
     "menu_pp_asset_sniper_spot_desc": {
@@ -13591,7 +13591,7 @@
     },
     "menu_pp_asset_thermal_paste": {
         "base_text": "Thermite paste",
-        "loc_text": "Thermite paste",
+        "loc_text": "กรดเทอร์ไมต์",
         "string_id": "menu_pp_asset_thermal_paste"
     },
     "menu_pp_asset_thermal_paste_desc": {
@@ -15181,7 +15181,7 @@
     },
     "menu_pp_info_crojob3_thermite": {
         "base_text": "Thermite paste",
-        "loc_text": "Thermite paste",
+        "loc_text": "กรดเทอร์ไมต์",
         "string_id": "menu_pp_info_crojob3_thermite"
     },
     "menu_pp_info_crojob3_vault": {
