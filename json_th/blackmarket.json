@@ -2131,7 +2131,7 @@
     },
     "bm_melee_weapon": {
         "base_text": "Weapon Butt",
-        "loc_text": "Weapon Butt",
+        "loc_text": "ท้ายอาวุธ",
         "string_id": "bm_melee_weapon"
     },
     "bm_melee_weapon_desc": {

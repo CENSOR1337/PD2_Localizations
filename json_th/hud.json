@@ -17521,7 +17521,7 @@
     },
     "hud_int_invisible_interaction_open": {
         "base_text": "Hold $BTN_INTERACT; to open",
-        "loc_text": "Hold $BTN_INTERACT; เพื่อเปิด",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเปิด",
         "string_id": "hud_int_invisible_interaction_open"
     },
     "hud_int_keyboard_hox_1": {
@@ -17626,7 +17626,7 @@
     },
     "hud_int_open_slash_close": {
         "base_text": "Hold $BTN_INTERACT; to open",
-        "loc_text": "Hold $BTN_INTERACT; เพื่อเปิด",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเปิด",
         "string_id": "hud_int_open_slash_close"
     },
     "hud_int_open_window": {

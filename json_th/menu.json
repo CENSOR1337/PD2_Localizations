@@ -926,12 +926,12 @@
     },
     "dialog_reset_filters": {
         "base_text": "Reset Filters",
-        "loc_text": "รีเซ็ตการกรอง",
+        "loc_text": "รีเซตการกรอง",
         "string_id": "dialog_reset_filters"
     },
     "dialog_respec_skilltree_all": {
         "base_text": "You are about to respec all skill trees.$NL;$NL;Doing a respec resets all skill points.",
-        "loc_text": "คุณกำลังจะรีเซ็ตสกิลทั้งหมด$NL;$NL;การรีเซ็ตจะทำการรีเซ็ตสกิลพอยท์ทั้งหมด",
+        "loc_text": "คุณกำลังจะรีเซตสกิลทั้งหมด$NL;$NL;การรีเซตจะทำการรีเซตสกิลพอยท์ทั้งหมด",
         "string_id": "dialog_respec_skilltree_all"
     },
     "dialog_sure_to_ban_body": {
@@ -2316,7 +2316,7 @@
     },
     "menu_bandoliers_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your total ammo capacity is increased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Increases the amount of ammo you gain from ammo boxes by ##$multipro2;##. You also gain a ##$multipro3;## base chance to get a throwable from an ammo box. The base chance is increased by ##$multipro4;## for each ammo box you pick up that does not contain a throwable. When a throwable has been found, the chance is reset to its base value.$NL;$NL;Note: Does not stack with the perk deck skill \"Walk-in Closet\".",
-        "loc_text": "เบสิค: ##$basic;##$NL;คุณสามารถพกกระสุนได้เพิ่มขึ้นอีก ##$multibasic;##$NL;$NL;เอซ: ##$pro;##$NL;เพิ่มจำนวนกระสุนที่คุณเก็บได้จากกล่องกระสุนอีก ##$multipro2;## และคุณจะได้รับโอกาส ##$multipro3;## ที่จะได้รับอาวุธขว้างจากกล่อง\nกระสุน โอกาสที่จะได้รับจะเพิ่มทุกๆ ##$multipro4;## สำหรับการที่เก็บ\nกระสุนแล้วไม่ได้รับอาวุธขว้าง\nเมื่อได้รับอาวุธขว้างจากกล่องกระสุนแล้วโอกาส\nจะถูกรีเซ็ตเป็น ##$multipro3;## อีกครั้ง$NL;$NL;โน็ต: ไม่ทำการซ้อนทับกันกับความสามารถเปิร์ค \"วอล์คอินโคลเซ็ท\".",
+        "loc_text": "เบสิค: ##$basic;##$NL;คุณสามารถพกกระสุนได้เพิ่มขึ้นอีก ##$multibasic;##$NL;$NL;เอซ: ##$pro;##$NL;เพิ่มจำนวนกระสุนที่คุณเก็บได้จากกล่องกระสุนอีก ##$multipro2;## และคุณจะได้รับโอกาส ##$multipro3;## ที่จะได้รับอาวุธขว้างจากกล่อง\nกระสุน โอกาสที่จะได้รับจะเพิ่มทุกๆ ##$multipro4;## สำหรับการที่เก็บ\nกระสุนแล้วไม่ได้รับอาวุธขว้าง\nเมื่อได้รับอาวุธขว้างจากกล่องกระสุนแล้วโอกาส\nจะถูกรีเซตเป็น ##$multipro3;## อีกครั้ง$NL;$NL;โน็ต: ไม่ทำการซ้อนทับกันกับความสามารถเปิร์ค \"วอล์คอินโคลเซ็ท\".",
         "string_id": "menu_bandoliers_beta_desc"
     },
     "menu_banned": {
@@ -8861,7 +8861,7 @@
     },
     "menu_es_alive_players_bonus": {
         "base_text": "Crew alive bonus",
-        "loc_text": "Crew alive bonus",
+        "loc_text": "โบนัสเพื่อนร่วมทีมที่อยู่รอด",
         "string_id": "menu_es_alive_players_bonus"
     },
     "menu_es_calculating_experience": {
@@ -9506,7 +9506,7 @@
     },
     "menu_ghostable_stage": {
         "base_text": "Stealth is an option.",
-        "loc_text": "การย่องเงียบเป็นทางเลือก",
+        "loc_text": "สามารถย่องเงียบได้",
         "string_id": "menu_ghostable_stage"
     },
     "menu_ghostable_stage_required": {
@@ -11311,102 +11311,102 @@
     },
     "menu_l_global_value_afp": {
         "base_text": "This is a Federales Weapon Pack Item!",
-        "loc_text": "This is a Federales Weapon Pack Item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Federales Weapon Pack!",
         "string_id": "menu_l_global_value_afp"
     },
     "menu_l_global_value_akm4_pack": {
         "base_text": "This is an AK/CAR Mod Pack item!",
-        "loc_text": "This is an AK/CAR Mod Pack item!",
+        "loc_text": "This is an AK/CAR Mod Pack!",
         "string_id": "menu_l_global_value_akm4_pack"
     },
     "menu_l_global_value_alienware_alpha": {
         "base_text": "This is an Alienware Alpha item!",
-        "loc_text": "This is an Alienware Alpha item!",
+        "loc_text": "This is an Alienware Alpha!",
         "string_id": "menu_l_global_value_alienware_alpha"
     },
     "menu_l_global_value_alienware_alpha_promo": {
         "base_text": "This is an Alienware Alpha item!",
-        "loc_text": "This is an Alienware Alpha item!",
+        "loc_text": "This is an Alienware Alpha!",
         "string_id": "menu_l_global_value_alienware_alpha_promo"
     },
     "menu_l_global_value_ant": {
         "base_text": "This is an Antisphere item!",
-        "loc_text": "This is an Antisphere item!",
+        "loc_text": "This is an Antisphere!",
         "string_id": "menu_l_global_value_ant"
     },
     "menu_l_global_value_anv": {
         "base_text": "This is an Anniversary 2020 item!",
-        "loc_text": "This is an Anniversary 2020 item!",
+        "loc_text": "This is an Anniversary 2020!",
         "string_id": "menu_l_global_value_anv"
     },
     "menu_l_global_value_arena": {
         "base_text": "This is a The Alesso Heist DLC item!",
-        "loc_text": "This is a The Alesso Heist DLC item!",
+        "loc_text": "เป็นส่วนหนึ่งของ The Alesso Heist DLC!",
         "string_id": "menu_l_global_value_arena"
     },
     "menu_l_global_value_armored_transport": {
         "base_text": "This is an Armored Transport item!",
-        "loc_text": "This is an Armored Transport item!",
+        "loc_text": "This is an Armored Transport!",
         "string_id": "menu_l_global_value_armored_transport"
     },
     "menu_l_global_value_atw": {
         "base_text": "This is a Fugitive Weapon Pack Item!",
-        "loc_text": "This is a Fugitive Weapon Pack Item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Fugitive Weapon Pack!",
         "string_id": "menu_l_global_value_atw"
     },
     "menu_l_global_value_bbq": {
         "base_text": "This is a BBQ Weapon Pack item!",
-        "loc_text": "This is a BBQ Weapon Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ BBQ Weapon Pack!",
         "string_id": "menu_l_global_value_bbq"
     },
     "menu_l_global_value_berry": {
         "base_text": "This is a Point Break item!",
-        "loc_text": "This is a Point Break item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Point Break!",
         "string_id": "menu_l_global_value_berry"
     },
     "menu_l_global_value_bex": {
         "base_text": "This is a San Martín Bank Heist Item!",
-        "loc_text": "This is a San Martín Bank Heist Item!",
+        "loc_text": "เป็นส่วนหนึ่งของ San Martín Bank Heist!",
         "string_id": "menu_l_global_value_bex"
     },
     "menu_l_global_value_big_bank_snp": {
         "base_text": "This is a Big Bank Heist item!",
-        "loc_text": "This is a Big Bank Heist item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Big Bank Heist!",
         "string_id": "menu_l_global_value_big_bank_snp"
     },
     "menu_l_global_value_bobblehead": {
         "base_text": "This is a Merchandise item!",
-        "loc_text": "This is a Merchandise item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Merchandise!",
         "string_id": "menu_l_global_value_bobblehead"
     },
     "menu_l_global_value_born": {
         "base_text": "This is a Biker Heist DLC item!",
-        "loc_text": "This is a Biker Heist DLC item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Biker Heist DLC!",
         "string_id": "menu_l_global_value_born"
     },
     "menu_l_global_value_butch_pack_free": {
         "base_text": "This is a Butcher Mod Pack item!",
-        "loc_text": "This is a Butcher Mod Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Butcher Mod Pack!",
         "string_id": "menu_l_global_value_butch_pack_free"
     },
     "menu_l_global_value_character_pack_clover": {
         "base_text": "This is a Clover Character Pack item!",
-        "loc_text": "This is a Clover Character Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Clover Character Pack!",
         "string_id": "menu_l_global_value_character_pack_clover"
     },
     "menu_l_global_value_character_pack_dragan": {
         "base_text": "This is a Dragan Character Pack item!",
-        "loc_text": "This is a Dragan Character Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Dragan Character Pack!",
         "string_id": "menu_l_global_value_character_pack_dragan"
     },
     "menu_l_global_value_character_pack_sokol": {
         "base_text": "This is a Sokol Character Pack item!",
-        "loc_text": "This is a Sokol Character Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Sokol Character Pack!",
         "string_id": "menu_l_global_value_character_pack_sokol"
     },
     "menu_l_global_value_chico": {
         "base_text": "This is a Scarface Character Pack item!",
-        "loc_text": "This is a Scarface Character Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Scarface Character Pack!",
         "string_id": "menu_l_global_value_chico"
     },
     "menu_l_global_value_cmt": {
@@ -11416,147 +11416,147 @@
     },
     "menu_l_global_value_coco": {
         "base_text": "This is a Jimmy Character Pack item!",
-        "loc_text": "This is a Jimmy Character Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Jimmy Character Pack!",
         "string_id": "menu_l_global_value_coco"
     },
     "menu_l_global_value_complete_overkill_pack": {
         "base_text": "This is a Completely OVERKILL Pack item!",
-        "loc_text": "This is a Completely OVERKILL Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Completely OVERKILL Pack!",
         "string_id": "menu_l_global_value_complete_overkill_pack"
     },
     "menu_l_global_value_dbd_clan": {
         "base_text": "This is a Dead by Daylight community item!",
-        "loc_text": "This is a Dead by Daylight community item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Dead by Daylight community!",
         "string_id": "menu_l_global_value_dbd_clan"
     },
     "menu_l_global_value_dbd_deluxe": {
         "base_text": "This is a Dead by Daylight Deluxe Item!",
-        "loc_text": "This is a Dead by Daylight Deluxe Item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Dead by Daylight Deluxe!",
         "string_id": "menu_l_global_value_dbd_deluxe"
     },
     "menu_l_global_value_dragon": {
         "base_text": "This is a Yakuza Character Pack item!",
-        "loc_text": "This is a Yakuza Character Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Yakuza Character Pack!",
         "string_id": "menu_l_global_value_dragon"
     },
     "menu_l_global_value_e3_s15a": {
         "base_text": "This is an E3 2015 Secret Mask item!",
-        "loc_text": "This is an E3 2015 Secret Mask item!",
+        "loc_text": "This is an E3 2015 Secret Mask!",
         "string_id": "menu_l_global_value_e3_s15a"
     },
     "menu_l_global_value_e3_s15b": {
         "base_text": "This is an E3 2015 Secret Mask item!",
-        "loc_text": "This is an E3 2015 Secret Mask item!",
+        "loc_text": "This is an E3 2015 Secret Mask!",
         "string_id": "menu_l_global_value_e3_s15b"
     },
     "menu_l_global_value_e3_s15c": {
         "base_text": "This is an E3 2015 Secret Mask item!",
-        "loc_text": "This is an E3 2015 Secret Mask item!",
+        "loc_text": "This is an E3 2015 Secret Mask!",
         "string_id": "menu_l_global_value_e3_s15c"
     },
     "menu_l_global_value_e3_s15d": {
         "base_text": "This is an E3 2015 Secret Mask item!",
-        "loc_text": "This is an E3 2015 Secret Mask item!",
+        "loc_text": "This is an E3 2015 Secret Mask!",
         "string_id": "menu_l_global_value_e3_s15d"
     },
     "menu_l_global_value_ecp": {
         "base_text": "This is a h3h3 Character Pack item!",
-        "loc_text": "This is a h3h3 Character Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ h3h3 Character Pack!",
         "string_id": "menu_l_global_value_ecp"
     },
     "menu_l_global_value_eng": {
         "base_text": "This is an Enter the Gungeon item!",
-        "loc_text": "This is an Enter the Gungeon item!",
+        "loc_text": "This is an Enter the Gungeon!",
         "string_id": "menu_l_global_value_eng"
     },
     "menu_l_global_value_fdm": {
         "base_text": "This is an Aldstone's Heritage Event item!",
-        "loc_text": "This is an Aldstone's Heritage Event item!",
+        "loc_text": "This is an Aldstone's Heritage Event!",
         "string_id": "menu_l_global_value_fdm"
     },
     "menu_l_global_value_fex": {
         "base_text": "This is a Buluc's Mansion Heist Item!",
-        "loc_text": "This is a Buluc's Mansion Heist Item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Buluc's Mansion Heist!",
         "string_id": "menu_l_global_value_fex"
     },
     "menu_l_global_value_friend": {
         "base_text": "This is a Scarface Heist Pack item!",
-        "loc_text": "This is a Scarface Heist Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Scarface Heist Pack!",
         "string_id": "menu_l_global_value_friend"
     },
     "menu_l_global_value_gage_pack": {
         "base_text": "This is a Gage Weapon Pack #01 item!",
-        "loc_text": "This is a Gage Weapon Pack #01 item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Gage Weapon Pack #01!",
         "string_id": "menu_l_global_value_gage_pack"
     },
     "menu_l_global_value_gage_pack_assault": {
         "base_text": "This is a Gage Assault Pack item!",
-        "loc_text": "This is a Gage Assault Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Gage Assault Pack!",
         "string_id": "menu_l_global_value_gage_pack_assault"
     },
     "menu_l_global_value_gage_pack_historical": {
         "base_text": "This is a Gage Historical Pack item!",
-        "loc_text": "This is a Gage Historical Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Gage Historical Pack!",
         "string_id": "menu_l_global_value_gage_pack_historical"
     },
     "menu_l_global_value_gage_pack_jobs": {
         "base_text": "This is a Gage Mod Courier item!",
-        "loc_text": "This is a Gage Mod Courier item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Gage Mod Courier!",
         "string_id": "menu_l_global_value_gage_pack_jobs"
     },
     "menu_l_global_value_gage_pack_lmg": {
         "base_text": "This is a Gage Weapon Pack #02 item!",
-        "loc_text": "This is a Gage Weapon Pack #02 item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Gage Weapon Pack #02!",
         "string_id": "menu_l_global_value_gage_pack_lmg"
     },
     "menu_l_global_value_gage_pack_shotgun": {
         "base_text": "This is a Gage Shotgun Pack item!",
-        "loc_text": "This is a Gage Shotgun Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Gage Shotgun Pack!",
         "string_id": "menu_l_global_value_gage_pack_shotgun"
     },
     "menu_l_global_value_gage_pack_snp": {
         "base_text": "This is a Gage Sniper Pack item!",
-        "loc_text": "This is a Gage Sniper Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Gage Sniper Pack!",
         "string_id": "menu_l_global_value_gage_pack_snp"
     },
     "menu_l_global_value_goty_dlc_bundle_2014": {
         "base_text": "This is a GOTY Edition item!",
-        "loc_text": "This is a GOTY Edition item!",
+        "loc_text": "เป็นส่วนหนึ่งของ GOTY Edition!",
         "string_id": "menu_l_global_value_goty_dlc_bundle_2014"
     },
     "menu_l_global_value_goty_heist_bundle_2014": {
         "base_text": "This is a Heist Bundle item!",
-        "loc_text": "This is a Heist Bundle item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Heist Bundle!",
         "string_id": "menu_l_global_value_goty_heist_bundle_2014"
     },
     "menu_l_global_value_goty_weapon_bundle_2014": {
         "base_text": "This is a Weapon Bundle item!",
-        "loc_text": "This is a Weapon Bundle item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Weapon Bundle!",
         "string_id": "menu_l_global_value_goty_weapon_bundle_2014"
     },
     "menu_l_global_value_grv": {
         "base_text": "This is a Gage Russian Weapon Pack item!",
-        "loc_text": "This is a Gage Russian Weapon Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Gage Russian Weapon Pack!",
         "string_id": "menu_l_global_value_grv"
     },
     "menu_l_global_value_halloween": {
         "base_text": "This is a Halloween item!",
-        "loc_text": "This is a Halloween item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Halloween!",
         "string_id": "menu_l_global_value_halloween"
     },
     "menu_l_global_value_hl_miami": {
         "base_text": "This is a Hotline Miami DLC item!",
-        "loc_text": "This is a Hotline Miami DLC item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Hotline Miami DLC!",
         "string_id": "menu_l_global_value_hl_miami"
     },
     "menu_l_global_value_hlm2": {
         "base_text": "This is a Hotline Miami 2: Wrong Number item!",
-        "loc_text": "This is a Hotline Miami 2: Wrong Number item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Hotline Miami 2: Wrong Number!",
         "string_id": "menu_l_global_value_hlm2"
     },
     "menu_l_global_value_hlm2_deluxe": {
         "base_text": "This is a Hotline Miami 2: Wrong Number - Digital Special Edition item!",
-        "loc_text": "This is a Hotline Miami 2: Wrong Number - Digital Special Edition item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Hotline Miami 2: Wrong Number - Digital Special Edition!",
         "string_id": "menu_l_global_value_hlm2_deluxe"
     },
     "menu_l_global_value_hlm_game": {
@@ -11566,187 +11566,187 @@
     },
     "menu_l_global_value_hope_diamond": {
         "base_text": "This is a Diamond Heist item!",
-        "loc_text": "This is a Diamond Heist item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Diamond Heist!",
         "string_id": "menu_l_global_value_hope_diamond"
     },
     "menu_l_global_value_humble_pack2": {
         "base_text": "This is a Humble Mask Pack 2 item!",
-        "loc_text": "This is a Humble Mask Pack 2 item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Humble Mask Pack 2!",
         "string_id": "menu_l_global_value_humble_pack2"
     },
     "menu_l_global_value_humble_pack3": {
         "base_text": "This is a Humble Mask Pack 3 item!",
-        "loc_text": "This is a Humble Mask Pack 3 item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Humble Mask Pack 3!",
         "string_id": "menu_l_global_value_humble_pack3"
     },
     "menu_l_global_value_humble_pack4": {
         "base_text": "This is a Humble Mask Pack 4 item!",
-        "loc_text": "This is a Humble Mask Pack 4 item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Humble Mask Pack 4!",
         "string_id": "menu_l_global_value_humble_pack4"
     },
     "menu_l_global_value_inf": {
         "base_text": "This is an Infamous item!",
-        "loc_text": "This is an Infamous item!",
+        "loc_text": "This is an Infamous!",
         "string_id": "menu_l_global_value_inf"
     },
     "menu_l_global_value_infamous": {
         "base_text": "This is an infamous item!",
-        "loc_text": "This is an infamous item!",
+        "loc_text": "This is an infamous!",
         "string_id": "menu_l_global_value_infamous"
     },
     "menu_l_global_value_jigg": {
         "base_text": "This is a Humble Mask Pack 5 item!",
-        "loc_text": "This is a Humble Mask Pack 5 item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Humble Mask Pack 5!",
         "string_id": "menu_l_global_value_jigg"
     },
     "menu_l_global_value_joy": {
         "base_text": "This is a Joy Character Pack item!",
-        "loc_text": "This is a Joy Character Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Joy Character Pack!",
         "string_id": "menu_l_global_value_joy"
     },
     "menu_l_global_value_kenaz": {
         "base_text": "This is a Golden Grin Casino item!",
-        "loc_text": "This is a Golden Grin Casino item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Golden Grin Casino!",
         "string_id": "menu_l_global_value_kenaz"
     },
     "menu_l_global_value_mad": {
         "base_text": "This is a Hardcore Henry Heists item!",
-        "loc_text": "This is a Hardcore Henry Heists item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Hardcore Henry Heists!",
         "string_id": "menu_l_global_value_mad"
     },
     "menu_l_global_value_max": {
         "base_text": "This is a Sangres item!",
-        "loc_text": "This is a Sangres item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Sangres!",
         "string_id": "menu_l_global_value_max"
     },
     "menu_l_global_value_mbs": {
         "base_text": "This is a Tailor Pack 2 Item!",
-        "loc_text": "This is a Tailor Pack 2 Item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Tailor Pack 2!",
         "string_id": "menu_l_global_value_mbs"
     },
     "menu_l_global_value_mex": {
         "base_text": "This is a Border Crossing Heist item",
-        "loc_text": "This is a Border Crossing Heist item",
+        "loc_text": "เป็นส่วนหนึ่งของ Border Crossing Heist item",
         "string_id": "menu_l_global_value_mex"
     },
     "menu_l_global_value_mwm": {
         "base_text": "This is a Cartel Optics Mod Pack item",
-        "loc_text": "This is a Cartel Optics Mod Pack item",
+        "loc_text": "เป็นส่วนหนึ่งของ Cartel Optics Mod Pack item",
         "string_id": "menu_l_global_value_mwm"
     },
     "menu_l_global_value_mxw": {
         "base_text": "This is a Gunslinger Weapon Pack Item!",
-        "loc_text": "This is a Gunslinger Weapon Pack Item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Gunslinger Weapon Pack!",
         "string_id": "menu_l_global_value_mxw"
     },
     "menu_l_global_value_myh": {
         "base_text": "This is a Duke Character Pack item!",
-        "loc_text": "This is a Duke Character Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Duke Character Pack!",
         "string_id": "menu_l_global_value_myh"
     },
     "menu_l_global_value_ocp": {
         "base_text": "This is a Weapon Color Pack 3 item!",
-        "loc_text": "This is a Weapon Color Pack 3 item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Weapon Color Pack 3!",
         "string_id": "menu_l_global_value_ocp"
     },
     "menu_l_global_value_opera": {
         "base_text": "This is a Sydney Character Pack item!",
-        "loc_text": "This is a Sydney Character Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Sydney Character Pack!",
         "string_id": "menu_l_global_value_opera"
     },
     "menu_l_global_value_overkill_pack": {
         "base_text": "This is a OVERKILL Pack item!",
-        "loc_text": "This is a OVERKILL Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ OVERKILL Pack!",
         "string_id": "menu_l_global_value_overkill_pack"
     },
     "menu_l_global_value_pal": {
         "base_text": "This is a Wolf Pack item!",
-        "loc_text": "This is a Wolf Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Wolf Pack!",
         "string_id": "menu_l_global_value_pal"
     },
     "menu_l_global_value_pbm": {
         "base_text": "This is a Locke & Load item",
-        "loc_text": "This is a Locke & Load item",
+        "loc_text": "เป็นส่วนหนึ่งของ Locke & Load item",
         "string_id": "menu_l_global_value_pbm"
     },
     "menu_l_global_value_pd2_clan": {
         "base_text": "This is a community item!",
-        "loc_text": "This is a community item!",
+        "loc_text": "เป็นส่วนหนึ่งของ community!",
         "string_id": "menu_l_global_value_pd2_clan"
     },
     "menu_l_global_value_pdcon_2015": {
         "base_text": "This is a PAYDAYCON 2015 Secret Mask item!",
-        "loc_text": "This is a PAYDAYCON 2015 Secret Mask item!",
+        "loc_text": "เป็นส่วนหนึ่งของ PAYDAYCON 2015 Secret Mask!",
         "string_id": "menu_l_global_value_pdcon_2015"
     },
     "menu_l_global_value_peta": {
         "base_text": "This is a Goat Simulator item!",
-        "loc_text": "This is a Goat Simulator item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Goat Simulator!",
         "string_id": "menu_l_global_value_peta"
     },
     "menu_l_global_value_pgo": {
         "base_text": "This is a Tailor Pack 3 Item!",
-        "loc_text": "This is a Tailor Pack 3 Item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Tailor Pack 3!",
         "string_id": "menu_l_global_value_pgo"
     },
     "menu_l_global_value_pim": {
         "base_text": "This is a John Wick Weapon Pack item!",
-        "loc_text": "This is a John Wick Weapon Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ John Wick Weapon Pack!",
         "string_id": "menu_l_global_value_pim"
     },
     "menu_l_global_value_pn2": {
         "base_text": "This is a Search For Kento item!",
-        "loc_text": "This is a Search For Kento item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Search For Kento!",
         "string_id": "menu_l_global_value_pn2"
     },
     "menu_l_global_value_poetry_soundtrack": {
         "base_text": "This is a Poetry Jam item!",
-        "loc_text": "This is a Poetry Jam item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Poetry Jam!",
         "string_id": "menu_l_global_value_poetry_soundtrack"
     },
     "menu_l_global_value_preorder": {
         "base_text": "This is a Loot Bag item!",
-        "loc_text": "This is a Loot Bag item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Loot Bag!",
         "string_id": "menu_l_global_value_preorder"
     },
     "menu_l_global_value_raidww2_clan": {
         "base_text": "This is a RAID: World War II community item!",
-        "loc_text": "This is a RAID: World War II community item!",
+        "loc_text": "เป็นส่วนหนึ่งของ RAID: World War II community!",
         "string_id": "menu_l_global_value_raidww2_clan"
     },
     "menu_l_global_value_rvd": {
         "base_text": "This is a Reservoir Dogs item!",
-        "loc_text": "This is a Reservoir Dogs item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Reservoir Dogs!",
         "string_id": "menu_l_global_value_rvd"
     },
     "menu_l_global_value_sb18": {
         "base_text": "This is a Spring Break 2018 item!",
-        "loc_text": "This is a Spring Break 2018 item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Spring Break 2018!",
         "string_id": "menu_l_global_value_sb18"
     },
     "menu_l_global_value_sha": {
         "base_text": "This is a Shadow Warrior 2 item!",
-        "loc_text": "This is a Shadow Warrior 2 item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Shadow Warrior 2!",
         "string_id": "menu_l_global_value_sha"
     },
     "menu_l_global_value_shl": {
         "base_text": "This is a holdout item!",
-        "loc_text": "This is a holdout item!",
+        "loc_text": "เป็นส่วนหนึ่งของ holdout!",
         "string_id": "menu_l_global_value_shl"
     },
     "menu_l_global_value_spa": {
         "base_text": "This is a John Wick Heists item!",
-        "loc_text": "This is a John Wick Heists item!",
+        "loc_text": "เป็นส่วนหนึ่งของ John Wick Heists!",
         "string_id": "menu_l_global_value_spa"
     },
     "menu_l_global_value_speedrunners": {
         "base_text": "This is a Speedrunners Item!",
-        "loc_text": "This is a Speedrunners Item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Speedrunners!",
         "string_id": "menu_l_global_value_speedrunners"
     },
     "menu_l_global_value_steel": {
         "base_text": "This is a Gage Chivalry Pack item!",
-        "loc_text": "This is a Gage Chivalry Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Gage Chivalry Pack!",
         "string_id": "menu_l_global_value_steel"
     },
     "menu_l_global_value_sus": {
@@ -11756,82 +11756,82 @@
     },
     "menu_l_global_value_svc": {
         "base_text": "This is a Social Safe Item!",
-        "loc_text": "This is a Social Safe Item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Social Safe!",
         "string_id": "menu_l_global_value_svc"
     },
     "menu_l_global_value_swm": {
         "base_text": "This is a Sydney Swim item!",
-        "loc_text": "This is a Sydney Swim item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Sydney Swim!",
         "string_id": "menu_l_global_value_swm"
     },
     "menu_l_global_value_tango": {
         "base_text": "This is a Gage Spec Ops Pack item!",
-        "loc_text": "This is a Gage Spec Ops Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Gage Spec Ops Pack!",
         "string_id": "menu_l_global_value_tango"
     },
     "menu_l_global_value_the_bomb": {
         "base_text": "This is a The Bomb Heists item!",
-        "loc_text": "This is a The Bomb Heists item!",
+        "loc_text": "เป็นส่วนหนึ่งของ The Bomb Heists!",
         "string_id": "menu_l_global_value_the_bomb"
     },
     "menu_l_global_value_trd": {
         "base_text": "This is a Tailor Pack 1 item!",
-        "loc_text": "This is a Tailor Pack 1 item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Tailor Pack 1!",
         "string_id": "menu_l_global_value_trd"
     },
     "menu_l_global_value_turtles": {
         "base_text": "This is a Gage Ninja Pack item!",
-        "loc_text": "This is a Gage Ninja Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Gage Ninja Pack!",
         "string_id": "menu_l_global_value_turtles"
     },
     "menu_l_global_value_twitch_pack": {
         "base_text": "This is a Humble Mask Pack item!",
-        "loc_text": "This is a Humble Mask Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Humble Mask Pack!",
         "string_id": "menu_l_global_value_twitch_pack"
     },
     "menu_l_global_value_wcc": {
         "base_text": "This is a Weapon Color Pack 2 item!",
-        "loc_text": "This is a Weapon Color Pack 2 item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Weapon Color Pack 2!",
         "string_id": "menu_l_global_value_wcc"
     },
     "menu_l_global_value_wcc_s02": {
         "base_text": "This is a Leaf Color Item!",
-        "loc_text": "This is a Leaf Color Item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Leaf Color!",
         "string_id": "menu_l_global_value_wcc_s02"
     },
     "menu_l_global_value_wcs": {
         "base_text": "This is a Weapon Color Pack 1 item!",
-        "loc_text": "This is a Weapon Color Pack 1 item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Weapon Color Pack 1!",
         "string_id": "menu_l_global_value_wcs"
     },
     "menu_l_global_value_west": {
         "base_text": "This is a Western Weapon Pack Item!",
-        "loc_text": "This is a Western Weapon Pack Item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Western Weapon Pack!",
         "string_id": "menu_l_global_value_west"
     },
     "menu_l_global_value_wild": {
         "base_text": "This is a Biker Character Pack item!",
-        "loc_text": "This is a Biker Character Pack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Biker Character Pack!",
         "string_id": "menu_l_global_value_wild"
     },
     "menu_l_global_value_xmas": {
         "base_text": "This is a Xmas item!",
-        "loc_text": "This is a Xmas item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Xmas!",
         "string_id": "menu_l_global_value_xmas"
     },
     "menu_l_global_value_xmas_soundtrack": {
         "base_text": "This is a Xmas Soundtrack item!",
-        "loc_text": "This is a Xmas Soundtrack item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Xmas Soundtrack!",
         "string_id": "menu_l_global_value_xmas_soundtrack"
     },
     "menu_l_global_value_xmn": {
         "base_text": "This is a Christmas 2019 Update item!",
-        "loc_text": "This is a Christmas 2019 Update item!",
+        "loc_text": "เป็นส่วนหนึ่งของ Christmas 2019 Update!",
         "string_id": "menu_l_global_value_xmn"
     },
     "menu_l_infamous": {
         "base_text": "This is an infamous item!",
-        "loc_text": "This is an infamous item!",
+        "loc_text": "This is an infamous!",
         "string_id": "menu_l_infamous"
     },
     "menu_l_lootscreen": {
@@ -17786,7 +17786,7 @@
     },
     "menu_st_switch_skillset": {
         "base_text": "$BTN_SKILLSET; to switch skillset",
-        "loc_text": "$BTN_SKILLSET; เพื่อรีเซ็ตสกิลเซต",
+        "loc_text": "$BTN_SKILLSET; เพื่อเปลี่ยนเซตสกิล",
         "string_id": "menu_st_switch_skillset"
     },
     "menu_st_unlock_skill_switch": {
@@ -19051,12 +19051,12 @@
     },
     "skill_tree_reset_all_skills_button": {
         "base_text": "$BTN_RESET_ALL_SKILLS; Reset all trees",
-        "loc_text": "$BTN_RESET_ALL_SKILLS; เพื่อรีเซ็ตสกิลทุกสาย",
+        "loc_text": "$BTN_RESET_ALL_SKILLS; เพื่อรีเซตสกิลทุกสาย",
         "string_id": "skill_tree_reset_all_skills_button"
     },
     "skill_tree_reset_skills_button": {
         "base_text": "$BTN_RESET_SKILLS; Reset this tree",
-        "loc_text": "$BTN_RESET_SKILLS; รีเซ็ตสกิลสายนี้",
+        "loc_text": "$BTN_RESET_SKILLS; รีเซตสกิลสายนี้",
         "string_id": "skill_tree_reset_skills_button"
     },
     "skirmish_weekly_time_left": {
@@ -19196,7 +19196,7 @@
     },
     "st_menu_respec_tree": {
         "base_text": "Respec this skill tree",
-        "loc_text": "รีเซ็ตสกิลสายนี้ใหม่",
+        "loc_text": "รีเซตสกิลสายนี้ใหม่",
         "string_id": "st_menu_respec_tree"
     },
     "st_menu_skill_cost": {
@@ -19551,7 +19551,7 @@
     },
     "trophy_carshop_stealth_desc": {
         "base_text": "This is a homage to the discreet power of the ECM jammer. Not that you needed one, that time at the Car Shop.",
-        "loc_text": "This is a homage to the discreet power of the ECM jammer. Not that you needed one, that time at the Car Shop.",
+        "loc_text": "เป็นส่วนหนึ่งของ homage to the discreet power of the ECM jammer. Not that you needed one, that time at the Car Shop.",
         "string_id": "trophy_carshop_stealth_desc"
     },
     "trophy_carshop_stealth_objective": {
@@ -19696,7 +19696,7 @@
     },
     "trophy_dozer_helmet_desc": {
         "base_text": "This is a nice dozer helmet. Keep 'em flying.",
-        "loc_text": "This is a nice dozer helmet. Keep 'em flying.",
+        "loc_text": "เป็นส่วนหนึ่งของ nice dozer helmet. Keep 'em flying.",
         "string_id": "trophy_dozer_helmet_desc"
     },
     "trophy_dozer_helmet_objective": {
