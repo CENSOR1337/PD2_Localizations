@@ -5126,22 +5126,22 @@
     },
     "menu_chat_peer_cheated_invalid_character": {
         "base_text": "$name; cheated by using invalid character.",
-        "loc_text": "$name; cheated by using invalid character.",
+        "loc_text": "$name; โกงเกมโดยการใช้งานตัวละครที่ไม่ถูกต้อง",
         "string_id": "menu_chat_peer_cheated_invalid_character"
     },
     "menu_chat_peer_cheated_invalid_henchmen": {
         "base_text": "$name; cheated by using invalid crew loadout.",
-        "loc_text": "$name; cheated by using invalid crew loadout.",
+        "loc_text": "$name; โกงเกมโดยการใช้อุปกรณ์ที่ไม่ถูกต้อง",
         "string_id": "menu_chat_peer_cheated_invalid_henchmen"
     },
     "menu_chat_peer_cheated_invalid_job": {
         "base_text": "$name; cheated by creating invalid contract.",
-        "loc_text": "$name; cheated by creating invalid contract.",
+        "loc_text": "$name; โกงเกมโดยการสร้างงานจ้างที่ไม่ถูกต้อง",
         "string_id": "menu_chat_peer_cheated_invalid_job"
     },
     "menu_chat_peer_cheated_invalid_mask": {
         "base_text": "$name; cheated by using invalid mask.",
-        "loc_text": "$name; cheated by using invalid mask.",
+        "loc_text": "$name; โกงเกมโดยการใช้หน้ากากที่ไม่ถูกต้อง",
         "string_id": "menu_chat_peer_cheated_invalid_mask"
     },
     "menu_chat_peer_cheated_invalid_weapon": {
@@ -8866,7 +8866,7 @@
     },
     "menu_es_calculating_experience": {
         "base_text": "Calculating experience...",
-        "loc_text": "Calculating experience...",
+        "loc_text": "กำลังคำนวนค่าประสบการณ์...",
         "string_id": "menu_es_calculating_experience"
     },
     "menu_es_cash_job": {

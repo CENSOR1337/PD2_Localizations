@@ -16,22 +16,22 @@
     },
     "dialog_accept_changes": {
         "base_text": "Do you wish to keep these display settings? They will be reverted in $TIME;.",
-        "loc_text": "Do you wish to keep these display settings? They will be reverted in $TIME;.",
+        "loc_text": "คุณต้องการที่จะเก็บการตั้งค่านี้หรือไม่? จะถูกคืนค่าภายใน $TIME;",
         "string_id": "dialog_accept_changes"
     },
     "dialog_accept_changes_title": {
         "base_text": "CONFIRM CHANGE?",
-        "loc_text": "CONFIRM CHANGE?",
+        "loc_text": "ยืนยันการเปลี่ยนแปลง?",
         "string_id": "dialog_accept_changes_title"
     },
     "dialog_apply": {
         "base_text": "Apply",
-        "loc_text": "Apply",
+        "loc_text": "ใช้งาน",
         "string_id": "dialog_apply"
     },
     "dialog_are_you_sure_you_want_leave": {
         "base_text": "Are you sure you want to leave this lobby?",
-        "loc_text": "Are you sure you want to leave this lobby?",
+        "loc_text": "คุณต้องการที่จะออกจากล็อบบี้นี้ใช่หรือไม่?",
         "string_id": "dialog_are_you_sure_you_want_leave"
     },
     "dialog_are_you_sure_you_want_leave_cs": {
@@ -56,7 +56,7 @@
     },
     "dialog_are_you_sure_you_want_to_leave_game": {
         "base_text": "Are you sure you want to leave current game?",
-        "loc_text": "Are you sure you want to leave current game?",
+        "loc_text": "คุณต้องการที่จะออกจากเกมปัจจุบันใช่หรือไม่?",
         "string_id": "dialog_are_you_sure_you_want_to_leave_game"
     },
     "dialog_are_you_sure_you_want_to_leave_game_crime_spree": {
@@ -66,7 +66,7 @@
     },
     "dialog_are_you_sure_you_want_to_quit": {
         "base_text": "Are you sure you want to quit?",
-        "loc_text": "Are you sure you want to quit?",
+        "loc_text": "คุณต้องการที่จะออกจากเกมใช่หรือไม่?",
         "string_id": "dialog_are_you_sure_you_want_to_quit"
     },
     "dialog_ask_load_progress_backup_corrupt": {
@@ -86,7 +86,7 @@
     },
     "dialog_assets_buy_title": {
         "base_text": "Are you sure?",
-        "loc_text": "Are you sure?",
+        "loc_text": "คุณแน่ใจหรือไม่?",
         "string_id": "dialog_assets_buy_title"
     },
     "dialog_authentication_fail": {
@@ -116,7 +116,7 @@
     },
     "dialog_blackmarket_buy_weapon_slot": {
         "base_text": "Buying this will unlock one more weapon slot.$NL;$NL;This will cost you $money;.",
-        "loc_text": "Buying this will unlock one more weapon slot.$NL;$NL;This will cost you $money;.",
+        "loc_text": "Buying this will unlock one more weapon slot.$NL;$NL;จะมีค่าใช้จ่ายทั้งหมด $money;.",
         "string_id": "dialog_blackmarket_buy_weapon_slot"
     },
     "dialog_blackmarket_finalize_item": {
@@ -146,7 +146,7 @@
     },
     "dialog_blackmarket_mod_cost": {
         "base_text": "This will cost you $money;.",
-        "loc_text": "This will cost you $money;.",
+        "loc_text": "จะมีค่าใช้จ่ายทั้งหมด $money;.",
         "string_id": "dialog_blackmarket_mod_cost"
     },
     "dialog_blackmarket_mod_remove": {
@@ -161,17 +161,17 @@
     },
     "dialog_blackmarket_num_in_inventory": {
         "base_text": "You own $amount; $item; already.",
-        "loc_text": "You own $amount; $item; already.",
+        "loc_text": "คุณมี $item; อยู่เป็นจำนวน $amount; อยู่แล้ว",
         "string_id": "dialog_blackmarket_num_in_inventory"
     },
     "dialog_blackmarket_slot_item": {
         "base_text": "[SLOT $slot;] $item;",
-        "loc_text": "[SLOT $slot;] $item;",
+        "loc_text": "[ช่อง $slot;] $item;",
         "string_id": "dialog_blackmarket_slot_item"
     },
     "dialog_blackmarket_slot_item_sell": {
         "base_text": "If you sell this, you will be paid $money;.",
-        "loc_text": "If you sell this, you will be paid $money;.",
+        "loc_text": "ถ้าคุณขายสิ่งนี้คุณจะได้รับ $money;",
         "string_id": "dialog_blackmarket_slot_item_sell"
     },
     "dialog_blackmarket_slot_mask_remove": {
@@ -186,32 +186,32 @@
     },
     "dialog_bm_crafted_sell_title": {
         "base_text": "Are you sure?",
-        "loc_text": "Are you sure?",
+        "loc_text": "คุณแน่ใจหรือไม่?",
         "string_id": "dialog_bm_crafted_sell_title"
     },
     "dialog_bm_mask_assemble_title": {
         "base_text": "Are you sure?",
-        "loc_text": "Are you sure?",
+        "loc_text": "คุณแน่ใจหรือไม่?",
         "string_id": "dialog_bm_mask_assemble_title"
     },
     "dialog_bm_mask_custom_abort": {
         "base_text": "Are you sure?",
-        "loc_text": "Are you sure?",
+        "loc_text": "คุณแน่ใจหรือไม่?",
         "string_id": "dialog_bm_mask_custom_abort"
     },
     "dialog_bm_mask_custom_final_title": {
         "base_text": "Are you sure?",
-        "loc_text": "Are you sure?",
+        "loc_text": "คุณแน่ใจหรือไม่?",
         "string_id": "dialog_bm_mask_custom_final_title"
     },
     "dialog_bm_weapon_buy_title": {
         "base_text": "Are you sure?",
-        "loc_text": "Are you sure?",
+        "loc_text": "คุณแน่ใจหรือไม่?",
         "string_id": "dialog_bm_weapon_buy_title"
     },
     "dialog_bm_weapon_modify_title": {
         "base_text": "Are you sure?",
-        "loc_text": "Are you sure?",
+        "loc_text": "คุณแน่ใจหรือไม่?",
         "string_id": "dialog_bm_weapon_modify_title"
     },
     "dialog_can_become_infamous_desc": {
@@ -226,17 +226,17 @@
     },
     "dialog_cant_continue_cs_title": {
         "base_text": "This can not Continue",
-        "loc_text": "This can not Continue",
+        "loc_text": "ไม่สามารถดำเนินการต่อได้",
         "string_id": "dialog_cant_continue_cs_title"
     },
     "dialog_connection_to_host_lost": {
         "base_text": "Connection to the host has been lost",
-        "loc_text": "Connection to the host has been lost",
+        "loc_text": "หลุดการเชื่อมต่อจากเจ้าของห้อง",
         "string_id": "dialog_connection_to_host_lost"
     },
     "dialog_continue_cs_text": {
         "base_text": "Do you want to continue your Crime Spree?$NL;This will allow you to continue your Crime Spree from $level;$BTN_SPREE_TICKET; to gain Crime Spree Ranks and accumulate greater rewards.$NL;$NL;This will cost you $cost; Continental Coins.",
-        "loc_text": "Do you want to continue your Crime Spree?$NL;This will allow you to continue your Crime Spree from $level;$BTN_SPREE_TICKET; to gain Crime Spree Ranks and accumulate greater rewards.$NL;$NL;This will cost you $cost; Continental Coins.",
+        "loc_text": "Do you want to continue your Crime Spree?$NL;This will allow you to continue your Crime Spree from $level;$BTN_SPREE_TICKET; to gain Crime Spree Ranks and accumulate greater rewards.$NL;$NL;จะมีค่าใช้จ่ายทั้งหมด $cost; Continental Coins.",
         "string_id": "dialog_continue_cs_text"
     },
     "dialog_continue_cs_title": {
@@ -256,7 +256,7 @@
     },
     "dialog_cs_claim_rewards": {
         "base_text": "Claim Rewards",
-        "loc_text": "Claim Rewards",
+        "loc_text": "รับรางวัล",
         "string_id": "dialog_cs_claim_rewards"
     },
     "dialog_cs_claim_rewards_text": {
@@ -311,7 +311,7 @@
     },
     "dialog_dropin_title": {
         "base_text": "$USER; is joining the game",
-        "loc_text": "$USER; is joining the game",
+        "loc_text": "$USER; กำลังเข้าร่วมเกม",
         "string_id": "dialog_dropin_title"
     },
     "dialog_err_failed_creating_lobby": {
@@ -321,7 +321,7 @@
     },
     "dialog_err_failed_joining_lobby": {
         "base_text": "Failed joining game.",
-        "loc_text": "Failed joining game.",
+        "loc_text": "ไม่สามารถเข้าร่วมเกมได้",
         "string_id": "dialog_err_failed_joining_lobby"
     },
     "dialog_err_not_signed_in": {
@@ -336,7 +336,7 @@
     },
     "dialog_error_title": {
         "base_text": "Error",
-        "loc_text": "Error",
+        "loc_text": "ผิดพลาด",
         "string_id": "dialog_error_title"
     },
     "dialog_fail_load_progress_corrupt": {
@@ -356,12 +356,12 @@
     },
     "dialog_gage_assignment_completed_title": {
         "base_text": "YOU HAVE A NEW MESSAGE",
-        "loc_text": "YOU HAVE A NEW MESSAGE",
+        "loc_text": "คุณได้รับข้อความใหม่",
         "string_id": "dialog_gage_assignment_completed_title"
     },
     "dialog_game_started": {
         "base_text": "The game is currently not joinable",
-        "loc_text": "The game is currently not joinable",
+        "loc_text": "เกมนี้ไม่สามารถเข้าร่วมได้",
         "string_id": "dialog_game_started"
     },
     "dialog_infamous_info_desc": {
@@ -371,7 +371,7 @@
     },
     "dialog_information_title": {
         "base_text": "Information",
-        "loc_text": "Information",
+        "loc_text": "ข้อมูล",
         "string_id": "dialog_information_title"
     },
     "dialog_item_list_macro": {
@@ -386,12 +386,12 @@
     },
     "dialog_joining_lobby_title": {
         "base_text": "Joining game",
-        "loc_text": "Joining game",
+        "loc_text": "กำลังเข้าร่วมเกม",
         "string_id": "dialog_joining_lobby_title"
     },
     "dialog_mission_asset_buy": {
         "base_text": "$asset_desc;$NL;$NL;Cost: $cost;.",
-        "loc_text": "$asset_desc;$NL;$NL;Cost: $cost;.",
+        "loc_text": "$asset_desc;$NL;$NL;ค่าใช้จ่าย: $cost;.",
         "string_id": "dialog_mission_asset_buy"
     },
     "dialog_mp_kick_player_message": {
@@ -401,7 +401,7 @@
     },
     "dialog_mp_kick_player_title": {
         "base_text": "Kick player",
-        "loc_text": "Kick player",
+        "loc_text": "ขับไล่ผู้เล่น",
         "string_id": "dialog_mp_kick_player_title"
     },
     "dialog_mp_kicked_out_message": {
@@ -421,7 +421,7 @@
     },
     "dialog_mp_restart_level_title": {
         "base_text": "Restart",
-        "loc_text": "Restart",
+        "loc_text": "เริ่มเกมใหม่",
         "string_id": "dialog_mp_restart_level_title"
     },
     "dialog_mp_vote_restart_message": {
@@ -481,12 +481,12 @@
     },
     "dialog_skills_place_title": {
         "base_text": "Are you sure?",
-        "loc_text": "Are you sure?",
+        "loc_text": "คุณแน่ใจหรือไม่?",
         "string_id": "dialog_skills_place_title"
     },
     "dialog_skills_respec_title": {
         "base_text": "Are you sure?",
-        "loc_text": "Are you sure?",
+        "loc_text": "คุณแน่ใจหรือไม่?",
         "string_id": "dialog_skills_respec_title"
     },
     "dialog_telemetry_accept": {
@@ -531,7 +531,7 @@
     },
     "dialog_unlock_skill_switch_title": {
         "base_text": "Are you sure?",
-        "loc_text": "Are you sure?",
+        "loc_text": "คุณแน่ใจหรือไม่?",
         "string_id": "dialog_unlock_skill_switch_title"
     },
     "dialog_unsuspend": {
