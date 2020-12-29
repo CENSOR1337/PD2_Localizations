@@ -5396,7 +5396,7 @@
     },
     "bm_msk_jimmy_duct": {
         "base_text": "Jimmy",
-        "loc_text": "Jimmy",
+        "loc_text": "จิมมี่",
         "string_id": "bm_msk_jimmy_duct"
     },
     "bm_msk_jimmy_duct_desc": {
@@ -13706,7 +13706,7 @@
     },
     "heist_contact_jimmy": {
         "base_text": "Jimmy",
-        "loc_text": "Jimmy",
+        "loc_text": "จิมมี่",
         "string_id": "heist_contact_jimmy"
     },
     "menu_l_global_value_pdcon_2016": {

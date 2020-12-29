@@ -191,7 +191,7 @@
     },
     "cn_menu_num_players_online": {
         "base_text": "Crime.net/users_online: $amount;",
-        "loc_text": "คราม.เน็ต/จำนวนผู้ใช้ออนไลน์: $amount;",
+        "loc_text": "คราม.เน็ต/ออนไลน์: $amount;",
         "string_id": "cn_menu_num_players_online"
     },
     "cn_menu_shaw_title": {
@@ -201,7 +201,7 @@
     },
     "cn_menu_skirmish_contract_modifiers_header": {
         "base_text": "Modifiers:",
-        "loc_text": "Modifiers:",
+        "loc_text": "การปรับแต่ง:",
         "string_id": "cn_menu_skirmish_contract_modifiers_header"
     },
     "cn_menu_skirmish_contract_ransom_header": {
@@ -3731,17 +3731,17 @@
     },
     "menu_challenge_div_cat_daily": {
         "base_text": "Daily Job",
-        "loc_text": "Daily Job",
+        "loc_text": "งานประจำวัน",
         "string_id": "menu_challenge_div_cat_daily"
     },
     "menu_challenge_div_cat_monthly": {
         "base_text": "Monthly Job",
-        "loc_text": "Monthly Job",
+        "loc_text": "งานรายเดือน",
         "string_id": "menu_challenge_div_cat_monthly"
     },
     "menu_challenge_div_cat_raid_jobs": {
         "base_text": "Aldstone's Heritage",
-        "loc_text": "Aldstone's Heritage",
+        "loc_text": "ของสืบทอดอัลสโตน",
         "string_id": "menu_challenge_div_cat_raid_jobs"
     },
     "menu_challenge_div_cat_tango": {
@@ -3751,12 +3751,12 @@
     },
     "menu_challenge_div_cat_weekly": {
         "base_text": "Weekly Job",
-        "loc_text": "Weekly Job",
+        "loc_text": "งานรายสัปดาห์",
         "string_id": "menu_challenge_div_cat_weekly"
     },
     "menu_challenge_div_daily": {
         "base_text": "Daily Job",
-        "loc_text": "Daily Job",
+        "loc_text": "งานประจำวัน",
         "string_id": "menu_challenge_div_daily"
     },
     "menu_challenge_div_menu": {
@@ -3766,12 +3766,12 @@
     },
     "menu_challenge_div_monthly": {
         "base_text": "Monthly Job",
-        "loc_text": "Monthly Job",
+        "loc_text": "งานรายเดือน",
         "string_id": "menu_challenge_div_monthly"
     },
     "menu_challenge_div_weekly": {
         "base_text": "Weekly Job",
-        "loc_text": "Weekly Job",
+        "loc_text": "งานรายสัปดาห์",
         "string_id": "menu_challenge_div_weekly"
     },
     "menu_challenge_do_no_harm": {
@@ -4501,7 +4501,7 @@
     },
     "menu_challenge_objective_title": {
         "base_text": "Objective:",
-        "loc_text": "Objective:",
+        "loc_text": "เป้าหมาย:",
         "string_id": "menu_challenge_objective_title"
     },
     "menu_challenge_orange_4": {
@@ -4896,17 +4896,17 @@
     },
     "menu_challenge_title_daily": {
         "base_text": "Daily Job: $name;",
-        "loc_text": "Daily Job: $name;",
+        "loc_text": "งานประจำวัน : $name;",
         "string_id": "menu_challenge_title_daily"
     },
     "menu_challenge_title_monthly": {
         "base_text": "Monthly Job: $name;",
-        "loc_text": "Monthly Job: $name;",
+        "loc_text": "งานรายเดือน: $name;",
         "string_id": "menu_challenge_title_monthly"
     },
     "menu_challenge_title_weekly": {
         "base_text": "Weekly Job: $name;",
-        "loc_text": "Weekly Job: $name;",
+        "loc_text": "งานรายสัปดาห์: $name;",
         "string_id": "menu_challenge_title_weekly"
     },
     "menu_challenge_trophy_reward": {
@@ -5321,7 +5321,7 @@
     },
     "menu_cn_casino": {
         "base_text": "Offshore Payday",
-        "loc_text": "Offshore Payday",
+        "loc_text": "ออฟชอร์เพย์เดย์",
         "string_id": "menu_cn_casino"
     },
     "menu_cn_casino_pay_accept": {
@@ -5381,7 +5381,7 @@
     },
     "menu_cn_filters_sidebar": {
         "base_text": "Filters $btn;",
-        "loc_text": "Filters $btn;",
+        "loc_text": "การคัดกรอง $btn;",
         "string_id": "menu_cn_filters_sidebar"
     },
     "menu_cn_gage_assignment": {
@@ -5416,7 +5416,7 @@
     },
     "menu_cn_legend_hide": {
         "base_text": "$BTN_X; Hide legend",
-        "loc_text": "$BTN_X; Hide legend",
+        "loc_text": "$BTN_X; ซ่อนความหมาย",
         "string_id": "menu_cn_legend_hide"
     },
     "menu_cn_legend_host": {
@@ -5441,7 +5441,7 @@
     },
     "menu_cn_legend_show": {
         "base_text": "$BTN_X; Show legend",
-        "loc_text": "$BTN_X; Show legend",
+        "loc_text": "$BTN_X; แสดงความหมาย",
         "string_id": "menu_cn_legend_show"
     },
     "menu_cn_message_playing": {
@@ -5456,7 +5456,7 @@
     },
     "menu_cn_modifiers": {
         "base_text": "Modifiers:",
-        "loc_text": "Modifiers:",
+        "loc_text": "การปรับแต่ง:",
         "string_id": "menu_cn_modifiers"
     },
     "menu_cn_premium_buy": {
@@ -5521,7 +5521,7 @@
     },
     "menu_cn_short": {
         "base_text": "The Tutorial Heists",
-        "loc_text": "The Tutorial Heists",
+        "loc_text": "บทแนะนำการปล้น",
         "string_id": "menu_cn_short"
     },
     "menu_cn_shortcuts": {
@@ -5536,7 +5536,7 @@
     },
     "menu_cn_skirmish": {
         "base_text": "Holdout",
-        "loc_text": "Holdout",
+        "loc_text": "โฮลด์เอาท์",
         "string_id": "menu_cn_skirmish"
     },
     "menu_cn_story_missions": {
@@ -6021,12 +6021,12 @@
     },
     "menu_cs_daily_title": {
         "base_text": "Safe House Daily",
-        "loc_text": "Safe House Daily",
+        "loc_text": "เซฟเฮ้าส์ประจำวัน",
         "string_id": "menu_cs_daily_title"
     },
     "menu_cs_div_safehouse_daily": {
         "base_text": "Safe House Daily",
-        "loc_text": "Safe House Daily",
+        "loc_text": "เซฟเฮ้าส์ประจำวัน",
         "string_id": "menu_cs_div_safehouse_daily"
     },
     "menu_cs_enter_safehouse": {
@@ -11236,7 +11236,7 @@
     },
     "menu_kick_disabled": {
         "base_text": "Kick Disabled",
-        "loc_text": "Kick Disabled",
+        "loc_text": "ปิดระบบขับไล่",
         "string_id": "menu_kick_disabled"
     },
     "menu_kick_player": {
@@ -11251,7 +11251,7 @@
     },
     "menu_kick_server": {
         "base_text": "Host Kick",
-        "loc_text": "Host Kick",
+        "loc_text": "หัวหน้าห้องขับไล่",
         "string_id": "menu_kick_server"
     },
     "menu_kick_starter_beta": {
@@ -11266,7 +11266,7 @@
     },
     "menu_kick_vote": {
         "base_text": "Vote Kick",
-        "loc_text": "Vote Kick",
+        "loc_text": "โหวตขับไล่",
         "string_id": "menu_kick_vote"
     },
     "menu_kicking_allowed_filter": {
@@ -12531,7 +12531,7 @@
     },
     "menu_one_down": {
         "base_text": "One Down",
-        "loc_text": "One Down",
+        "loc_text": "วันดาวน์",
         "string_id": "menu_one_down"
     },
     "menu_oppressor_beta": {
@@ -16441,7 +16441,7 @@
     },
     "menu_private_game": {
         "base_text": "PRIVATE",
-        "loc_text": "PRIVATE",
+        "loc_text": "ส่วนตัว",
         "string_id": "menu_private_game"
     },
     "menu_pro_warning": {
@@ -16456,7 +16456,7 @@
     },
     "menu_public_game": {
         "base_text": "PUBLIC",
-        "loc_text": "PUBLIC",
+        "loc_text": "สาธารณะ",
         "string_id": "menu_public_game"
     },
     "menu_push_to_talk_toggle": {
@@ -16561,7 +16561,7 @@
     },
     "menu_raid_jobs": {
         "base_text": "Aldstone's Heritage Jobs",
-        "loc_text": "Aldstone's Heritage Jobs",
+        "loc_text": "ภารกิจของสืบทอดอัลสโตน",
         "string_id": "menu_raid_jobs"
     },
     "menu_random_skirmish_subtitle": {
@@ -16996,7 +16996,7 @@
     },
     "menu_side_jobs_title": {
         "base_text": "Side Jobs",
-        "loc_text": "Side Jobs",
+        "loc_text": "ภารกิจเพิ่มเติม",
         "string_id": "menu_side_jobs_title"
     },
     "menu_silence_expert_beta": {
@@ -17066,7 +17066,7 @@
     },
     "menu_skirmish_selected": {
         "base_text": "Holdout",
-        "loc_text": "Holdout",
+        "loc_text": "โฮลด์เอาท์",
         "string_id": "menu_skirmish_selected"
     },
     "menu_skirmish_selected_briefing": {
@@ -17416,7 +17416,7 @@
     },
     "menu_st_progress": {
         "base_text": "Progress: $progress;",
-        "loc_text": "Progress: $progress;",
+        "loc_text": "ความคืบหน้า: $progress;",
         "string_id": "menu_st_progress"
     },
     "menu_st_req_achievement_skill_switch": {
@@ -17776,7 +17776,7 @@
     },
     "menu_st_spec_xp_progress": {
         "base_text": "Progress",
-        "loc_text": "Progress",
+        "loc_text": "ความคืบหน้า",
         "string_id": "menu_st_spec_xp_progress"
     },
     "menu_st_suspended_points_skill_switch": {
@@ -17941,7 +17941,7 @@
     },
     "menu_steam_market_content_wwt_01": {
         "base_text": "Aldstone's Heritage",
-        "loc_text": "Aldstone's Heritage",
+        "loc_text": "ของสืบทอดอัลสโตน",
         "string_id": "menu_steam_market_content_wwt_01"
     },
     "menu_steam_market_inspect_title": {
@@ -18021,7 +18021,7 @@
     },
     "menu_tango": {
         "base_text": "Gage Spec Ops Missions",
-        "loc_text": "Gage Spec Ops Missions",
+        "loc_text": "ภารกิจ GAGE Spec Ops",
         "string_id": "menu_tango"
     },
     "menu_tango_1": {
@@ -18346,7 +18346,7 @@
     },
     "menu_toggle_friends_only": {
         "base_text": "Friends only",
-        "loc_text": "Friends only",
+        "loc_text": "เพื่อนเท่านั้น",
         "string_id": "menu_toggle_friends_only"
     },
     "menu_toggle_gpu_flush": {
@@ -18396,7 +18396,7 @@
     },
     "menu_toggle_one_down": {
         "base_text": "One Down",
-        "loc_text": "One Down",
+        "loc_text": "วันดาวน์",
         "string_id": "menu_toggle_one_down"
     },
     "menu_toggle_one_down_lobbies": {
@@ -18416,12 +18416,12 @@
     },
     "menu_toggle_server_state_lobby": {
         "base_text": "In lobby servers only ",
-        "loc_text": "In lobby servers only ",
+        "loc_text": "ในเซิร์ฟเวอร์เท่านั้น",
         "string_id": "menu_toggle_server_state_lobby"
     },
     "menu_toggle_toggle_new_servers_only": {
         "base_text": "New servers only ",
-        "loc_text": "New servers only ",
+        "loc_text": "เซิร์ฟเวอร์ใหม่เท่านั้น ",
         "string_id": "menu_toggle_toggle_new_servers_only"
     },
     "menu_toggle_workshop": {
@@ -18511,7 +18511,7 @@
     },
     "menu_unlock_progress": {
         "base_text": "Progress:",
-        "loc_text": "Progress:",
+        "loc_text": "ความคืบหน้า:",
         "string_id": "menu_unlock_progress"
     },
     "menu_unseen_strike_beta": {

@@ -456,7 +456,7 @@
     },
     "heist_contact_bain": {
         "base_text": "Bain",
-        "loc_text": "Bain",
+        "loc_text": "เบน",
         "string_id": "heist_contact_bain"
     },
     "heist_contact_bain_description": {
@@ -466,12 +466,12 @@
     },
     "heist_contact_classic": {
         "base_text": "Classics",
-        "loc_text": "Classics",
+        "loc_text": "คลาสสิก",
         "string_id": "heist_contact_classic"
     },
     "heist_contact_continental": {
         "base_text": "The Continental",
-        "loc_text": "The Continental",
+        "loc_text": "เดอะคอนติเนนทอล",
         "string_id": "heist_contact_continental"
     },
     "heist_contact_continental_description": {
@@ -481,12 +481,12 @@
     },
     "heist_contact_events": {
         "base_text": "Events",
-        "loc_text": "Events",
+        "loc_text": "อีเว้นท์",
         "string_id": "heist_contact_events"
     },
     "heist_contact_gage": {
         "base_text": "Gage ",
-        "loc_text": "Gage ",
+        "loc_text": "เกจ ",
         "string_id": "heist_contact_gage"
     },
     "heist_contact_gage_description": {
@@ -496,7 +496,7 @@
     },
     "heist_contact_hector": {
         "base_text": "Hector",
-        "loc_text": "Hector",
+        "loc_text": "เฮกเตอร์",
         "string_id": "heist_contact_hector"
     },
     "heist_contact_hector_description": {
@@ -516,7 +516,7 @@
     },
     "heist_contact_locke": {
         "base_text": "Locke",
-        "loc_text": "Locke",
+        "loc_text": "ล็อค",
         "string_id": "heist_contact_locke"
     },
     "heist_contact_locke_description": {
@@ -531,7 +531,7 @@
     },
     "heist_contact_the_butcher": {
         "base_text": "The Butcher",
-        "loc_text": "The Butcher",
+        "loc_text": "เดอะบุชเชอร์",
         "string_id": "heist_contact_the_butcher"
     },
     "heist_contact_the_butcher_description": {
@@ -541,7 +541,7 @@
     },
     "heist_contact_the_dentist": {
         "base_text": "The Dentist",
-        "loc_text": "The Dentist",
+        "loc_text": "ดิเด็นทิส",
         "string_id": "heist_contact_the_dentist"
     },
     "heist_contact_the_dentist_description": {
@@ -551,7 +551,7 @@
     },
     "heist_contact_the_elephant": {
         "base_text": "The Elephant",
-        "loc_text": "The Elephant",
+        "loc_text": "ดิเอเลเฟน",
         "string_id": "heist_contact_the_elephant"
     },
     "heist_contact_the_elephant_description": {
@@ -561,7 +561,7 @@
     },
     "heist_contact_vlad": {
         "base_text": "Vlad",
-        "loc_text": "Vlad",
+        "loc_text": "วลาด",
         "string_id": "heist_contact_vlad"
     },
     "heist_contact_vlad_description": {

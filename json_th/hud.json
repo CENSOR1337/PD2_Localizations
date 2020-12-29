@@ -15756,12 +15756,12 @@
     },
     "hud_instruct_finish_arrest": {
         "base_text": "$BTN_INTERACT; to get up",
-        "loc_text": "$BTN_INTERACT; to get up",
+        "loc_text": "กด $BTN_INTERACT; เพื่อลุกขึ้น",
         "string_id": "hud_instruct_finish_arrest"
     },
     "hud_instruct_mask_on": {
         "base_text": "Hold $BTN_USE_ITEM; to put on mask",
-        "loc_text": "Hold $BTN_USE_ITEM; to put on mask",
+        "loc_text": "กด $BTN_USE_ITEM; ค้างเพื่อใส่หน้ากาก",
         "string_id": "hud_instruct_mask_on"
     },
     "hud_instruct_throw_bag": {
@@ -18536,7 +18536,7 @@
     },
     "hud_objective_reminder": {
         "base_text": "Objective reminder:",
-        "loc_text": "Objective reminder:",
+        "loc_text": "การแจ้งเตือนเป้าหมาย:",
         "string_id": "hud_objective_reminder"
     },
     "hud_open_cas_briefcase": {
@@ -21181,12 +21181,12 @@
     },
     "mission_objective_activated": {
         "base_text": "OBJECTIVE ACTIVATED: ",
-        "loc_text": "OBJECTIVE ACTIVATED: ",
+        "loc_text": "เป้าหมาย: ",
         "string_id": "mission_objective_activated"
     },
     "mission_objective_updated": {
         "base_text": "OBJECTIVE UPDATED: ",
-        "loc_text": "สิ่งที่ต้องทำใหม่: ",
+        "loc_text": "อัปเดตเป้าหมาย: ",
         "string_id": "mission_objective_updated"
     },
     "mission_str_catch": {
