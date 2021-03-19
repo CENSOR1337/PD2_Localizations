@@ -5041,7 +5041,7 @@
     },
     "menu_challenge_xp_drop": {
         "base_text": "Experience",
-        "loc_text": "Experience",
+        "loc_text": "ค่าประสบการณ์",
         "string_id": "menu_challenge_xp_drop"
     },
     "menu_challenge_yeah_hes_a_gold_digger": {
@@ -8296,7 +8296,7 @@
     },
     "menu_difficulty_very_hard": {
         "base_text": "Very Hard",
-        "loc_text": "เอรี่ฮาร์ด",
+        "loc_text": "เวรี่ฮาร์ด",
         "string_id": "menu_difficulty_very_hard"
     },
     "menu_dire_need_beta": {
@@ -10456,12 +10456,12 @@
     },
     "menu_jukebox_random_heist_playlist": {
         "base_text": "Random from custom heist playlist",
-        "loc_text": "Random from custom heist playlist",
+        "loc_text": "สุ่มจากเพลย์ลิสต์งานจ้างแบบกำหนดเอง",
         "string_id": "menu_jukebox_random_heist_playlist"
     },
     "menu_jukebox_screen_alesso_payday": {
         "base_text": "Alesso: Payday",
-        "loc_text": "Alesso: Payday",
+        "loc_text": "อเลสโซ่: เพย์เดย์",
         "string_id": "menu_jukebox_screen_alesso_payday"
     },
     "menu_jukebox_screen_biting_elbows_bad_motherfucker": {
@@ -10836,7 +10836,7 @@
     },
     "menu_jukebox_server_choice": {
         "base_text": "Same as host",
-        "loc_text": "Same as host",
+        "loc_text": "เหมือนกับเจ้าของห้อง",
         "string_id": "menu_jukebox_server_choice"
     },
     "menu_jukebox_track_01": {
@@ -11231,7 +11231,7 @@
     },
     "menu_jukebox_your_choice": {
         "base_text": "Custom track:",
-        "loc_text": "Custom track:",
+        "loc_text": "ซาวด์แทร็กที่กำหนดเอง:",
         "string_id": "menu_jukebox_your_choice"
     },
     "menu_kick_disabled": {
@@ -16636,7 +16636,7 @@
     },
     "menu_restart_level": {
         "base_text": "Restart",
-        "loc_text": "Restart",
+        "loc_text": "เริ่มเกมใหม่",
         "string_id": "menu_restart_level"
     },
     "menu_resume_game": {
@@ -17081,7 +17081,7 @@
     },
     "menu_skirmish_success_end_screen": {
         "base_text": "You accepted the ransom offer at ##wave $wave;##.",
-        "loc_text": "You accepted the ransom offer at ##wave $wave;##.",
+        "loc_text": "คุณรับข้อตกลงของค่าไถ่ใน ##รอบที่ $wave;##",
         "string_id": "menu_skirmish_success_end_screen"
     },
     "menu_skirmish_wave_filter": {
@@ -20406,7 +20406,7 @@
     },
     "victory_stage_cash_summary_name_skirmish": {
         "base_text": "You accepted a ransom of $skirmish_cash; after assault wave $wave;.",
-        "loc_text": "You accepted a ransom of $skirmish_cash; after assault wave $wave;.",
+        "loc_text": "คุณตกลงรับข้อเสนอค่าไถ่เป็นจำนวนเงิน $skirmish_cash; หลังจากรอบที่ $wave;",
         "string_id": "victory_stage_cash_summary_name_skirmish"
     },
     "victory_stage_cash_summary_name_spending": {

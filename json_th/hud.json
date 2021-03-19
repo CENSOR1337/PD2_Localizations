@@ -2841,7 +2841,7 @@
     },
     "hud_carry_coke": {
         "base_text": "Coke",
-        "loc_text": "Coke",
+        "loc_text": "โค๊ก",
         "string_id": "hud_carry_coke"
     },
     "hud_carry_coke_pure": {
@@ -2986,7 +2986,7 @@
     },
     "hud_carry_gold": {
         "base_text": "Gold",
-        "loc_text": "Gold",
+        "loc_text": "ทอง",
         "string_id": "hud_carry_gold"
     },
     "hud_carry_grenades": {
@@ -3051,7 +3051,7 @@
     },
     "hud_carry_money": {
         "base_text": "Money",
-        "loc_text": "Money",
+        "loc_text": "เงิน",
         "string_id": "hud_carry_money"
     },
     "hud_carry_old_wine": {
@@ -3076,7 +3076,7 @@
     },
     "hud_carry_person": {
         "base_text": "Person",
-        "loc_text": "Person",
+        "loc_text": "บุคคล",
         "string_id": "hud_carry_person"
     },
     "hud_carry_pig": {
@@ -3136,7 +3136,7 @@
     },
     "hud_carry_special_person": {
         "base_text": "Person",
-        "loc_text": "Person",
+        "loc_text": "บุคคล",
         "string_id": "hud_carry_special_person"
     },
     "hud_carry_treasure": {
@@ -15906,7 +15906,7 @@
     },
     "hud_int_dispose_corpse": {
         "base_text": "Hold $BTN_INTERACT; to bag the corpse",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ bag the corpse",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเก็บศพใส่กระเป๋า",
         "string_id": "hud_int_dispose_corpse"
     },
     "hud_int_driving_drive": {
@@ -16011,7 +16011,7 @@
     },
     "hud_int_equipment_drill": {
         "base_text": "Hold $BTN_INTERACT; to use the drill",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ use the drill",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อติดตั้งเครื่องเจาะ",
         "string_id": "hud_int_equipment_drill"
     },
     "hud_int_equipment_drill_desc": {
@@ -16021,22 +16021,22 @@
     },
     "hud_int_equipment_drill_jammed": {
         "base_text": "Hold $BTN_INTERACT; to restart the drill",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ restart the drill",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเริ่มเครื่องเจาะใหม่",
         "string_id": "hud_int_equipment_drill_jammed"
     },
     "hud_int_equipment_drill_upgrade": {
         "base_text": "Hold $BTN_INTERACT; to upgrade the drill",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ upgrade the drill",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่ออัปเกรดเครื่องเจาะ",
         "string_id": "hud_int_equipment_drill_upgrade"
     },
     "hud_int_equipment_ecm_feedback": {
         "base_text": "Press $BTN_INTERACT; to turn on ECM feedback",
-        "loc_text": "กด $BTN_INTERACT; เพื่อ turn on ECM feedback",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเปิดใช้งานอีซีเอ็มฟีดแบค",
         "string_id": "hud_int_equipment_ecm_feedback"
     },
     "hud_int_equipment_fire_extinguisher": {
         "base_text": "Fire extinguisher",
-        "loc_text": "Fire extinguisher",
+        "loc_text": "เครื่องดับเพลิง",
         "string_id": "hud_int_equipment_fire_extinguisher"
     },
     "hud_int_equipment_hand": {
@@ -16066,7 +16066,7 @@
     },
     "hud_int_equipment_keycard": {
         "base_text": "Press $BTN_INTERACT; to use the keycard",
-        "loc_text": "กด $BTN_INTERACT; เพื่อ use the keycard",
+        "loc_text": "กด $BTN_INTERACT; เพื่อใช้งานคีย์การ์ด",
         "string_id": "hud_int_equipment_keycard"
     },
     "hud_int_equipment_lance": {
@@ -16466,7 +16466,7 @@
     },
     "hud_int_hold_close_crate": {
         "base_text": "Hold $BTN_INTERACT; to close shipping crate",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ close shipping crate",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อปิดกล่องสินค้า",
         "string_id": "hud_int_hold_close_crate"
     },
     "hud_int_hold_close_shutters": {
@@ -16486,7 +16486,7 @@
     },
     "hud_int_hold_crack_crate": {
         "base_text": "Hold $BTN_INTERACT; to open shipping crate",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ open shipping crate",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อเปิดกล่องสินค้า",
         "string_id": "hud_int_hold_crack_crate"
     },
     "hud_int_hold_cut": {
@@ -16501,12 +16501,12 @@
     },
     "hud_int_hold_cut_chains": {
         "base_text": "Hold $BTN_INTERACT; to use Bolt Cutter",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ use Bolt Cutter",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อใช้เครื่องตัด",
         "string_id": "hud_int_hold_cut_chains"
     },
     "hud_int_hold_cut_fence": {
         "base_text": "Hold $BTN_INTERACT; to cut the fence",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ cut the fence",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อตัดรั้ว",
         "string_id": "hud_int_hold_cut_fence"
     },
     "hud_int_hold_cut_tarp": {
@@ -17621,7 +17621,7 @@
     },
     "hud_int_open_panicroom": {
         "base_text": "Hold $BTN_INTERACT; to swipe the keycard",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ swipe the keycard",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อรูดคีย์การ์ด",
         "string_id": "hud_int_open_panicroom"
     },
     "hud_int_open_slash_close": {
@@ -18086,17 +18086,17 @@
     },
     "hud_int_take_confidential_folder": {
         "base_text": "Press $BTN_INTERACT; to take the intel",
-        "loc_text": "กด $BTN_INTERACT; เพื่อ take the intel",
+        "loc_text": "กด $BTN_INTERACT; เพื่อหยิบข้อมูล",
         "string_id": "hud_int_take_confidential_folder"
     },
     "hud_int_take_confidential_folder_event": {
         "base_text": "Hold $BTN_INTERACT; to take the address",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the address",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบที่อยู่",
         "string_id": "hud_int_take_confidential_folder_event"
     },
     "hud_int_take_confidential_folder_icc": {
         "base_text": "Hold $BTN_INTERACT; to take the folder",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take the folder",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบไฟล์",
         "string_id": "hud_int_take_confidential_folder_icc"
     },
     "hud_int_take_crowbar": {
@@ -18106,7 +18106,7 @@
     },
     "hud_int_take_diamonds_dah": {
         "base_text": "Hold $BTN_INTERACT; to take diamonds",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ take diamonds",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อหยิบดีไดมอนด์",
         "string_id": "hud_int_take_diamonds_dah"
     },
     "hud_int_take_envelope": {
@@ -18391,17 +18391,17 @@
     },
     "hud_int_turn_off": {
         "base_text": "Hold $BTN_INTERACT; to turn off",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ turn off",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อปิดใช้งาน",
         "string_id": "hud_int_turn_off"
     },
     "hud_int_type_in_password": {
         "base_text": "Hold $BTN_INTERACT; to type in password",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ type in password",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อใส่รหัสผ่าน",
         "string_id": "hud_int_type_in_password"
     },
     "hud_int_unlock_gate": {
         "base_text": "Hold $BTN_INTERACT; to unlock the gate",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อ unlock the gate",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อปลดล็อคประตู",
         "string_id": "hud_int_unlock_gate"
     },
     "hud_int_use_bridge": {
@@ -18496,12 +18496,12 @@
     },
     "hud_interact_sentry_gun_switch_fire_mode": {
         "base_text": "Press $BTN_INTERACT; to switch fire mode.$NL; $AMMO_LEFT;% ammo left.",
-        "loc_text": "กด $BTN_INTERACT; เพื่อ switch fire mode.$NL; $AMMO_LEFT;% ammo left.",
+        "loc_text": "กด $BTN_INTERACT; เพื่อเปลี่ยนโหมดยิง$NL;กระสุนเหลืออยู่ $AMMO_LEFT;%",
         "string_id": "hud_interact_sentry_gun_switch_fire_mode"
     },
     "hud_interact_take_fingerprint": {
         "base_text": "You need Tape",
-        "loc_text": "You need Tape",
+        "loc_text": "คุณต้องการเทป",
         "string_id": "hud_interact_take_fingerprint"
     },
     "hud_loot_secured": {
@@ -21096,7 +21096,7 @@
     },
     "loading_trivia_title": {
         "base_text": "PAYDAY Trivia",
-        "loc_text": "เกร็ด PAYDAY",
+        "loc_text": "เกร็ดเล็กน้อยกับเพยเดย์",
         "string_id": "loading_trivia_title"
     },
     "menu_asset_sah_cutter": {
@@ -21306,27 +21306,27 @@
     },
     "press_insert_keycard": {
         "base_text": "Press $BTN_INTERACT; to insert keycard",
-        "loc_text": "กด $BTN_INTERACT; เพื่อ insert keycard",
+        "loc_text": "กด $BTN_INTERACT; เพื่อใส่คีย์การ์ด",
         "string_id": "press_insert_keycard"
     },
     "prop_computer_gui_analyzing": {
         "base_text": "Analyzing",
-        "loc_text": "Analyzing",
+        "loc_text": "กำลังวิเคราะห์",
         "string_id": "prop_computer_gui_analyzing"
     },
     "prop_computer_gui_downloading": {
         "base_text": "Downloading",
-        "loc_text": "Downloading",
+        "loc_text": "กำลังดาวน์โหลด",
         "string_id": "prop_computer_gui_downloading"
     },
     "prop_computer_gui_hacking": {
         "base_text": "Hacking",
-        "loc_text": "Hacking",
+        "loc_text": "กำลังแฮ็ก",
         "string_id": "prop_computer_gui_hacking"
     },
     "prop_computer_gui_unlocking": {
         "base_text": "UNLOCKING",
-        "loc_text": "UNLOCKING",
+        "loc_text": "กำลังปลดล็อค",
         "string_id": "prop_computer_gui_unlocking"
     },
     "prop_security_lock_gui_done": {
@@ -21346,22 +21346,22 @@
     },
     "prop_timer_glass_cutter_gui_done": {
         "base_text": "CUTTING COMPLETED",
-        "loc_text": "CUTTING COMPLETED",
+        "loc_text": "การตัดเสร็จสิ้น",
         "string_id": "prop_timer_glass_cutter_gui_done"
     },
     "prop_timer_glass_cutter_gui_malfunction": {
         "base_text": "// CUTTER JAMMED //",
-        "loc_text": "// CUTTER JAMMED //",
+        "loc_text": "// เครื่องตัดหยุดทำงาน //",
         "string_id": "prop_timer_glass_cutter_gui_malfunction"
     },
     "prop_timer_glass_cutter_gui_start": {
         "base_text": "START THE CUTTER",
-        "loc_text": "START THE CUTTER",
+        "loc_text": "เริ่มเครื่องตัด",
         "string_id": "prop_timer_glass_cutter_gui_start"
     },
     "prop_timer_glass_cutter_gui_working": {
         "base_text": "CUTTING IN PROGRESS",
-        "loc_text": "CUTTING IN PROGRESS",
+        "loc_text": "เครื่องตัดกำลังทำงาน",
         "string_id": "prop_timer_glass_cutter_gui_working"
     },
     "prop_timer_gui_done": {
@@ -21371,7 +21371,7 @@
     },
     "prop_timer_gui_error": {
         "base_text": "// ERROR //",
-        "loc_text": "// ERROR //",
+        "loc_text": "// ผิดพลาด //",
         "string_id": "prop_timer_gui_error"
     },
     "prop_timer_gui_estimated_time": {
@@ -21401,12 +21401,12 @@
     },
     "prop_timer_hack_ipad_gui_done": {
         "base_text": "COMPLETED",
-        "loc_text": "เสร็จสิน",
+        "loc_text": "เสร็จสิ้น",
         "string_id": "prop_timer_hack_ipad_gui_done"
     },
     "prop_timer_hack_ipad_gui_malfunction": {
         "base_text": "// ERROR //",
-        "loc_text": "// ERROR //",
+        "loc_text": "// ผิดพลาด //",
         "string_id": "prop_timer_hack_ipad_gui_malfunction"
     },
     "prop_timer_hack_ipad_gui_start": {
@@ -21421,12 +21421,12 @@
     },
     "prop_timer_saw_gui_done": {
         "base_text": "SAWING COMPLETED",
-        "loc_text": "SAWING COMPLETED",
+        "loc_text": "การเลื่อยสำเร็จ",
         "string_id": "prop_timer_saw_gui_done"
     },
     "prop_timer_saw_gui_malfunction": {
         "base_text": "// SAW JAMMED //",
-        "loc_text": "// SAW JAMMED //",
+        "loc_text": "// เลื่อยหยุดทำงาน //",
         "string_id": "prop_timer_saw_gui_malfunction"
     },
     "prop_timer_saw_gui_start": {
@@ -21441,12 +21441,12 @@
     },
     "prop_timer_upload_gui_working": {
         "base_text": "UPLOADING...",
-        "loc_text": "UPLOADING...",
+        "loc_text": "กำลังอัพโหลด...",
         "string_id": "prop_timer_upload_gui_working"
     },
     "skill_stockholm_syndrome_trade": {
         "base_text": "Press jump to be released from custody",
-        "loc_text": "Press jump to be released from custody",
+        "loc_text": "สามารถถูกปล่อยตัวจากการจับกุมโดยกดปุ่มกระโดด",
         "string_id": "skill_stockholm_syndrome_trade"
     },
     "victory_best_accuracy": {

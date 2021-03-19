@@ -391,12 +391,12 @@
     },
     "debug_interact_hack_ipad": {
         "base_text": "Hold $BTN_INTERACT; to set up Device",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อวางอุปการณ์",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อติดตั้งอุปกรณ์",
         "string_id": "debug_interact_hack_ipad"
     },
     "debug_interact_hack_ipad_PS3": {
         "base_text": "Hold $BTN_INTERACT; to set up Device",
-        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อวางอุปการณ์",
+        "loc_text": "กด $BTN_INTERACT; ค้างเพื่อติดตั้งอุปกรณ์",
         "string_id": "debug_interact_hack_ipad_PS3"
     },
     "debug_interact_hack_ipad_jammed": {

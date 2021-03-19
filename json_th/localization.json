@@ -431,7 +431,7 @@
     },
     "dialog_no": {
         "base_text": "No",
-        "loc_text": "No",
+        "loc_text": "ไม่",
         "string_id": "dialog_no"
     },
     "dialog_ok": {
@@ -566,7 +566,7 @@
     },
     "dialog_warning_title": {
         "base_text": "Warning",
-        "loc_text": "Warning",
+        "loc_text": "คำเตือน",
         "string_id": "dialog_warning_title"
     },
     "dialog_xp_to_specialization": {
@@ -576,7 +576,7 @@
     },
     "dialog_yes": {
         "base_text": "Yes",
-        "loc_text": "Yes",
+        "loc_text": "ใช่",
         "string_id": "dialog_yes"
     },
     "legal_text": {
