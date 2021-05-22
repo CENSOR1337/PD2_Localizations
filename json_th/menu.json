@@ -2376,7 +2376,7 @@
     },
     "menu_bm_not_selected": {
         "base_text": "Not selected",
-        "loc_text": "Not selected",
+        "loc_text": "ไม่ได้เลือก",
         "string_id": "menu_bm_not_selected"
     },
     "menu_bm_total_cost": {
@@ -6881,32 +6881,32 @@
     },
     "menu_cs_select_modifier": {
         "base_text": "Select Modifier",
-        "loc_text": "Select Modifier",
+        "loc_text": "เลือกการปรับแต่ง",
         "string_id": "menu_cs_select_modifier"
     },
     "menu_cs_select_next_heist": {
         "base_text": "Select Next Heist",
-        "loc_text": "Select Next Heist",
+        "loc_text": "เลือกด่านปล้นต่อไป",
         "string_id": "menu_cs_select_next_heist"
     },
     "menu_cs_start": {
         "base_text": "Start the Heist",
-        "loc_text": "Start the Heist",
+        "loc_text": "เริ่มการปล้น",
         "string_id": "menu_cs_start"
     },
     "menu_cs_stop_spree": {
         "base_text": "Stop Crime Spree",
-        "loc_text": "Stop Crime Spree",
+        "loc_text": "หยุดครามสปรี",
         "string_id": "menu_cs_stop_spree"
     },
     "menu_cs_suspend_spree": {
         "base_text": "Suspend Crime Spree",
-        "loc_text": "Suspend Crime Spree",
+        "loc_text": "พักครามสปรี",
         "string_id": "menu_cs_suspend_spree"
     },
     "menu_cs_title_aldestone_room": {
         "base_text": "Aldstone's Room",
-        "loc_text": "Aldstone's Room",
+        "loc_text": "ห้องของอัลส์โตน",
         "string_id": "menu_cs_title_aldestone_room"
     },
     "menu_cs_title_bodhi": {
@@ -16871,7 +16871,7 @@
     },
     "menu_scavenging_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your ammo box pick up range is increased by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Every 6th enemy you kill will drop an extra ammo box.",
-        "loc_text": "เบสิค: ##$basic;##$NL;Your ammo box pick up range is increased by ##$multibasic;##.$NL;$NL;เอซ: ##$pro;##$NL;Every 6th enemy you kill will drop an extra ammo box.",
+        "loc_text": "เบสิค: ##$basic;##$NL;ระยะในการเก็บกระสุนเพิ่มขึ้น ##$multibasic;##$NL;$NL;เอซ: ##$pro;##$NL;การฆ่าศัตรูทุกๆ 6 ตัวจะทำการดรอปกล่องกระสุนเพิ่มอีก 1 กล่อง",
         "string_id": "menu_scavenging_beta_desc"
     },
     "menu_second_chances_beta": {
@@ -17016,7 +17016,7 @@
     },
     "menu_single_shot_ammo_return_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Getting ##$multibasic;## headshots in less than ##$multibasic2;## seconds will refund ##$multibasic3;## bullet to your used weapon. Can only be triggered by SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.$NL;$NL;ACE: ##$pro;##$NL;The amount of headshots required is reduced to ##$multipro;##.",
-        "loc_text": "เบสิค: ##$basic;##$NL;Getting ##$multibasic;## headshots in less than ##$multibasic2;## seconds will refund ##$multibasic3;## bullet to your used weapon. Can only be triggered by SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.$NL;$NL;เอซ: ##$pro;##$NL;The amount of headshots required is reduced to ##$multipro;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;ทำการยิงหัว ##$multibasic;## ครั้งภายในเวลา ##$multibasic2;## วินาทีจะทำการคืนกระสุนให้ ##$multibasic3;## นัด สามารถใช้งานได้กับอาวุธประเภท ปืนกลมือ, ไรเฟิลจู่โจมและสไนเปอร์ในโหมดยิงทีละนัด$NL;$NL;เอซ: ##$pro;##$NL;จำนวนครั้งในการยิงหัวจะถูกลดลงเหลือที่ ##$multipro;##",
         "string_id": "menu_single_shot_ammo_return_beta_desc"
     },
     "menu_skillpoints": {
@@ -17231,7 +17231,7 @@
     },
     "menu_sniper_graze_damage_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Snipers that hit their target deal ##$multibasic;## of the damage dealt in a ##$multibasic2;## radius around the bullet trajectory.$NL;$NL;ACE: ##$pro;##$NL;If a bullet would headshot-kill someone, the graze skill will deal ##$multipro;## of the weapon's damage instead of ##$multipro2;##.",
-        "loc_text": "เบสิค: ##$basic;##$NL;Snipers that hit their target deal ##$multibasic;## of the damage dealt in a ##$multibasic2;## radius around the bullet trajectory.$NL;$NL;เอซ: ##$pro;##$NL;If a bullet would headshot-kill someone, the graze skill will deal ##$multipro;## of the weapon's damage instead of ##$multipro2;##.",
+        "loc_text": "เบสิค: ##$basic;##$NL;สไนเปอร์จะทำความเสียหาย ##$multibasic;## ในระยะ ##$multibasic2;## ของจุดวิถีกระสุนปืน$NL;$NL;เอซ: ##$pro;##$NL;ถ้าสามารถฆ่าศัตรูโดยการยิงหัวได้จะทำความเสียหาย ##$multipro;## ของอาวุธจากเดิม ##$multipro2;##",
         "string_id": "menu_sniper_graze_damage_desc"
     },
     "menu_snp": {
@@ -17321,7 +17321,7 @@
     },
     "menu_speedy_reload_beta_desc": {
         "base_text": "BASIC:##$basic;##$NL;Increases your reload speed with SMGs, Assault Rifles and Sniper Rifles by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Any killing headshot will increase your reload speed by ##$multipro;## for ##$multipro2;## seconds. Can only be triggered by SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.",
-        "loc_text": "BASIC:##$basic;##$NL;Increases your reload speed with SMGs, Assault Rifles and Sniper Rifles by ##$multibasic;##.$NL;$NL;เอซ: ##$pro;##$NL;Any killing headshot will increase your reload speed by ##$multipro;## for ##$multipro2;## seconds. Can only be triggered by SMGs, Assault Rifles and Sniper Rifles fired in single shot fire mode.",
+        "loc_text": "เบสิค:##$basic;##$NL;เพิ่มความเร็วในการรีโหลดปืนกลมือ, ไรเฟิลจู่โจมและสไนเปอร์ ##$multibasic;##$NL;$NL;เอซ: ##$pro;##$NL;การฆ่าศัตรูด้วยการยิงหัวจะทำให้รีโหลดไวขึ้น ##$multipro;## เป็นเวลา ##$multipro2;## วินาที สามารถใช้งานได้กับประเภท ปืนกลมือ, ไรเฟิลจู่โจมและสไนเปอร์ในโหมดยิงทีละนัด",
         "string_id": "menu_speedy_reload_beta_desc"
     },
     "menu_spendable_skill_points": {

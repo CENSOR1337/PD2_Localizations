@@ -2631,7 +2631,7 @@
     },
     "bm_menu_chosen": {
         "base_text": "Selected",
-        "loc_text": "Selected",
+        "loc_text": "ถูกเลือกอยู่",
         "string_id": "bm_menu_chosen"
     },
     "bm_menu_color_a": {
@@ -2646,7 +2646,7 @@
     },
     "bm_menu_colors": {
         "base_text": "Color",
-        "loc_text": "Color",
+        "loc_text": "สี",
         "string_id": "bm_menu_colors"
     },
     "bm_menu_concealment": {
@@ -2846,7 +2846,7 @@
     },
     "bm_menu_item_unlocked": {
         "base_text": "Available",
-        "loc_text": "Available",
+        "loc_text": "ใช้งานได้",
         "string_id": "bm_menu_item_unlocked"
     },
     "bm_menu_laser_hue": {
@@ -3226,7 +3226,7 @@
     },
     "bm_menu_selected": {
         "base_text": "Selected",
-        "loc_text": "Selected",
+        "loc_text": "ถูกเลือกอยู่",
         "string_id": "bm_menu_selected"
     },
     "bm_menu_sight": {
