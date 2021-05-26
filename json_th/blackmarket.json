@@ -2841,7 +2841,7 @@
     },
     "bm_menu_item_locked": {
         "base_text": "Not available",
-        "loc_text": "Not available",
+        "loc_text": "ไม่พร้อมใช้งาน",
         "string_id": "bm_menu_item_locked"
     },
     "bm_menu_item_unlocked": {
@@ -2961,7 +2961,7 @@
     },
     "bm_menu_no_items": {
         "base_text": "Not available",
-        "loc_text": "Not available",
+        "loc_text": "ไม่พร้อมใช้งาน",
         "string_id": "bm_menu_no_items"
     },
     "bm_menu_no_mod": {

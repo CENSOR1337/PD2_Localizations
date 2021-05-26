@@ -5741,7 +5741,7 @@
     },
     "menu_controller_type": {
         "base_text": "Controls",
-        "loc_text": "Controls",
+        "loc_text": "การควบคุม",
         "string_id": "menu_controller_type"
     },
     "menu_controller_vehicle": {
@@ -5751,7 +5751,7 @@
     },
     "menu_controls": {
         "base_text": "CONTROLS",
-        "loc_text": "CONTROLS",
+        "loc_text": "การควบคุม",
         "string_id": "menu_controls"
     },
     "menu_controls_help": {
@@ -8186,7 +8186,7 @@
     },
     "menu_deckall_2_desc": {
         "base_text": "Increases your headshot damage by ##$multiperk;##.",
-        "loc_text": "Increases your headshot damage by ##$multiperk;##.",
+        "loc_text": "เพิ่มความเสียหายสำหรับการยิงหัว ##$multiperk;##",
         "string_id": "menu_deckall_2_desc"
     },
     "menu_deckall_4": {
@@ -8196,7 +8196,7 @@
     },
     "menu_deckall_4_desc": {
         "base_text": "You gain ##$multiperk;## increased concealment.$NL;$NL;When wearing armor, your movement speed is ##$multiperk2;## less affected.$NL;$NL;You gain ##$multiperk3;## more experience when you complete days and jobs.",
-        "loc_text": "You gain ##$multiperk;## increased concealment.$NL;$NL;When wearing armor, your movement speed is ##$multiperk2;## less affected.$NL;$NL;You gain ##$multiperk3;## more experience when you complete days and jobs.",
+        "loc_text": "คุณได้รับค่าปกปิดเพิ่มขึ้น ##$multiperk;##$NL;$NL;ถ้าหากคุณสวมใส่เกราะ$NL;โทษการลดความเร็วในการเคลื่อนที่จากเกราะจะถูกลดลง ##$multiperk2;##$NL;$NL;คุณจะได้รับค่าประสบการณ์เพิ่มขึ้นอีก ##$multiperk3;## เมื่อสำเสร็จงานจ้างหรือวันระหว่างงานจ้าง",
         "string_id": "menu_deckall_4_desc"
     },
     "menu_deckall_6": {
@@ -8206,7 +8206,7 @@
     },
     "menu_deckall_6_desc": {
         "base_text": "Unlocks an armor bag equipment for you to use. The armor bag can be used to change your armor during a heist.$NL;$NL;Increases your ammo pickup to ##$multiperk;## of the normal rate.",
-        "loc_text": "Unlocks an armor bag equipment for you to use. The armor bag can be used to change your armor during a heist.$NL;$NL;Increases your ammo pickup to ##$multiperk;## of the normal rate.",
+        "loc_text": "ปลดล็อคกระเป๋าเกราะให้ใช้งาน.กระเป๋าเกราะจะสามารถใช้งานเพื่อเปลี่ยนเกราะระหว่างถารกิจ.$NL;$NL;เพิ่มอัตราการหยิบกล่องกระสุน ##$multiperk;## จากอัตราปกติ.",
         "string_id": "menu_deckall_6_desc"
     },
     "menu_deckall_8": {
@@ -8216,7 +8216,7 @@
     },
     "menu_deckall_8_desc": {
         "base_text": "You do ##$multiperk;## more damage. Does not apply to melee damage, throwables, grenade launchers or rocket launchers.$NL;$NL;Increases your doctor bag interaction speed by ##$multiperk2;##.",
-        "loc_text": "You do ##$multiperk;## more damage. Does not apply to melee damage, throwables, grenade launchers or rocket launchers.$NL;$NL;Increases your doctor bag interaction speed by ##$multiperk2;##.",
+        "loc_text": "คุณทำความเสียหายมากขึ้น ##$multiperk;## ไม่ส่งผลกับอาวุธระยะประชิด, อาวุธขว้าง,ระเบิดหรือปืนยิงระเบิด$NL;$NL;เพิ่มความเร็วในการใช้งานกระเป๋าพยาบาล ##$multiperk2;##",
         "string_id": "menu_deckall_8_desc"
     },
     "menu_default": {
@@ -8231,7 +8231,7 @@
     },
     "menu_defense_up_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;The cost of deploying a sentry gun is reduced by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Your sentry guns gain a protective shield.",
-        "loc_text": "เบสิค: ##$basic;##$NL;The cost of deploying a sentry gun is reduced by ##$multibasic;##.$NL;$NL;เอซ: ##$pro;##$NL;Your sentry guns gain a protective shield.",
+        "loc_text": "เบสิค: ##$basic;##$NL;ใช้กระสุนในการติดตั้งป้อมปืนน้อยลง ##$multibasic;##$NL;$NL;เอซ: ##$pro;##$NL;ป้อมปืนของคุณจะติดเกราะป้องกัน",
         "string_id": "menu_defense_up_beta_desc"
     },
     "menu_description_bain": {
@@ -8311,7 +8311,7 @@
     },
     "menu_dist_filter": {
         "base_text": "DISTANCE FILTER",
-        "loc_text": "DISTANCE FILTER",
+        "loc_text": "ระยะของเซิร์ฟเวอร์",
         "string_id": "menu_dist_filter"
     },
     "menu_dist_filter_close": {
@@ -8761,7 +8761,7 @@
     },
     "menu_eco_sentry_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;The cost of deploying a sentry gun is reduced by ##$multibasic;##.$NL;$NL;ACE: ##$pro;##$NL;Your sentry guns gain ##$multipro;## increased health.",
-        "loc_text": "เบสิค: ##$basic;##$NL;The cost of deploying a sentry gun is reduced by ##$multibasic;##.$NL;$NL;เอซ: ##$pro;##$NL;Your sentry guns gain ##$multipro;## increased health.",
+        "loc_text": "เบสิค: ##$basic;##$NL;ใช้กระสุนในการติดตั้งป้อมปืนน้อยลง ##$multibasic;##$NL;$NL;เอซ: ##$pro;##$NL;ป้อมปืนของคุณจะทนทานขึ้น ##$multipro;##",
         "string_id": "menu_eco_sentry_beta_desc"
     },
     "menu_ecp": {
@@ -8816,7 +8816,7 @@
     },
     "menu_engineering_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You can now select a less noisy version of the sentry guns, making them much less likely to be targeted by enemies.$NL;$NL;ACE: ##$pro;##$NL;You can now toggle AP rounds on your sentry guns, lowering the rate of fire by ##$multipro;##, but increasing damage by ##$multipro2;## and allowing it to pierce through enemies and shields.",
-        "loc_text": "เบสิค: ##$basic;##$NL;You can now select a less noisy version of the sentry guns, making them much less likely to be targeted by enemies.$NL;$NL;เอซ: ##$pro;##$NL;You can now toggle AP rounds on your sentry guns, lowering the rate of fire by ##$multipro;##, but increasing damage by ##$multipro2;## and allowing it to pierce through enemies and shields.",
+        "loc_text": "เบสิค: ##$basic;##$NL;คุณสามารถเลือกใช้งานป้อมปืนมีที่เก็บเสียงได้แล้วและจะถูกตกเป็นเป้าหมายน้อยลง$NL;$NL;เอซ: ##$pro;##$NL;คุณสามารถเปลี่ยนโหมดยิงทีละนัดให้กับป้อมปืนได้$NL;และจะลดอัตรในการยิงลง ##$multipro;##แต่เพิ่มความเสียหายมากขึ้น ##$multipro2;## และจะยิงทะลุเกราะของศัตรูอีกด้วย",
         "string_id": "menu_engineering_beta_desc"
     },
     "menu_equilibrium_beta": {
@@ -9971,7 +9971,7 @@
     },
     "menu_jack_of_all_trades_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You deploy and interact with all deployables ##$multibasic;## faster.$NL;$NL;ACE: ##$pro;##$NL;You can now equip a secondary deployable to bring with you. If your deployable is equipped as a secondary deployable, you can only bring half of what you would bring if it was equipped as a primary deployable.$NL;$NL;Press $BTN_CHANGE_EQ; to toggle between deployables.",
-        "loc_text": "เบสิค: ##$basic;##$NL;You deploy and interact with all deployables ##$multibasic;## faster.$NL;$NL;เอซ: ##$pro;##$NL;You can now equip a secondary deployable to bring with you. If your deployable is equipped as a secondary deployable, you can only bring half of what you would bring if it was equipped as a primary deployable.$NL;$NL;Press $BTN_CHANGE_EQ; to toggle between deployables.",
+        "loc_text": "เบสิค: ##$basic;##$NL;คุณจะวางอุปกรณ์ทุกประเภทได้เร็วขึ้น ##$multibasic;##$NL;$NL;เอซ: ##$pro;##$NL;คุณสามารถเลือกอุปกรณ์สำรองได้อีกหนึ่งอย่าง$NL;ถ้าหากอุปกรณ์นั้นเป็นอุปกรณ์สำรองคุณจะสามารถนำไปได้แค่ครึ่งหนึ่งของตัวอุปกรณ์ทั้งหมดเท่านั้น$NL;$NL;กดปุ่ม $BTN_BOTTOM_L; เพื่อสลับการใช้งานอุปกรณ์.$NL;$NL;ปุ่มพื้นฐานคือปุ่ม [ X ]",
         "string_id": "menu_jack_of_all_trades_beta_desc"
     },
     "menu_jacket": {
@@ -10116,7 +10116,7 @@
     },
     "menu_job_id_filter": {
         "base_text": "Contract filter ",
-        "loc_text": "Contract filter ",
+        "loc_text": "งานจ้าง ",
         "string_id": "menu_job_id_filter"
     },
     "menu_job_overview": {
@@ -11271,7 +11271,7 @@
     },
     "menu_kicking_allowed_filter": {
         "base_text": "Kick filter",
-        "loc_text": "Kick filter",
+        "loc_text": "การขับไล่",
         "string_id": "menu_kicking_allowed_filter"
     },
     "menu_kicking_allowed_option": {
@@ -12056,32 +12056,32 @@
     },
     "menu_lobby_filters": {
         "base_text": "Public server filters ",
-        "loc_text": "Public server filters ",
+        "loc_text": "การกรองเซิร์ฟเวอร์",
         "string_id": "menu_lobby_filters"
     },
     "menu_lobby_menu_state_blackmarket": {
         "base_text": "In Inventory",
-        "loc_text": "In Inventory",
+        "loc_text": "ในช่องเก็บของ",
         "string_id": "menu_lobby_menu_state_blackmarket"
     },
     "menu_lobby_menu_state_blackmarket_mask": {
         "base_text": "Customizing mask",
-        "loc_text": "Customizing mask",
+        "loc_text": "ปรับแต่งหน้ากาก",
         "string_id": "menu_lobby_menu_state_blackmarket_mask"
     },
     "menu_lobby_menu_state_blackmarket_weapon": {
         "base_text": "Modifying weapon",
-        "loc_text": "Modifying weapon",
+        "loc_text": "ปรับแต่งอาวุธ",
         "string_id": "menu_lobby_menu_state_blackmarket_weapon"
     },
     "menu_lobby_menu_state_crimenet": {
         "base_text": "Browsing Crime.net",
-        "loc_text": "Browsing Crime.net",
+        "loc_text": "กำลังดู Crime.net",
         "string_id": "menu_lobby_menu_state_crimenet"
     },
     "menu_lobby_menu_state_custom_safehouse": {
         "base_text": "Upgrading safe house",
-        "loc_text": "Upgrading safe house",
+        "loc_text": "อัปเกรดเซฟเฮ้าส์",
         "string_id": "menu_lobby_menu_state_custom_safehouse"
     },
     "menu_lobby_menu_state_lobby": {
@@ -12096,7 +12096,7 @@
     },
     "menu_lobby_menu_state_payday": {
         "base_text": "In PAYDAY",
-        "loc_text": "In PAYDAY",
+        "loc_text": "ในหน้าเพย์เดย์",
         "string_id": "menu_lobby_menu_state_payday"
     },
     "menu_lobby_menu_state_skilltree": {
@@ -12111,7 +12111,7 @@
     },
     "menu_lobby_server_state_briefing": {
         "base_text": "IN BRIEFING",
-        "loc_text": "IN BRIEFING",
+        "loc_text": "วางแผน",
         "string_id": "menu_lobby_server_state_briefing"
     },
     "menu_lobby_server_state_in_game": {
@@ -12131,12 +12131,12 @@
     },
     "menu_lobby_server_title": {
         "base_text": "SERVER: ",
-        "loc_text": "SERVER: ",
+        "loc_text": "เซิร์ฟเวอร์: ",
         "string_id": "menu_lobby_server_title"
     },
     "menu_locked": {
         "base_text": "LOCKED",
-        "loc_text": "LOCKED",
+        "loc_text": "ล็อคอยู่",
         "string_id": "menu_locked"
     },
     "menu_main_menu": {
@@ -16896,7 +16896,7 @@
     },
     "menu_sentry_targeting_package_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;Your sentry guns gain a ##$multibasic;## increase in accuracy.$NL;$NL;ACE: ##$pro;##$NL;Your sentry guns rotation speed is increased by ##$multipro;##. Your sentry guns also have  ##$multipro2;## more ammunition.",
-        "loc_text": "เบสิค: ##$basic;##$NL;Your sentry guns gain a ##$multibasic;## increase in accuracy.$NL;$NL;เอซ: ##$pro;##$NL;Your sentry guns rotation speed is increased by ##$multipro;##. Your sentry guns also have  ##$multipro2;## more ammunition.",
+        "loc_text": "เบสิค: ##$basic;##$NL;ป้อมปืนของคุณจะยิงแม่นขึ้น ##$multibasic;##$NL;$NL;เอซ: ##$pro;##$NL;ป้อมปืนของคุณจะหันหน้าได้ไวขึ้น ##$multipro;## และจะมีกระสุนมากขึ้น ##$multipro2;##",
         "string_id": "menu_sentry_targeting_package_beta_desc"
     },
     "menu_set_default_controller": {
@@ -18286,7 +18286,7 @@
     },
     "menu_toggle_allow_safehouses": {
         "base_text": "Allow Safe houses",
-        "loc_text": "Allow Safe houses",
+        "loc_text": "อนุญาตเซฟเฮ้าส์",
         "string_id": "menu_toggle_allow_safehouses"
     },
     "menu_toggle_auto_kick": {
@@ -18381,7 +18381,7 @@
     },
     "menu_toggle_job_appropriate_lobby": {
         "base_text": "Level appropriate servers",
-        "loc_text": "Level appropriate servers",
+        "loc_text": "เซิร์ฟเวอร์ที่เหมาะสมกับเลเวล",
         "string_id": "menu_toggle_job_appropriate_lobby"
     },
     "menu_toggle_modded_players": {
@@ -18391,7 +18391,7 @@
     },
     "menu_toggle_mutated_lobby": {
         "base_text": "Allow Mutated Lobbies",
-        "loc_text": "Allow Mutated Lobbies",
+        "loc_text": "อนุญาตล็อบบี้มูเตเตอร์",
         "string_id": "menu_toggle_mutated_lobby"
     },
     "menu_toggle_one_down": {
@@ -18401,7 +18401,7 @@
     },
     "menu_toggle_one_down_lobbies": {
         "base_text": "Allow One Down lobbies",
-        "loc_text": "Allow One Down lobbies",
+        "loc_text": "อนุญาตล็อบบี้วันดาวน์",
         "string_id": "menu_toggle_one_down_lobbies"
     },
     "menu_toggle_player_huds": {
@@ -18446,7 +18446,7 @@
     },
     "menu_tower_defense_beta_desc": {
         "base_text": "BASIC: ##$basic;##$NL;You can now carry ##$multibasic;## extra sentry gun.$NL;$NL;ACE: ##$pro;##$NL;You can now carry an additional ##$multipro;## extra sentry guns.",
-        "loc_text": "เบสิค: ##$basic;##$NL;You can now carry ##$multibasic;## extra sentry gun.$NL;$NL;เอซ: ##$pro;##$NL;You can now carry an additional ##$multipro;## extra sentry guns.",
+        "loc_text": "เบสิค: ##$basic;##$NL;คุณสามารถพกป้อมปืมได้เพิ่มขึ้น ##$multibasic;##$NL;$NL;เอซ: ##$pro;##$NL;คุณสามารถพกป้อมปืนได้เพิ่มขึ้นอีก ##$multipro;##",
         "string_id": "menu_tower_defense_beta_desc"
     },
     "menu_tracked_achievements": {

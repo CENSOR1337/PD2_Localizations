@@ -111,7 +111,7 @@
     },
     "dialog_blackmarket_buy_item": {
         "base_text": "Do you really want to buy $item;?$NL;$NL;It will cost you $money;.$NL;$NL;$num_in_inventory;",
-        "loc_text": "Do you really want to buy $item;?$NL;$NL;It will cost you $money;.$NL;$NL;$num_in_inventory;",
+        "loc_text": "คุณต้องการที่จะซื้อ $item; ใช่หรือไม่?$NL;$NL;$NL;จะมีค่าใช้จ่าย $money;$NL;$NL;$num_in_inventory;",
         "string_id": "dialog_blackmarket_buy_item"
     },
     "dialog_blackmarket_buy_weapon_slot": {
@@ -126,22 +126,22 @@
     },
     "dialog_blackmarket_lost_mods_warning": {
         "base_text": "(Your removed modifications will be placed in the inventory)",
-        "loc_text": "(Your removed modifications will be placed in the inventory)",
+        "loc_text": "(การปรับแต่งที่ถูกลบจะถูกเรียกคืนเข้าช่องเก็บของ)",
         "string_id": "dialog_blackmarket_lost_mods_warning"
     },
     "dialog_blackmarket_mask_sell_mod_readded": {
         "base_text": "$mod; will return to your inventory.",
-        "loc_text": "$mod; will return to your inventory.",
+        "loc_text": "$mod; จะถูกเรียกคืนกลับช่องเก็บของ",
         "string_id": "dialog_blackmarket_mask_sell_mod_readded"
     },
     "dialog_blackmarket_mod_add": {
         "base_text": "You are about to add modification $mod; to your weapon.",
-        "loc_text": "You are about to add modification $mod; to your weapon.",
+        "loc_text": "คุณกำลังที่จะเพิ่มการปรับแต่ง $mod; ใหักับอาวุธของคุณ",
         "string_id": "dialog_blackmarket_mod_add"
     },
     "dialog_blackmarket_mod_conflict": {
         "base_text": "These modifications are not compatible and will be removed:$mods;",
-        "loc_text": "These modifications are not compatible and will be removed:$mods;",
+        "loc_text": "การปรับแต่งไม่สามารถเข้ากันได้กับ : $mods;",
         "string_id": "dialog_blackmarket_mod_conflict"
     },
     "dialog_blackmarket_mod_cost": {
@@ -151,17 +151,17 @@
     },
     "dialog_blackmarket_mod_remove": {
         "base_text": "You are about to remove modification $mod; from your weapon.",
-        "loc_text": "You are about to remove modification $mod; from your weapon.",
+        "loc_text": "คุณกำลังที่จะลบการปรับแต่ง $mod; ออกจากอาวุธของคุณ",
         "string_id": "dialog_blackmarket_mod_remove"
     },
     "dialog_blackmarket_mod_replace": {
         "base_text": "This will replace your current modification $mod;.",
-        "loc_text": "This will replace your current modification $mod;.",
+        "loc_text": "จะแทนที่การปรับแต่ง $mod;",
         "string_id": "dialog_blackmarket_mod_replace"
     },
     "dialog_blackmarket_num_in_inventory": {
         "base_text": "You own $amount; $item; already.",
-        "loc_text": "คุณมี $item; อยู่เป็นจำนวน $amount; อยู่แล้ว",
+        "loc_text": "คุณมี $item; อยู่แล้ว $amount; อัน",
         "string_id": "dialog_blackmarket_num_in_inventory"
     },
     "dialog_blackmarket_slot_item": {
